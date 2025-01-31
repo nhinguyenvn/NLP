@@ -1,0 +1,1929 @@
+   Contractual renegotiations and International investment
+   arbitration : a relational contract theory interpretation
+                     of investment treaties
+                                           Aikaterini Florou
+
+
+
+      To cite this version:
+    Aikaterini Florou. Contractual renegotiations and International investment arbitration : a relational
+    contract theory interpretation of investment treaties. Law. Institut d’études politiques de paris -
+    Sciences Po, 2017. English. �NNT : 2017IEPP0026�. �tel-03436527�
+
+
+
+
+                                   HAL Id: tel-03436527
+                 https://tel.archives-ouvertes.fr/tel-03436527
+                                      Submitted on 19 Nov 2021
+
+
+
+
+    HAL is a multi-disciplinary open access               L’archive ouverte pluridisciplinaire HAL, est
+archive for the deposit and dissemination of sci-     destinée au dépôt et à la diffusion de documents
+entific research documents, whether they are pub-     scientifiques de niveau recherche, publiés ou non,
+lished or not. The documents may come from            émanant des établissements d’enseignement et de
+teaching and research institutions in France or       recherche français ou étrangers, des laboratoires
+abroad, or from public or private research centers.   publics ou privés.
+
+
+                     Institut d'études politiques de Paris
+                ECOLE DOCTORALE DE SCIENCES PO
+                        Programme doctoral de droit
+
+
+                        Ecole de droit de Sciences Po
+
+
+  Renégociations contractuelles et arbitrage
+       international d'investissement
+    Une interprétation relationnelle de la théorie
+      des contrats des traités d’investissement
+                         Aikaterini Florou
+
+   Thèse dirigée par le Professeur Diego P. Fernández Arroyo, Sciences Po
+
+                           Grand Résumé en français
+
+
+                        Soutenance, 4 décembre 2017
+
+
+Jury :
+M. Chester Brown, Professor, University of Sydney
+
+M. Diego P. Fernandez Arroyo, Professeur titulaire, Sciences Po, HDR,
+Institut d’études politiques de Paris
+
+Mme Sophie Lemaire, Professeure des Universités, Université Paris Dauphine
+(rapporteure 1)
+
+M. Makane M. Mbengue, Associate Professor, Université de Genève
+(rapporteur 2)
+
+Mme Horatia Muir Watt, Professeure des Universités, Institut d’études
+politiques de Paris
+
+M. Attila Tanzi, Professore ordinario, Università di Bologna
+
+
+
+
+“Pour ceux qui, comme moi, ont la tendance à être éclectiques, il n’est pas
+nécessaire de s’engager exclusivement à une approche par rapport à une autre.
+Il s’agit plutôt de choisir l’approche qui convient le mieux aux problèmes à
+résoudre.”
+
+                                                       Oliver Williamson
+
+
+
+
+Peu de problèmes ont suscité plus de débats dans le domaine du droit international de
+l’investissement que la tension qui existe par définition entre engagement et flexibilité, c’est-
+à-dire entre le besoin de renégocier des contrats complexes à long terme entre un État et un
+investisseur étranger, et la force contraire de la stabilité de leur relation contractuelle. On
+trouve la pointe la plus fine de l’expression de ce compromis délicat dans les litiges naissant
+de la renégociation de contrats réglementaires, en particulier quand celle-ci est due aux
+difficultés auxquelles un État doit faire face en période de crise économique sévère.
+
+La crise de l’Argentine est un exemple parlant d’une telle « expérience naturelle », qui a
+donné lieu à plusieurs décisions arbitrales très différentes sur la question de la renégociation
+de contrats de concession. Dans un contexte d’opposition comme celui-là, le système de
+règlement des litiges entre État et investisseur est souvent la proie de toutes sortes
+d’extrêmes : il est loué par certains comme mécanisme international neutre de dépolitisation
+des litiges entre États et investisseurs étrangers (scénario des bons arbitres), vilipendé par
+d’autres pour être une machine favorisant l’usurpation de la responsabilité démocratique
+(scénario des mauvais arbitres), la position intermédiaire étant que les arbitres font de toute
+façon face à des dilemmes délicats qui les mettent dans la position difficile d’avoir à faire des
+choix de politiques ardus (scénario de la « triste vérité »).
+
+Aucun de ces extrêmes ne parvient à saisir l’essence et l’utilité de l’arbitrage international de
+l’investissement. Le règlement des litiges investisseur-État peut devenir un mécanisme utile
+de résolution « juste et équitable » de litiges internationaux d’investissement, mais cela ne
+pourra se faire que si le système remédie aux défauts institutionnels et interprétatifs qui sont
+les siens pour le moment. Dans ce contexte, plusieurs solutions ont été proposées à la fois
+d’un point de vue procédural (comme la création d’un tribunal d’investissement multilatéral)
+et d’un point de vue substantif (comme l’approche proposée par le droit public comparé pour
+l’interprétation des traités). La présente thèse porte sur les défauts du raisonnement juridique
+des tribunaux d’arbitrage qui les ont empêchés de se déployer pleinement en tant que
+mécanisme indépendant et dépolitisé de règlement des litiges.
+
+L’argument principal est que ce qui manque notamment dans le règlement des litiges entre
+État et investisseurs, et qui crée par conséquent un déséquilibre entre les droits des parties
+selon le droit international, donnant souvent lieu à ce qu’on appelle la « crise de légitimité »
+de l’arbitrage de l’investissement, c’est l’approche juridico-légaliste de l’interprétation des
+traités proposée par l’École de la « nouvelle économie institutionnelle », en particulier
+l’économie des coûts de transaction.
+
+À la différence de la plupart des mémoires de droit, le point de départ et la source
+d’inspiration de notre travail est un problème fondé entièrement sur l’économie et identifié
+par le biais d’une analyse économique du phénomène des renégociations contractuelles dans
+le secteur des concessions pour le développement de l’infrastructure énergétique. Cette
+analyse a permis de repérer le manque d’études dans les ouvrages juridiques de la façon dont
+les renégociations contractuelles sont traitées en droit international de l’investissement, en
+
+
+
+                                                                                               3
+
+
+particulier à l’étape finale, et tout à fait cruciale (à la fois en termes de dommages-intérêts et
+de réputation), du règlement des litiges entre investisseurs et États.
+
+Le but de la présente recherche est de combler cet espace entre droit et économie, ou entre
+« droit sur le papier » et « droit en action », en comblant le vide entre un problème clairement
+relatif à l’économie – la renégociation de contrats réglementaires – et les réponses (jusqu’à
+présent) différentes que les tribunaux ayant à régler des litiges relatifs aux traités
+d’investissement ont apportées à ce problème. Grâce à un cadre analytique original, associant
+l’économie des coûts de transaction et son correspondant en droit des contrats, la théorie des
+contrats relationnels, elle vise à guider les arbitres qui se trouvent face à des questions
+interprétatives épineuses quand ils doivent décider si la renégociation d’un contrat de
+concession constitue une violation du traité dans le cadre duquel ces contrats sont mis en
+œuvre.
+
+Cette thèse propose pour cela une « conception de la gouvernance » pour interpréter les
+traités d’investissement qui se concentre sur la plus litigieuse de leurs dispositions, la norme
+du « traitement juste et équitable », dans la situation où l’une des parties prétend que celle-ci
+a été violée lors de la renégociation d’un contrat de concession entre un État et un
+investisseur étranger. Expression empruntée à l’économie des coûts de transaction, la
+« conception de la gouvernance » implique que l’on associe avec discernement les
+transactions aux structures de gouvernance appropriées. Parce qu’il s’agit de « conception »,
+dans ce contexte, les parties suivantes qui traitent de la nature des contrats de concession, de
+l’interrelation entre le contrat sous-jacent et le traité principal, et de l’application des
+principes du contrat relationnel pour interpréter des traités d’investissement, sont
+interdépendantes. Cela signifie que c’est le caractère relationnel des contrats de concession
+sous-jacents qui dicte l’application des principes du contrat relationnel lors de l’interprétation
+des normes des traités principaux (en particulier le traitement juste et équitable (TJE)), quand
+elles sont prétendues avoir été violées à cause de la rupture du contrat (due à la renégociation
+de celui-ci).
+
+La mise en place de la conception interprétative appropriée mettant en relation le traité et le
+contrat sous-jacent a pour objectif d’économiser les coûts de transaction impliqués dans
+l’unité d’analyse concernée1. Les contrats de concession constituent cette unité d’analyse
+dans le présent travail, et l’argument soutenu ici est que l’arbitrage, en tant que gouvernance
+mondiale, a besoin d’être soumis à certaines disciplines structurelles afin de résoudre le
+problème des coûts de transaction qui prévalent dans ce type de transactions contractuelles, à
+savoir, les coûts de la « rationalité limitée » et de l’ « opportunisme ».
+
+La « rationalité limitée » et l’ « opportunisme » sont les deux hypothèses comportementales
+sur lesquelles l’analyse des coûts de transaction s’appuie et qui rendent plus réaliste l’étude
+
+1
+  Williamson, O. (1981), The Economics of Organization: The Transaction Cost Approach, American Journal of
+Sociology, 87 (3): 548, p. 548: “Economizing is accomplished by assigning transactions to governance
+structures in a discriminating way.” (« On réalise des économies en assignant avec discernement des
+transactions à des structures de gouvernance »).
+
+                                                                                                        4
+
+
+des transactions et de l’organisation de l’activité économique, reflétant ainsi la tradition du
+réalisme juridique. La « rationalité limitée » signifie que les acteurs humains sont décrits
+comme « ayant des intentions rationnelles, mais seulement de façon limitée »2. Comme le
+note Williamson, pour les besoins de l’économie des coûts de transaction, la conséquence
+essentielle de la rationalité limitée dans l’étude du contrat est que « tous les contrats
+complexes sont inévitablement incomplets »3.
+
+La rationalité limitée n’aurait pas empêché la passation importante de marchés si elle n’avait
+pas été associée à l’ « opportunisme ». À la différence du seul intérêt personnel que
+l’économie classique suppose, l’ « opportunisme » est la poursuite de l’intérêt personnel par
+la ruse (ce que l’on appelle dans la littérature sur l’assurance « sélection adverse » dans le cas
+de l’opportunisme ex ante et comme risque moral dans le cas d’un opportunisme se
+manifestant ex post)4.
+
+Ces deux hypothèses comportementales combinées résument le problème de l’organisation
+économique qui est de « concevoir des structures de contrat et de gouvernance dont le but et
+l’effet sont d’économiser sur la rationalité limitée tout en protégeant en même temps les
+transactions contre les risques d’opportunisme ». Le problème de la gestion de ces deux coûts
+de transaction est exacerbé par les échecs de la mise en œuvre de la concurrence dans le cas
+de monopoles naturels comme le secteur des infrastructures énergétiques. Même quand la
+concurrence « pour » le marché, par le biais d’appels d’offres, opère ex ante, la relation des
+parties subit une « transformation fondamentale » en devenant une condition de « dépendance
+bilatérale »5 une fois que la concession est accordée et que la force de discipline de la
+concurrence ne fonctionne plus.
+
+Appliquant la logique de l’économie des coûts de transaction décrite ci-dessus au droit
+international de l’investissement, cette thèse affirme que les contrats de concession entre les
+États et les investisseurs étrangers sont des contrats relationnels, et que, par conséquent,
+l’arbitrage de l’investissement international, en tant que forme de gouvernance, doit être
+adapté afin de correspondre aux caractéristiques de ces contrats et d’économiser sur la
+rationalité limitée et l’opportunisme des parties à la fois lors de la phase de litige relatif au
+traité et, par induction inverse, lors de la mise en œuvre de leur contrat.
+
+La caractéristique principale des contrats de concession, en tant qu’accords complexes, à long
+terme et relationnels, est leur besoin d’adaptation à mesure que les circonstances changent ou
+que d’autres informations deviennent disponibles. Dans ce contexte en constante évolution, la
+structure appropriée pour la gouvernance des contrats de concession, y compris le règlement
+de litiges qui en découlent, est une forme de « gouvernance adaptative » qui encourage
+
+
+2
+  Simon, H. (1957), Models of Man, John Wiley & Sons, New York, p. 24.
+3
+  Williamson, O. (2007), Transaction Cost Economics: An Introduction: www.economics-
+ejournal.org/economics/discussionpapers/2007-3/at_download/file, p. 9
+4
+  Williamson, O. (1985), The Economic Institutions of Capitalism, Firms, Markets, Relational Contracting, The
+Free Press, A Division of Macmillan, Inc., p. 47
+5
+  Id., p. xiii, 301
+
+                                                                                                           5
+
+
+l’alignement des avantages des parties et leur coopération à long terme, permettant de mettre
+en œuvre ces adaptations nécessaires.
+
+Dans ce domaine, le rôle de l’arbitrage, en tant que forme de gouvernance mondiale, est
+décisif car de lui dépend le succès des contrats de concession et le développement de
+l’économie de l’État hôte qui en découle. Un tel rôle demande, cependant, un changement
+dans le raisonnement juridique des arbitres et une organisation structurelle du système qui
+marquerait un glissement d’un mécanisme purement fondé sur l’opposition, accordant des
+dommages-intérêts aux investisseurs une fois que leur relation contractuelle avec l’État hôte
+est détruite, à un mécanisme plus large de gouvernance permettant que la relation des parties
+soit adaptée et sauvée plutôt que rompue.
+
+Comme nous l’avons mentionné plus haut, les litiges relatifs aux traités qui résultent de la
+renégociation des contrats de concession forment l’ « expérience naturelle » la meilleure pour
+la mise en place de cette structure de gouvernance inédite fondée sur la théorie du contrat
+relationnel et guidée par les buts de politique de l’économie des coûts de transaction. Cette
+thèse, qui conceptualise un cadre analytique pour l’interprétation de la norme du « traitement
+juste et équitable » (TJE), va plus loin en proposant également des mécanismes juridiques
+concrets, fonctionnant à l’intérieur du système existant, qui mettraient en œuvre cette
+nouvelle conception de la gouvernance pour l’interprétation des traités d’investissement.
+
+Pour cela, l’élaboration de la structure de gouvernance pour le règlement des litiges relatifs
+aux traités découlant de la renégociation des contrats de concession se fait de la façon
+suivante : le premier chapitre traite des « attributs des transactions », à savoir, des
+caractéristiques principales des contrats de concession et de l’importance des coûts de
+transaction de la rationalité limitée et de l’opportunisme qui résultent de leur mise en oeuvre.
+L’examen de ces caractéristiques amène à conclure que les contrats de concession sont des
+contrats complexes, à long terme, et relationnels, dont la mise en œuvre requiert l’élaboration
+d’une « gouvernance adaptative », dont une partie consiste en leur renégociation (souvent
+inévitable) car elle permet une adaptation aux changements de circonstances.
+
+Dans le deuxième chapitre on s’approche un peu plus du monde des traités dans le cadre
+desquels les contrats de concession sont accordés et mis en œuvre. L’argument, là, est que
+toute interprétation des traités d’investissement établissant leur « isolation aseptisée » des
+contrats sous-jacents ne fait que perpétuer l’inégalité d’armes entre les États et les
+investisseurs étrangers qui font appel à l’arbitrage. Les tribunaux d’arbitrage doivent au
+contraire prendre en compte les réalités contractuelles sous-jacentes quand ils interprètent la
+norme du traitement juste et équitable dans le cas où un investisseur prétend que la norme a
+été violée à cause d’une renégociation du contrat de concession sous-jacent.
+
+ En d’autres termes, ce ne sont pas seulement des traités d’investissement qui ont des
+conséquences sur les contrats d’investissement (en conduisant à leur internationalisation),
+mais l’influence est mutuelle : la nature relationnelle des contrats de concession contestés et
+le besoin qui s’ensuit de leur adaptation a (et devrait avoir) des conséquences sur la façon
+
+
+                                                                                              6
+
+
+dont les normes des traités d’investissement sont interprétées. En plus d’affirmer
+l’interconnexion entre le contrat et le traité, « comblant ainsi la séparation contrat-traité »6, le
+deuxième chapitre a également pour objectif de rendre opérationnelle cette interaction
+contrat-traité en identifiant des « points de contact » concrets entre les deux instruments.
+Parmi ces « points de contact » se trouvent la doctrine des « attentes légitimes », les
+« clauses-parapluies » et l’application des Principes UNIDROIT relatifs aux contrats du
+commerce international – instrument à l’origine destiné aux contrats commerciaux – pour
+l’adjudication des normes des traités.
+
+Une fois le lien entre contrat et traité établi, le troisième chapitre recentre l’attention sur les
+attributs des contrats de concession et sur les effets spécifiques qu’ils ont sur l’interprétation
+des normes des traités contestés, à savoir, le TJE. Pour cela, il commence par présenter des
+arguments en faveur de l’application de la théorie des contrats lors de l’interprétation des
+traités internationaux, et continue en affirmant que la théorie des contrats relationnels, en
+particulier, est le cadre interprétatif approprié pour les traités d’investissement, au moins pour
+les litiges découlant de la renégociation des contrats, relationnels, de concession.
+
+La théorie des contrats relationnels s’avère particulièrement prometteuse pour ce qui est
+d’apporter plus d’équilibre entre les intérêts publics et privés (souvent opposés), car elle a la
+capacité de servir les objectifs de politiques d’économie sur les coûts de transaction de la
+rationalité limitée et de l’opportunisme. Une telle économie favoriserait l’alignement des
+avantages des parties, les forçant par-là à coopérer afin de procéder aux adaptations
+nécessaires à leur relation contractuelle, au lieu de laisser le contrat être rompu et de faire
+appel à l’arbitrage pour l’attribution de dommages-intérêts (avec le risque qui en découle de
+faire de l’arbitrage un mécanisme d’assurance favorisant les risques moraux).
+
+Comme pour les chapitres précédents, le but du troisième chapitre est double : compléter
+l’argument normatif en faveur de l’application de la théorie des contrats relationnels pour
+l’interprétation des traités d’investissement, et s’appuyer sur la jurisprudence existante et sur
+les solutions juridiques que les tribunaux arbitraux ont apportées au problème des
+renégociations contractuelles et de la violation du TJE supposée en découler. L’examen, dans
+le quatrième chapitre, des décisions arbitrales résultant de la crise économique argentine
+montre la divergence dans le raisonnement juridique et les approches interprétatives des
+tribunaux quand ils résolvent la question de savoir si une renégociation contractuelle a violé
+un traité. Alors que certains tribunaux adoptent une approche rigide, textualiste, semblable au
+droit des contrats classique, d’autres adoptent un raisonnement plus proche des principes de
+la théorie des contrats relationnels mise en œuvre par les termes interprétatifs intermédiaires
+de « mutualité » et de « dynamisme ».
+
+La présentation de la conception de la gouvernance s’achève sur la proposition de certains
+ajouts nécessaires à l’interprétation, c’est-à-dire d’outils ayant trait à la preuve et à la
+nécessité de mettre à disposition du tribunal toute information disponible afin de permettre
+
+6
+  Sinclair, A. (2009), Bridging the Contract/Treaty Divide: Binder, C. et al. (Eds), International Investment Law
+for the 21st Century: Essays in Honour of Christoph Schreuer, Oxford Scholarship Online, p. 92
+
+                                                                                                               7
+
+
+une interprétation du TJE aussi éclairée que possible. Dans ce contexte, le cinquième chapitre
+souligne tout particulièrement le potentiel des conclusions défavorables et des règles de
+sanctions par défaut pour ce qui est de la révélation de l’information pertinente au tribunal et
+de sa vérifiabilité, et leur importance dans le lissage des asymétries d’information entre les
+parties qui force ainsi un meilleur alignement des avantages de ces dernières.
+
+Dans le droit fil des chapitres précédents, le cinquième chapitre considère également la
+preuve selon l’approche normative et selon l’approche du droit positif, en examinant
+l’utilisation réelle des conclusions défavorables par les tribunaux d’arbitrage, et en élaborant
+des règles de sanctions par défaut afin de forcer la révélation de preuves. Enfin, ce chapitre
+explore aussi le rôle que la médiation pourrait avoir dans la réforme du système actuel de
+règlement des litiges entre États et investisseurs, en particulier l’utilisation de la médiation
+comme mécanisme de conduite d’un processus de renégociation dépolitisé, juste et équitable,
+qui permettrait de rassembler les preuves et de les mettre par la suite à disposition du tribunal
+d’arbitrage jugeant la compatibilité d’un tel processus avec le traité.
+
+Avant de nous intéresser à l’élaboration de la « conception de la gouvernance » mentionnée
+ci-dessus pour la mise en œuvre du TJE, il est utile de dépeindre l’arrière-plan d’une telle
+gouvernance, à savoir, l’équilibre complexe entre intérêts privés et publics que les contrats de
+concession, en tant que partenariats publics-privés, visent à réaliser. Il est tout aussi pertinent
+d’expliquer pourquoi cette thèse est particulièrement originale et d’actualité, car elle met en
+avant un raisonnement juridique dont les tribunaux d’arbitrage ont besoin depuis longtemps
+pour évaluer la norme très litigieuse du TJE et établit ainsi un nouveau cadre pour l’équilibre
+entre public et privé dans l’arbitrage international de l’investissement.
+
+L’actualité et l’utilité des partenariats publics-privés dans les infrastructures sont
+indiscutables, ainsi que l’ont démontré, entre autres, les crises récentes que même des États
+dont l’économie était avancée ont subies, et qui font qu’il est particulièrement difficile pour
+l’État d’assumer le rôle de financier exclusif d’investissement vitaux pour le développement
+de ses infrastructures énergétiques. Les exemples de participation privée aux services publics
+et de l’importance de l’arbitrage dans les litiges qui en résultent sont trop nombreux pour
+qu’on les cite tous, mais celui de l’Égypte qui a récemment essayé de développer son secteur
+des énergies renouvelables, et les difficultés financières que le gouvernement a rencontrées
+en essayant d’exclure le recours à l’arbitrage international des termes des contrats proposés
+pour la convention d’achat d’électricité, en est une bonne illustration7. En outre, le modèle de
+délégation publique par le biais d’un contrat de concession reste tout aussi valable, comme le
+démontre, par exemple, l’établissement d’accords de concession pour le développement
+d’infrastructures énergétiques des pays du « Partenariat oriental »8.
+
+
+
+7
+  www.iarbafrica.com/news-list/201-egypt-includes-mandatory-arbitration-in-cairo-in-ppa-agreements;
+www.thenational.ae/business/energy/egypts-renewable-energy-sector-faces-delay-to-funding. Voir également
+http://globalarbitrationreview.com/chapter/1145229/construction-arbitration-and-concession-contracts
+8
+  https://ec.europa.eu/energy/sites/ener/files/documents/agenda_17th_mtg_eap_platform_3_23june_2017_final.p
+df
+
+                                                                                                         8
+
+
+Cela fait longtemps que la distinction entre les domaines publics et privés s’est révélée très
+artificielle. Le mouvement néolibéral 9, souvent appelé « Consensus de Washington », a
+marqué les privatisations massives des années 1990 et a attribué un nouveau rôle de gestion à
+l’État, signalant ainsi la transition d’une ère du « gouvernement » à celle de la
+« gouvernance ».
+
+Le modèle de « gouvernance » de l’État dénote un réseau de relations entre des acteurs
+publics et privés qui négocient des processus d’élaboration des politiques et leur exécution10.
+Dans ce nouveau plan de « gestion publique », on passe de l’administration publique
+traditionnelle et réglementaire fondée sur la contrainte11 à une gestion publique décentralisée
+et à un recours réduit à la concurrence et aux forces du marché dans la prestation de services
+publics12.
+
+Une manifestation caractéristique de ce nouveau modèle de gouvernance du secteur public
+est la formation de « partenariats public-privé ». Ainsi que l’indique cette expression, les
+partenariats public-privé (ici PPP), sont à l’intersection du public et du privé, et requièrent
+une collaboration continue des deux sphères cherchant à atteindre un but commun. Connus
+également sous le nom de privatisation partielle 13, les PPP sont une structure de gouvernance
+de prestation répandue dans le domaine des infrastructures publiques ou des services publics,
+mais également une forme organisationnelle hybride qui présente des défis différents de ceux
+que pose par la relation stable entre l’État et son partenaire privé. Les PPP dans le
+développement des infrastructures14, en particulier dans le secteur de l’énergie et de la
+prestation de biens publiques de base pour la population d’un pays, sont au centre de
+l’analyse.
+
+La présente thèse porte sur l’évaluation des renégociations contractuelles par les tribunaux
+d’arbitrage statuant sur une revendication relative à un traité, à savoir la revendication que la
+norme du « traitement juste et équitable » a été violée du fait de la renégociation d’un contrat
+de concession entre l’État hôte et l’investisseur étranger. L’argument principal sur lequel elle
+se fonde est que, malgré l’internationalisation de ces contrats (couverts par des traités
+
+9
+   Le terme de « néolibéralisme » est employé ici dans un sens descriptif, sans connotation, péjorative ou autre,
+comme c'est parfois le cas. Les autres termes sont ceux de « réformes des marchés », de « politiques d'économie
+de marché », de « monétarisme » ou de « libéralisme économique ». Voir French, J.D. & Lymburner, M.,
+(2012), Neoliberalism, Oxford Bibliographies
+10
+   Freeman, J., (2000), The Private Role in Public Governance, New York University Law Review, 75(3): 543
+11
+    Lobel, O., (2005), The Renew Deal: The Fall of Regulation and the Rise of Governance in Contemporary
+Legal Thought, Minnesota Law Review, 89: 342, p. 300
+12
+    Larbi, G., (1999), The New Public Management Approach and Crisis States: site internet de l'Institut de
+recherche           des         Nations         Unies         pour          le       développement           social:
+http://www.unrisd.org/80256B3C005BCCF9/(httpAuxPages)/5F280B19C6125F4380256B6600448FDB/$file/d
+p112.pdf
+13
+    La privatisation partielle consiste en la délégation de l'activité de production au secteur privé, alors que le
+gouvernement conserve la responsabilité de la réalisation de la fonction publique correspondante. Savas, E.S.,
+(2005), Privatization in the City: Successes, Failures, Lessons, Washington, DC: CQ Press, p. 17.
+14
+    Les secteurs de l'économie faisant traditionnellement partie du domaine des infrastructures sont l'eau et les
+équipements sanitaires, l'énergie, les télécommunications et les transports. Voir Sawant, R.J., (2010),
+Infrastructure Investing: Managing Risks and Rewards for Pensions, Insurance Companies & Endowments,
+New Jersey: Jon Wiley & Sons, Inc.
+
+                                                                                                                  9
+
+
+internationaux d’investissement), la façon dont leur renégociation est jugée est inégale pour
+les parties tant du point de vue du droit international que de la réalisation d’une répartition
+équitable et transparente de la renégociation du surplus entre celles-ci.
+
+Plus précisément, malgré la nature de ces contrats qui sont des accords internationaux, et de
+l’importance cruciale de la renégociation comme mécanisme favorisant leur gouvernance à
+long terme et leur succès, le droit international reste muet sur la question du processus de
+renégociation dans son ensemble et sur la question de la facilitation de l’adaptation de la
+relation contractuelle et de la réalisation d’un équilibre juste entre les intérêts publics et
+privés.
+
+Le besoin d’un équilibre constant entre les différents intérêts de l’État hôte et de
+l’investisseur étranger est particulièrement important dans le cas des PPP. Les PPP sont une
+forme de privatisation partielle, ce qui veut dire que le cordon ombilical entre gouvernement
+et entreprise n’a pas été coupé. Malgré certaines différences de types, les PPP dans le
+domaine des infrastructures énergétiques ont des caractéristiques communes, qui sont la
+relation à long terme entre l’État et l’investisseur, une approche globale du coût du projet, et
+la répartition et le partage des risques entre les deux partenaires 15.
+
+À la différence de la privatisation complète, par laquelle la propriété des actifs de l’État est
+transférée au secteur privé, la privatisation partielle est une forme de privatisation par
+délégation. Dans ce type de participation privée aux infrastructures, le gouvernement garde la
+propriété des actifs tout autant que la responsabilité et l’imputabilité en dernière instance de
+la prestation de service public ainsi que la surveillance de son fonctionnement 16.
+L’investisseur privé, quant à lui, assume des responsabilités opérationnelles, de financement
+et d’investissement importantes, ainsi (au moins partiellement) que le risque commercial de
+la prestation de service.
+
+Cette répartition délicate des risques et des responsabilités engendre une interdépendance
+continue des deux partenaires, ce qui ouvre la porte à tout un ensemble complexe de
+problèmes, en particulier le risque d’un mauvais alignement à long terme des avantages et des
+intérêts des deux parties, ou à leur collusion possible au détriment des consommateurs et des
+contribuables 17.
+
+
+
+
+15
+   World Bank (2009), Good governance in public-private partnerships: a resource guide for practitioners:
+http://documents.worldbank.org/curated/en/2009/06/16465546/good-governance-public-private-partnerships-
+resource-guide-practitioners, p. 9.
+16
+   Ou alors le contrat prévoit le transfert des actifs au gouvernement à la fin de la période de concession. Voir
+Guislain, P. & Kerf, M. (1995), Concessions - The Way to Privatize Infrastructure Sector Monopolies:
+http://siteresources.worldbank.org/EXTFINANCIALSECTOR/Resources/282884-
+1303327122200/059guislain.pdf
+17
+    Lopez de Silanes, F. & Chong, A. (2003) The Truth about Privatization in Latin America:
+http://www.iadb.org/res/publications/pubfiles/pubr-486.pdf, p. 35.
+
+                                                                                                              10
+
+
+Il existe tout un continuum d’options de délégation, allant de la forme la plus faible
+d’engagement privé par le biais de contrats de gestion et de contrats de bail 18 à la version la
+plus forte des PPP par les contrats de concession et les joint ventures 19. C’est la gouvernance
+et l’adjudication des contrats de concession qui nous intéresse ici, à cause de leurs
+caractéristiques particulières et des défis que celles-ci représentent pour la gouvernance à
+long terme des PPP, notamment dans le secteur des infrastructures énergétiques.
+
+Parce qu’ils utilisent le langage de l’économie des coûts de transaction 20, les contrats de
+concession constituent une forme hybride d’organisation industrielle, à l’intersection des
+marchés et des hiérarchies21. Tandis que les contrats de gestion et de bail sont des marchés
+publics normaux qui fonctionnent au niveau du marché22 et que les joint ventures sont des
+personnes morales intégrées qui sont la propriété commune de l’État et de l’investisseur privé
+(les PPP institutionnels), les contrats de concession ne font partie ni des marchés ni des
+hiérarchies, mais présentent un ensemble complexe, et hybride, de caractéristiques des deux
+domaines. D’un côté, ce sont des contrats dont l’attribution est ouverte à l’appel d’offres sur
+le marché23, tandis que, d’un autre, leur nature à long terme et les fortes externalités d’intérêt
+public qui découlent de leur réalisation exigent leur réglementation hiérarchique par une
+entité publique.
+18
+    Les contrats de gestion sont des accords à court terme qui attribuent à la partie privée la réalisation de tâches
+spécifiques pour un prix fixe payé par l'autorité adjudicatrice. Voir PPPIRC World Bank, Public-Private
+Partnership in Infrastructure Resource Centre, Management/Operation and Maintenance Contracts:
+http://pppirc.worldbank.org/public-private-partnership/agreements/management-and-operating-contracts. Dans
+le cas de contrats de bail, l'opérateur privé assume davantage de responsabilités en faisant fonctionner le site et
+en en assurant l'entretien, mais pas en finançant l'investissement, qui reste de la responsabilité de l'autorité
+publique.      Voir     également     PPPIRC      World      Bank,     Leases      and     Affermage       Contracts:
+http://pppirc.worldbank.org/public-private-partnership/agreements/leases-and-affermage-contracts
+19
+   PPPIRC World Bank, PPP Arrangements/Types of Public-Private Partnership Agreements:
+http://pppirc.worldbank.org/public-private-partnership/agreements
+20
+   Comme on l'expliquera dans la section suivante, l'économie des coûts de transaction est le cadre analytique du
+sujet de recherche de cette thèse ainsi que ce qui motive les recommandations de politiques concernant la
+gouvernance durable des infrastructures des PPP.
+21
+    Williamson, O. (1992), Markets, hierarchies and the modern corporation, An unfolding perspective, Journal
+of Economic Behavior and Organization, 17 (3): 335, p. 336, et Williamson, O. (2005), The Economics of
+Governance,: http://laisumedu.org/DESIN_Ibarra/desin/pdf-seminario2006/seminario-2006-04c.pdf
+22
+    La structure plus simple de ce type de contrats de PPP ne signifie pas que leur gestion et leur contrôle ne
+présentent pas de défis. Voir Ménard, C. (2013), Is Public-Private Partnership Obsolete? Assessing the
+Obstacles and Shortcomings of PPP, Ménard, C. (2013), Is Public-Private Partnership Obsolete? Assessing the
+Obstacles and Shortcomings of PPP: de Vries, P. & Yehoue, E. (Eds.), The Routledge Companion to Public-
+Private Partnerships, London: Routledge, pp. 149 - 175: “Even with contracts of relatively limited impact, for
+example when key rights remain controlled by public authorities as with management or service contracts,
+monitoring arrangements might face serious difficulties […]” (« Même dans le cas de contrats dont l'impact est
+relativement limité, par exemple quand des droits fondamentaux restent contrôlés par les autorités publiques
+comme dans le cas de contrats de gestion ou de service, il se peut que les modalités de contrôle rencontrent de
+serieuses difficultés [] »)
+23
+    Le processus d'appel d’offres est la méthode la plus répandue (et probablement aussi la plus efficace), pour
+l'attribution des contrats de concession. Voir Saussier, S. (2003), Contractual Arrangements and the Provision
+of Public Interest Services: A Transaction Cost Analysis, European Business Organization Law Review, 4 (3):
+403, pp. 410, 411. Voir également Woodhouse, E. (2005), A Political Economy of International Infrastructure
+Contracting:             Lessons           from          the          IPP            Experience:            http://iis-
+db.stanford.edu/pubs/20990/PESD_IPP_Study,_Global_Report.pdf, pp.65-66: “negotiations suffer from
+informational asymmetries and mixed incentives. Direct negotiation intrinsically suffers from low levels of
+transparency […]” (« les négociations souffrent des asymétries informationnelles et des avantages mixtes. La
+négociation directe souffre intrinsèquement de niveaux de transparence bas [] »).
+
+                                                                                                                    11
+
+
+Étant donné la nature monopolistique des industries d’infrastructure, la réglementation de
+leur fonctionnement est la force la plus importante contre les abus par le concessionnaire et le
+principal mécanisme permettant d’équilibrer les intérêts de l’État (y compris son intérêt, en
+tant qu’agent présumé des citoyens, à protéger les consommateurs des services d’utilité
+publiques)24 et des intérêts légitimes du concessionnaire à tirer un juste profit de son
+investissement. La réglementation souffre cependant elle-même d’inefficacités, en particulier
+de celles qui résultent des asymétries d’information entre la tutelle publique et les entreprises
+réglementées25 ou de la capture potentielle du régulateur par l’industrie26.
+
+
+24
+    Cette thèse ne s'appuie pas sur l'hypothèse étroite (et naïve) que l'État agit toujours comme un agent
+bienveillant du peuple. Au contraire, elle prend en compte la probabilité d'un comportement opportuniste du
+gouvernement et les principes de la théorie du choix public. Voir Buchanan, J. (2003), Public Choice: The
+Origins             and             Development             of            a           Research            Program,:
+http://www.gmu.edu/centers/publicchoice/pdf%20links/Booklet.pdf, p. 7: “The rent-seeking subprogram
+remains active along several dimensions. How much value, in the aggregate, is dissipated through efforts to use
+political agency for essentially private profit? How can the activity of rent-seeking, as aimed to secure
+discriminatory private gains, be properly distinguished from the activity aimed to further genuinely shared
+“public” interests”? (« Le sous-programme de recherche de rente reste actif selon plusieurs dimensions. Quelle
+valeur, au total, est perdue, par les efforts pour utiliser l'agence politique pour des profits essentiellement
+privés ? Comment l'activité de recherche de rente, qui vise à assurer des gains privés discriminants, peut-elle
+être vraiment différenciée de l'activité dont le but est de promouvoir des intérêts « publics » réellement
+partagés ? »
+25
+    Brousseau, E. & Glachant, J.M. (2004), The economics of contracts and the renewal of economics: E.
+Brousseau & M. Glachant (Eds), The Economics of Contracts, Theory and Applications, Cambridge University
+Press, at 19. See also Laffont, J. & Tirole, J. (1993), A Theory of Incentives in Procurement and Regulation,
+Cambridge MA: MIT Press
+26
+    Guasch, J.L. (2004), Granting and Renegotiating Infrastructure Concessions, Doing it Right, WBI
+Development                    Studies, Washington,                  DC:                  World                Bank:
+https://openknowledge.worldbank.org/handle/10986/15024, p. 8: "Governments are not the only parties who
+may behave opportunistically. Once a private enterprise has been granted a concession in an infrastructure
+sector, it may be able to “hold up” the government - for example by […] using regulatory capture. An
+enterprise’s extensive information advantages over government (and, in most cases, over other potential
+operators) and perceived leverage in negotiations can give it strong incentives to renegotiate a contract and
+secure a better deal than the original bid. The resulting regulatory arrangements may be less effective in
+protecting customers from monopoly abuses". (« Les gouvernements ne sont pas les seules parties à se
+comporter de façon opportuniste. Une fois qu'une entreprise privée a obtenu une concession dans un secteur
+d'infrastructure, elle est en mesure de « tenir » le gouvernement – par exemple en [] utilisant l'emprise
+réglementaire. Les avantages d'informations importantes qu'une entreprise a sur le gouvernement (et, dans la
+plupart des cas, sur d'autres opérateurs potentiels) et sa force perçue dans les négociations peuvent fortement
+l'inciter à renégocier un contrat afin de s'assurer une transaction meilleure que l'offre originelle. Il se peut que
+les arrangements réglementaires qui en résultent soient moins efficaces à protéger les consommateurs des abus
+de monopole. ») Voir également Andres, L.A, Guasch, J.L. & Straub, S. (2007), Does Regulation and
+Institutional Design Matter for Infrastructure Sector Performance?, Policy Research Working Paper; No.
+4378. World Bank, Washington, DC, pp. 7-8: “For the sample of companies covered in this study […] the
+quality of regulation is not overall very high. […] few countries have consistently applied all of the design
+principles needed to ensure good quality regulation”. (« Dans l'échantillon des entreprises couvertes dans cette
+étude [] la qualité de la réglementation n'est pas très élevée dans l'ensemble. [] Peu de pays ont appliqué de
+façon cohérente les principes de conception nécessaire pour assurer une réglementation de bonne qualité. »). Sur
+l'emprise réglementaire, voir également Gómez-Ibáñez, J. (2006), Regulating Infrastructure, Monopoly,
+Contracts, and Discretion, Harvard University Press. Le problème de l'emprise réglementaire est également
+bien établi dans la théorie. Voir Laffont, J.-J. & Tirole, J. (1991), The Politics of Government Decision-Making,
+A Theory of Regulatory Capture, The Quarterly Journal of Economics, 106 (4): 1089. Les auteurs expliquent le
+fonctionnement d'un agent réglementaire du point de vue de l' « emprise » ou de la théorie du « groupe
+d'intérêts », qui souligne le rôle des groupes d'intérêts dans l'élaboration de la politique publique, dans la lignée
+de la théorie de l'action collective de Marx, Stigler et Olson. Voir également Buchanan, J., supra note 24, ainsi
+que Buchanan, J. (1965), An Economic Theory of Clubs, Economica, New Series, 32 (125):1.
+
+                                                                                                                  12
+
+
+Une réglementation inefficace a créé le besoin d’une concurrence accrue27. Cependant, la
+concurrence sur le marché n’est pas pratique dans le cas des secteurs de monopole comme les
+industries de réseau 28. Dans ce contexte, l’appel d’offres pour l’attribution de contrats de
+concession (en d’autres termes, la concurrence « pour » le marché) se dresse comme une
+protection possible contre le pouvoir de marché des opérateurs.
+
+L’appel d’offres présente également quant à lui des défis liés à l’élaboration du processus
+d’enchères 29 et à l’élaboration du contrat lui-même, en particulier de ses spécifications de
+services 30. En dernière analyse, peu importe le succès des enchères, il est empiriquement
+prouvé que la renégociation des contrats de concession est un phénomène répandu 31. Par
+conséquent, le partenaire public doit en fin de compte contracter efficacement avec des
+fournisseurs de services dans une situation de monopole bilatéral32. La réalité des
+
+27
+   Voir Brousseau, E. & Glachant, J.M., supra note 25, p. 19.
+28
+   La concurrence sur le marché est inefficace (c'est-à-dire que c'est un gâchis des ressources de la société) dans
+le cas de monopoles naturels, comme le sont les industries de réseau. Voir Klein, M. (1996), Competition in
+Network Industries: http://elibrary.worldbank.org/doi/pdf/10.1596/1813-9450-1591, pp. 3-4. Voir également
+Klein, M. & Gray, P. (1997), Competition in Network Industries – Where and How to Introduce It:
+http://siteresources.worldbank.org/EXTFINANCIALSECTOR/Resources/282884-
+1303327122200/104klein.pdf. Voir également Bennett, M. & Waddams Price, C. (2004), Incentive Contracts in
+Utility Regulation, dans: E. Brousseau & M. Glachant (Eds.), supra note 25, p. 417.
+29
+       OECD        Observer     Policy       Brief   (2007),      Competition      Policy      and      Concessions:
+http://www.oecd.org/regreform/sectors/38706036.pdf. Pour davantage de détails sur les difficultés d'un
+processus d'appel d’offres, notamment l'incertitude concernant la pertinence des critères d'offre, et des risques
+de la sélection adverse, ainsi que le risque d'accords de collusion entre enchérisseurs, voir Saussier, S. (2012),
+An Economic Analysis of the Closure of Markets and other Dysfunctions in the Awarding of Concession
+Contracts,:
+http://www.europarl.europa.eu/document/activities/cont/201206/20120626ATT47715/20120626ATT47715EN.
+pdf. Voir également Søreide, T. (2012), Risk of Corruption and Collusion in the Awarding of Concession
+Contracts:                           http://www.europarl.europa.eu/thinktank/en/document.html?reference=IPOL-
+IMCO_NT%20(2012)%20475127, et Williamson, O. (1989), Transaction Cost Economics, Handbook of
+Industrial Organization, 1: 135, p. 144, ainsi que Estache, A., Guasch, J.L., Iimi, A. & Trujillo, L. (2009),
+Multidimensionality and Renegotiation: Evidence from Transport-Sector Public-Private-Partnership
+Transactions in Latin America, Review of Industrial Organization, 35: 41
+30
+      Klein,     M. (1998),        Bidding     for   Concessions, The         Impact of         Contract Design:
+http://siteresources.worldbank.org/EXTFINANCIALSECTOR/Resources/282884-1303327122200/158klein.pdf
+31
+   Voir Saussier, S. supra note 29, p. 5: “all concession contracts need to be renegotiated. […] empirical studies
+suggest that concession contracts are very often, if not always, renegotiated […] Renegotiations are the rule, not
+the exception […] there is no point establishing rigid rules for award procedures […] because actors anticipate
+that such are generally renegotiated ex post. Rigidifying renegotiations ex post would not be a solution either. It
+would bind partners in bad deals when contracts are misaligned with their environment, as would invariably
+occur (because they are incomplete long-term agreements)” (« Tous les contrats de concessions doivent être
+renégociés. […] Des études empiriques suggèrent que les contrats de concession sont souvent, sinon toujours,
+renégociés. […] Les renégociations sont la règle, et non l'exception […] Il est inutile d'établir des règles rigides
+pour les procédures d'attribution […] parce que les acteurs anticipent qu'elles seront généralement renégociées
+ex post. Rigidifier les renégociations ex post ne serait pas non plus une solution. Cela lierait les partenaires dans
+de mauvais accords quand les contrats ne sont pas alignés sur leur environnement, comme c'est invariablement
+le cas (parce que ce sont des accords incomplets à long terme). »
+32
+   Pour reprendre l'expression de Williamson, cette situation de monopole bilatéral provient peut-être de la
+« transformation fondamentale » de la relation d'une relation concurrentielle ex ante en une relation
+monopolistique ex post. Une telle transformation advient dans des conditions de spécificité des actifs. Voir
+Williamson, O., supra note 29, p. 145: “a condition of large numbers bidding at the outset does not necessarily
+imply that a large numbers bidding condition will obtain thereafter. Whether ex post competition is fully
+efficacious or not depends on whether the good or service in question is supported by durable investments in
+transaction specific human or physical assets. […] The reason why significant reliance investments in durable,
+transaction specific assets introduce contractual asymmetry between the winning bidder on the one hand and
+
+                                                                                                                  13
+
+
+renégociations contractuelles est aussi reconnue par les chercheurs, en particulier dans la
+théorie des contrats incomplets.
+
+Dans cet environnement de renégociations contractuelles, on passe de la réglementation et de
+l’appel d’offres à la phase ex post de mise en œuvre, en d’autres termes, à la « gouvernance »
+du contrat. La transaction contractuelle devient l’unité principale d’analyse33 et le contrat
+devient un outil de coordination, dont la flexibilité et la capacité d’adaptation sont centrales
+pour la gouvernance durable de la relation du PPP.
+
+La complexité de la gouvernance des contrats de concession et de leur renégociation est
+exacerbée quand la concession est contrôlée par une entreprise multinationale (ici EMN),
+enregistrée dans un État étranger, et soumise ainsi à différentes pressions du marché pour la
+maximisation des retours sur investissement de ses actionnaires 34. La façon différente dont
+les EMN en tant que concessionnaires conduisent les affaires, quand on la compare à celle
+des investisseurs nationaux, est également attestée empiriquement. Par exemple, Post (2014)
+a trouvé que les concessionnaires nationaux qui avaient gardé des « contrats relationnels » –
+c’est-à-dire des contrats qui impliquaient une renégociation en cas de circonstances
+imprévues – avec les gouvernements hôtes étaient davantage capables de conserver des
+relations de renégociation collective pendant des périodes troublées économiquement et
+politiquement. Les EMN demandaient au contraire, de façon typique, qu’il soit mis fin au
+contrat et que l’on fasse appel à l’arbitrage international35.
+
+Il existe une littérature considérable sur le pouvoir des EMN. Dans le cadre de notre
+recherche, il suffit de noter que, malgré le fonctionnement transnational des EMN, elles sont
+très peu réglementées par le droit international, le poids de leur réglementation retombant sur
+les États hôtes. Cette différence dans la réglementation internationale des EMN a donné lieu à
+plusieurs initiatives, souvent menées par ce que l’on appelle la « société civile
+internationale » (en particulier les ONG), ou par des organisations internationales, comme la
+CNUCED, en faveur du développement de normes portant sur le fonctionnement des EMN, y
+
+
+
+
+non-winners on the other is because economic values would be sacrificed if the ongoing supply relation were to
+be terminated. Faceless contracting is thereby supplanted by contracting in which the pairwise identity of the
+parties matters.” (« Une situation d'enchères pour une grande quantité au début n'implique pas nécessairement
+d'aboutir à une situation d'enchères pour une grande quantité par la suite. Le fait que la concurrence soit
+pleinement efficace ou pas dépend de si le bien ou le service en question est soutenu par des investissements
+durables dans des transactions d'actifs spécifiques humains ou physiques. […] La raison pour laquelle des
+investissements de confiance dans des actifs spécifiques de transactions durables introduit une asymétrie
+contractuelle entre celui qui remporte le marché et les autres est que des valeurs économiques seraient sacrifiées
+s'il fallait mettre un terme à la relation de fourniture en cours. »)
+33
+   Par opposition au marché tout entier ou à l'industrie.
+34
+    Voir, entre autres, Cohen, S. (2007), Multinational Corporations and Foreign Direct Investment, Avoiding
+Simplicity, Embracing Complexity, Oxford University Press.
+35
+    Post, A. (2014), Foreign and Domestic Investment in Argentina, The Politics of Privatized Infrastructure,
+Cambridge University Press.
+
+                                                                                                               14
+
+
+compris celles qui forment le programme de ce que l’on appelle la « responsabilité sociale
+internationale des entreprises »36.
+
+Cette thèse étudie en particulier les normes produites par un mécanisme particulier élaboré
+pour protéger les EMN et d’autres investisseurs internationaux quand une relation de PPP
+s’effondre : le mécanisme de l’arbitrage international. L’argument principal est que
+l’arbitrage international (ainsi que la médiation) est un mécanisme sous-utilisé dans la
+gouvernance durable des contrats internationaux d’investissement. Cette réalité va à
+l’encontre à la fois de son rôle en tant que forme de gouvernance mondiale et que domaine
+émergeant du droit administratif mondial, et des principes de la théorie économique sur la
+gouvernance et l’adjudication de contrats incomplets, ce que sont les contrats de concession.
+
+Les preuves empiriques montrent une incidence excessivement élevée des renégociations de
+contrats de concession. Selon Guasch (2004), l’examen d’une base de données de plus de
+1000 concessions sur la période 1985-2000 en Amérique Latine et aux Antilles a montré que
+55 pourcent des contrats de transport avaient été renégociés. Ce phénomène est encore plus
+marqué dans les secteurs de l’eau et des équipements sanitaires, les renégociations se
+produisant dans 72 pourcent des concessions. On définit la renégociation comme un
+changement matériel37 des termes 38 du contrat originel qui ne provient pas de contingences
+prévues dans le contrat. En d’autres termes, il s’agit d’une révision radicale du contrat de
+concession qui n’est prévue dans aucune clause (de renégociation, d’ajustement ou d’autres)
+du contrat lui-même. De façon encore plus alarmante, dans les cas étudiés, la renégociation a
+eu lieu très peu de temps après l’attribution du contrat, en moyenne seulement 1,6 année dans
+les secteurs de l’eau et des équipements sanitaires 39. Le résultat des renégociations a été
+également en moyenne en faveur des opérateurs et contre les utilisateurs, car elles ont donné
+lieu à des délais dans les objectifs d’obligation d’investissement, à une augmentation des
+tarifs (y compris une augmentation du nombre des composantes de coût qui a été
+
+
+
+
+36
+    Muchlinski, P. (2007), Multinational Enterprises & the Law, Oxford University Press, pp. 83-89 et
+Muchlinski, P. (2007), Regulating Multinationals: Foreign Investment, Development, and the Balance of
+Corporate and Home Country Rights                       and Responsibilities       in a Globalized World:
+http://www.law.yale.edu/documents/pdf/Alumni_Affairs/Andrea_Bjorklund_readings.pdf. Voir également
+Cohen, S. (2007), supra note 34. Sur le problème du transfert de prix, voir les lignes directrices de l'OCDE pour
+les entreprises multinationales (2008): http://www.oecd.org/corporate/mne/1922428.pdf, et les principes de
+l'OCDE applicables en matière de prix de transfert à l'intention des entreprises multinationales et des
+administrations                        fiscales                       (2010):                    http://www.oecd-
+ilibrary.org/docserver/download/2310091e.pdf?expires=1417638762&id=id&accname=ocid195467&checksum
+=DB2075F327F3C0369675B75FDD9D3AD0. Sur la critique des EMN par les ONG, en particulier en tant que
+fournisseurs de produits de base, comme l'eau, voir par exemple, Friends of the Earth (2001), Dirty Water, The
+environmental         and      social      records       of     four      multinational      water      companies:
+https://www.foe.co.uk/sites/default/files/downloads/dirty_water.pdf
+37
+   Directive 2014/23/UE du Parlement européen et du Conseil du 26 février 2014 sur l’attribution de contrats de
+concession (2014) JO L94/1, pp. 14, 41.
+38
+   En particulier dans les tarifs et les droits annuels, les plans d'investissement, les garanties, les normes de
+service, et les périodes de concession. Voir supra Guasch, J.L. (2004), p. 12.
+39
+   Id., p. 34, 13. Voir aussi Guasch, J.L, Laffont, J-J & Straub, S. (2008), Renegotiation of Concession Contracts
+in Latin America, Evidence from the water and transport sectors, Utilities Policy, 17 (2): 185, pp. 421-442.
+
+                                                                                                               15
+
+
+automatiquement répercutée sur les consommateurs), à une réduction des obligations
+d’investissement, et à des extensions de la période de concession40.
+
+Les études empiriques ci-dessus ajoutent une autre perspective au problème des
+renégociations contractuelles et remettent en question la théorie du marché obsolescent et des
+problèmes d’emprise qui lui sont liés pour les investisseurs, comme l’a établi la littérature
+traditionnelle sur l’investissement étranger direct. Selon la sagesse conventionnelle du
+marché obsolescent, le levier de la négociation dans un grand projet d’infrastructure change
+au cours de son cycle de vie : la position de l’État hôte, initialement faible, ayant besoin de
+capital étranger, est renforcée une fois que l’investissement est irrécupérable, et que
+l’investisseur se trouve ainsi dans une position plus vulnérable, risquant l’expropriation (ou
+l’expropriation larvée) 41.
+
+Contrairement à ces prédictions communément admises, Guasch (2004) montre que la partie
+qui est à l’initiative de la renégociation et qui demande la modification des termes du contrat
+est plus souvent l’investisseur étranger que l’État hôte42. Cette découverte renverse
+l’argument de l’emprise, puisque l’on montre que les concessionnaires réussissent à mener
+des renégociations ayant conduit à de meilleures conditions pour eux-mêmes une fois qu’ils
+ont perdu leurs investissements et qu’ils sont ainsi devenus plus vulnérables à l’immobilité ex
+post de leurs actifs irrécupérables43.
+
+La théorie traditionnelle du marché obsolescent appliquée à la relation entre un investisseur
+étranger et l’État hôte est aussi remise en question par la structure actuelle du système
+international de TBI. Le régime moderne de TBI est fondé sur un processus de négociation à
+deux niveaux, incluant plusieurs parties. La négociation de niveau 1 se fait entre les États, qui
+négocient les règles macro de l’IDE, tandis que les négociations de niveau 2 sont menées
+entre l’investisseur étranger et l’État hôte dans le cadre des règles de niveau 1 44. Ce jeu à
+deux niveaux a des conséquences importantes sur la nature des contrats de concession en tant
+que contrats d’État internationalisés 45, ainsi que le montre l’analyse du deuxième chapitre.
+
+Quel que soit le résultat concret des renégociations, le processus de renégociation lui-même
+peut également miner l’efficacité de l’appel d’offres et le bien général, car il a lieu entre le
+gouvernement et l’opérateur seulement, et n’est donc pas soumis aux pressions de la
+
+
+40
+   Voir Guasch, J.L. (2004), supra note 38, pp. 12,18.
+41
+   Woodhouse, E. (2006), The obsolescing bargain redux? Foreign Investment in the Electric Power Sector in
+Developing Countries: http://nyujilp.org/wp-content/uploads/2013/02/38.1_2-Woodhouse.pdf, p. 127
+42
+   Voir Guasch, J.L. (2004), supra note 38, pp. 15-16: “In 61 percent of cases, concessionaires requested
+renegotiation, and in 26 percent of the cases, the government initiated renegotiation […]” (« dans 61 pourcent
+des cas, les concessionnaires ont demandé des renégociations, et dans 26 pourcent des cas, le gouvernement a
+été à l'initiative de la renégociation […] »)
+43
+   Engel, E., Fischer, E. & Galetovic, A. (2006), Renegotiation without hold-up: Anticipating Spending and
+Infrastructure Concessions,: http://www.nber.org/papers/w12399
+44
+   Ramamurti, R. (2001), The Obsolescing “Bargaining Model”? MNC - Host Developing Country Relations
+Revisited, Journal of International Business Studies, 32 (1): 23.
+45
+   Voss, J.O. (2011), The Impact of Investment Treaties on Contracts Between Host States and Foreign
+Investors, Brill.
+
+                                                                                                           16
+
+
+concurrence du processus d’enchères46. En outre, le nombre élevé de renégociations suggère
+que l’opportunisme est une explication plausible de l’attitude des parties – le concessionnaire
+et l’État hôte47. Le problème est encore plus aigu dans les concessions qui sont attribuées
+dans les pays en voie de développement, où l’exécution imparfaite des contrats et leur
+renégociation sont des problèmes majeurs 48.
+
+La question principale qui se pose dans un tel contexte est double : d’abord, quels sont les
+facteurs déterminants (ou moteurs) de telles négociations, et, ensuite, quelles sont les règles
+et les mécanismes d’exécution qui peuvent assurer le respect de leur accord par les deux
+parties et restreindre leurs incitations à se comporter d’une manière opportuniste visant à
+déplacer la répartition des risques contractuels et à capter le surplus engendré par la
+renégociation de leur contrat originel ?
+
+Il existe plusieurs moteurs différents de la renégociations qui vont des déterminants
+exogènes, comme un environnement réglementaire et institutionnel faible de l’État hôte (y
+compris des niveaux élevés de corruption, des niveaux faibles d’exécution des contrats
+réglementaires, ou la position de négociation faible du régulateur) ou des chocs
+macroéconomiques, à des déterminants endogènes (c’est-à-dire des clauses du contrat),
+comme la répartition des risques entre les partenaires ou des clauses sur la restauration de
+l’équilibre financier de la concession. La plupart de ces déterminants sont bien identifiés et
+documentés dans la littérature sur les PPP.
+
+Une variable reste inexplorée cependant, malgré l’importance cruciale qu’elle revêt pour le
+régime de l’IDE et pour sa viabilité : l’impact de l’arbitrage international sur la renégociation
+des contrats internationaux de concession. Selon l’étude empirique ci-dessus49, il existe une
+corrélation positive entre l’arbitrage, en tant que variable, et la probabilité de la
+renégociation, puisque le processus d’arbitrage aide à régler les litiges, ce qui rend la
+renégociation moins coûteuse. Ce résultat est vrai pour les renégociations menées par les
+entreprises 50. En revanche, il existe une corrélation négative entre l’arbitrage et les
+
+
+46
+   Id., p. 33.
+47
+   Guasch, J.L., Laffont, J-J. & Straub, S. (2003), Renegotiation of Concession Contracts in Latin America,
+Policy        Research     Working         Paper;     No.     3011. World       Bank,      Washington,     DC:
+https://openknowledge.worldbank.org/handle/10986/18224, p. 3.
+48
+   Guasch, J.L & Straub, S. (2006), Renegotiation of Infrastructure Concessions: An Overview, Annals of Public
+and Cooperative Economics, 77 (4): 479. Cela ne veut pas dire que la renégociation n'est pas également un souci
+majeur dans les pays dont les institutions sont plus développées. Voir Oliveira Cruz, C. & Marques, R.C (2013),
+Endogenous Determinants for Renegotiating Concessions: Evidence from Local Infrastructures, Local
+Government Studies, 39 (3): 352, p. 353: “Recently, in May 2011, the UK government announced the intention
+of renegotiating 150 schools PFI contracts signed by local authorities, and establish common frameworks to
+develop these schemes, since the heterogeneity among contracts was not having good results. These
+renegotiations often entail large costs for both users and local governments […]” (« Récemment, en mai 2011,
+le gouvernement britannique a annoncé son intention de renégocier les contrats PFI de 150 écoles signés par les
+autorités locales et de mettre en oeuvre des cadres communs pour développer ces plans, car l'hétérogénéité des
+contrats ne donnait pas de bons résultats. Ces renégociations entraînent souvent des coûts élevés pour les
+utilisateurs autant que pour les autorités locales […] »)
+49
+   Voir Guasch, J.L., supra note 38, p. 88.
+50
+   Id., p. 76
+
+                                                                                                            17
+
+
+renégociations menées par les gouvernements 51. Cette prédiction est dans la droite ligne de la
+logique de l’arbitrage international comme mécanisme de protection des investisseurs qui
+empêche les renégociations menées par les gouvernements et qui assure la prédictibilité et la
+stabilité du régime d’investissement étranger 52.
+
+L’effet différenciateur que l’arbitrage a sur les incitations des parties à renégocier est un
+problème encore largement inexploré en droit international de l’investissement. Cette thèse a
+pour objectif de trouver des solutions à ce déséquilibre potentiel que l’arbitrage crée en
+incitant les parties des PPP à renégocier leurs contrats. Plus précisément, le but ici est
+double : examiner du point de vue de lege lata la façon dont les tribunaux d’arbitrage
+évaluent l’allégation d’une violation du TJE découlant d’une renégociation contractuelle, et
+proposer des recommandations normatives visant à réaliser un meilleur alignement des
+incitations des parties à renégocier et une répartition plus équitable du surplus de la
+renégociation.
+
+Avant de développer le sujet de notre recherche, il est important de mettre en relation les
+découvertes empiriques mentionnées ci-dessus et les fondements théoriques de la nécessité de
+la renégociation des contrats de PPP. Cette nécessité découle de la nature des contrats de
+concession qui sont par nature incomplets. Un contrat est incomplet quand la nature exacte du
+bien ou du service à fournir est incertain au moment de l’élaboration du contrat, car il dépend
+d’un état de choses qui n’est pas encore concrétisé53.
+
+Comme le prédit la théorie de l’économie des coûts de transaction, soit il est extrêmement
+coûteux pour les parties de rédiger un contrat temporaire quand le nombre des contingences
+imprévues est important, soit il est trop coûteux d’acquérir toute l’information pertinente ex
+ante et de la traiter, soit il existe des asymétries informationnelles54 entre les parties. Un autre
+aspect de l’incomplétude contractuelle réside dans la difficulté de contrôler certains états
+compliqués de choses (comme l’effort effectué par le concessionnaire ou l’efficacité de ses
+services) par les parties tierces, en particulier les tribunaux. Le problème de la vérifiabilité
+entraîne des coûts d’application encore plus élevés 55.
+
+Les contrats de concession sont par essence incomplets, comme tous les contrats complexes
+et à long terme. Cela est dû au fait qu’il est impossible, dans des industries complexes comme
+
+51
+   Guasch, J.L., Laffont, J-J & Straub, S. (2007), Concessions of Infrastructure in Latin America: Government-
+led Renegotiation, Journal of Applied Econometrics, 22 (7): 1267, p. 1286.
+52
+   Voir Woodhouse, E. supra note 35, pp. 130-131, 181. Voir également Wells, L. (2005), The New
+International Property Rights: Can the Foreign Investor Rely on Them?, dans: Moran, T. & West, G. (Eds),
+International Political Risk Management, Looking to the Future, Washington, DC: The World Bank, pp. 90-91.
+53
+   Hart, O. & Moore, J. (1999), Foundations of Incomplete Contracts, Review of Economic Studies, 66 (1): 115,
+p. 115.
+54
+   Dans le cas d'asymétrie d'information, outre le problème potentiel de la non-vérifiabilité d'un événement par
+une partie tierce, il n'est pas non plus possible pour l'une des parties contractantes d'observer cet événement.
+Voir Hart, O. & Moore, J. (1988), Incomplete Contracts and Renegotiation, Econometrica, 56 (4): 755, p. 756.
+55
+   Lind, H. & Nyström, J. (2007), “Observable” and “verifiable”: Can these be the basic concepts in
+incomplete                                            contract                                           theory?:
+http://www.researchgate.net/publication/242679683_Observable_and_verifiable_Can_these_be_the_basic_conc
+epts_in_incomplete_contract_theory
+
+                                                                                                              18
+
+
+le secteur des infrastructures, et pour des projets s’étendant habituellement sur une période de
+trente années ou plus, de prévoir toutes les contingences concevables ou d’exclure des
+surprises économiques ou commerciales 56. Étant donné cette incertitude, la révision et la
+modification des contrats de PPP devient une nécessité. Pour citer Llewellyn (1931) sur le
+rôle du contrat dans l’ordre social : « On se détourne de la contemplation du travail du contrat
+comme de l’expérience de la tragédie grecque. La vie se débat contre la forme, ou, à travers
+la forme, tend vers sa volonté – ‘pitié et terreur’. Le droit signifie si peu de chose pour la vie ;
+la vie dépend de façon si terrifiante du droit »57.
+
+D’un point de vue juridique, il n’existe aucune loi autorisant les parties contractantes à
+exclure les renégociations hors contrat58. On peut expliquer cela par la rationalité limitée.
+Dans un environnement économique complexe, gérer non seulement les contingences et les
+dispositions contractuelles mais aussi la communication formelle entre les parties peut
+s’avérer trop coûteux. Aussi les parties peuvent-elles préférer ne pas stipuler le jeu de la
+renégociation directement dans le contrat ex ante, mais laisser cette option de la
+renégociation ouverte par le biais d’une « communication informelle » ex post59. Cette
+incomplétude inhérente est logiquement liée au fait même de passer des contrats relationnels,
+ainsi que le premier chapitre le développe.
+
+On peut également modifier des contrats de PPP (outre la modification des dispositions
+incluses dans le contrat lui-même) en changeant la réglementation, ce qui représente une
+forme de « renégociation ordonnée »60. La responsabilité de telles modifications est la plupart
+du temps attribuée à un régulateur national indépendant chargé d’effectuer des révisions
+périodiques ou extraordinaires du contrat de PPP. Cependant, la réglementation fonctionne au
+
+
+
+
+56
+   Stern, J. (2012), The relationship between regulation and contracts in infrastructure industries: Regulation as
+ordered renegotiation, Regulation and Governance, 6 (4): 474, p. 475.
+57
+   Llewellyn, K. (1931), What price contract? An Essay in Perspective, The Yale Law Journal, 40(5): 704, p.
+751. Voir également Salacuse, J. (2001), Renegotiating Existing Agreements: How to Deal with “Life
+Struggling Against Form”, Negotiation Journal, 17 (4): 311, p. 312.
+58
+   Baird, D., Gertner, R. & Picker, R. (1994), Game Theory and the Law, Harvard University Press, pp. 117-
+118: “The possibility of renegotiation undermines the contractor’s incentives. The contractor will work less hard
+than it should because, even if the government has the right to cancel the contract, it will never be in its interest
+to do so. Instead, the government will renegotiate. An incentive contract that can be renegotiated cannot work as
+well as one that cannot be renegotiated. Writing such a contract, however, is difficult. […] There is no simple
+way around this inability to commit to no renegotiation. Our entire legal system would have to change
+dramatically in order to use legal rules to make contracts non-negotiable.” (« La possibilité de la renégociation
+sape les incitations du contractant. Celui-ci travaillera moins qu'il ne devrait, parce que même si le
+gouvernement a le droit de mettre fin au contrat, ce ne sera jamais son intérêt de le faire. À la place, le
+gouvernement renégociera. Un contrat d'intéressement qui peut être renégocié ne peut pas fonctionner aussi bien
+qu'un contrat qui ne peut pas être renégocié. L'écriture d'un tel contrat, cependant, est difficile. […] Il n'y a pas
+de voie pour contourner cette impossibilité de s'engager à ne pas renégocier. Notre système juridique tout entier
+devrait changer radicalement pour utiliser des règles juridiques permettant de faire des contrats non
+négociables. »)
+59
+   Segal, I. (1999), Complexity and Renegotiation: A Foundation of Incomplete Contracts, Review of Economic
+Studies, 66 (1): 57, p. 74.
+60
+   Voir Stern, J. supra note 56.
+
+                                                                                                                  19
+
+
+niveau national, et elle souffre également de plusieurs inefficacités, y compris du manque
+d’indépendance de facto de l’opérateur, souvent attesté dans la pratique 61.
+
+Ainsi, le point central de cette thèse est la façon dont la renégociation a été traitée en « droit
+international », et, plus particulièrement, par les tribunaux internationaux d’arbitrage.
+Réglementer la renégociation uniquement par le droit national, sans qu’il existe de
+réglementation similaire en droit international, est une façon inefficace de traiter les coûts de
+transaction de la rationalité limitée et de l’opportunisme, car une déconnexion entre les deux
+systèmes, contrat et traité – ou entre droit national et droit international – implique
+l’annulation (de facto) de tout effet juridique que la réglementation de la renégociation aurait
+pu avoir au niveau national.
+
+Au contraire, on a besoin dans ce contexte d’un point de vue holistique sur la renégociation
+en tant que question juridique centrale de l’arbitrage international de l’investissement. C’est
+le manque que cette recherche cherche à combler en argumentant en faveur d’une conception
+de la gouvernance qui permette la mise en relation du contrat et du traité et la prise en
+considération des renégociations contractuelles comme question juridique (et non pas
+seulement factuelle) pendant la résolution des litiges relatifs aux traités. En d’autres termes,
+l’objectif est l’élaboration de structures de gouvernance dans l’arbitrage des investissements
+qui facilitent l’adaptation du contrat sous-jacent par le biais de renégociations de bonne foi
+aussi bien que par une collecte de preuves permettant au tribunal de vérifier les informations
+relatives à de telles renégociations.
+
+À l’intérieur de la problématique plus large des allégations contre le traité résultant de la
+renégociation d’un contrat de concession, l’attention se porte ici sur la norme plus litigieuse,
+récente et largement utilisée, et sur laquelle les investisseurs étrangers fondent leurs
+revendications : la norme du « traitement juste et équitable ». L’argument est que le droit
+international n’a pas traité de façon équilibrée (autrement dit, d’une façon « juste et
+équitable ») le problème des renégociations contractuelles, et que cet échec a conduit à
+l’augmentation des coûts de transaction de la rationalité limitée et principalement de
+l’opportunisme.
+
+S’appuyer exclusivement sur le droit national, sous le couvert des traités d’investissement
+dans le cadre desquels des contrats sont signés et renégociés, pour la gouvernance effective
+de ces contrats est une politique qui ne peut qu’échouer. Au contraire, le droit international a
+
+
+61
+   Sur la théorie de l'emprise réglementaire, voir Stigler, G. (1971), The Theory of Economic Regulation:
+http://www.ppge.ufrgs.br/GIACOMO/arquivos/regulacao2/stigler-1971.pdf, ainsi que Peltzman, S. (1976),
+Toward a More General Theory of Regulation: http://www.nber.org/papers/w0133. Voir également Spiller, P.
+(1990), Politicians, Interest Groups and Regulators: A Multiple-Principals Agency Theory of Regulation, or
+“Let Them Be Bribed”, Journal of Law and Economics, 33 (1): 65. Les régulateurs peuvent non seulement ne
+pas se trouver sous l'emprise de l'industrie qu'ils sont censés réglementer, mais être également contournés par les
+politiques, auquel cas le processus de réglementation est ouvertement re-politisé. L'affaire Aguas Argentinas est
+un cas de repolitisation. Il est important de noter qu'une telle politisation s'est produite non seulement lors des
+renégociations finales, suscitées par la crise économique majeure que l'Argentine a traversée, mais aussi pendant
+le fonctionnement normal de la concession. Voir Suez, Sociedad General de Aguas de Barcelona S.A., and
+Vivendi Universal S.A v. The Argentine Republic, ICSID Case No. ARB/3/19, Award, 30 July 2010, pp. 16-17.
+
+                                                                                                                20
+
+
+un rôle indispensable à jouer dans la gouvernance durable des concessions, et, par
+conséquent, dans la résolution plus équilibrée des litiges entre États hôtes et investisseurs
+étrangers.
+
+Dans ce contexte, l’accent est mis sur le rôle de l’arbitrage comme mécanisme de
+gouvernance pour la résolution « juste et équitable » des litiges provenant de la renégociation
+des contrats de concession et sur l’élaboration d’outils interprétatifs, procéduraux et relatifs à
+la preuve qui permettent de réaliser cet objectif. Étant donné le rôle des tribunaux d’arbitrage
+qui ont le pouvoir d’imposer aux parties en conflit des sanctions coûteuses en termes
+financiers et de réputation, l’adoption par ces tribunaux de tels outils de gouvernance
+adaptative réaliserait, par induction inverse, un meilleur alignement des incitations des parties
+à mettre en œuvre leur contrat et par suite l’allègement des coûts de transaction de la
+rationalité limitée et de l’opportunisme.
+
+Étant des contrats « hybrides » complexes de PPP, les contrats de concession constituent une
+sous-catégorie sui generis de contrats d’État62. D’un côté, ce sont des contrats « publics »,
+réglementaires, qui incluent des règles sur la prestation d’un service public par un
+monopoliste privé. D’un autre côté, ils fonctionnent aussi comme des contrats commerciaux
+« privés », reposant sur l’hypothèse de l’équilibre économique de la relation de PPP, et du
+« profit raisonnable » de l’investisseur.
+
+Les arbitres internationaux ont néanmoins jusqu’à présent traité cette nature double des
+contrats de PPP d’une façon plutôt unilatérale et rigide, en suivant principalement les
+principes de la théorie classique du droit des contrats (ou son pendant en droit public
+international, la méthodologie textualiste de la Convention de Vienne sur le droit des traités).
+L’accent jusqu’ici a porté principalement sur la protection des investisseurs étrangers contre
+les changements des termes réglementaires du contrat affectant négativement leurs attentes
+légitimes. On a moins pris en compte, cependant, le besoin de la renégociation et de
+l’adaptation de contrats commerciaux à long terme aussi complexes – besoin que les deux
+parties peuvent évoquer de façon tout à fait valable, comme l’illustrent entre autres les
+Principes UNIDROIT relatifs aux contrats du commerce international63.
+
+
+
+62
+   Frick, J. (2001), Arbitration and Complex International Contracts, Kluwer Law International.
+63
+   Voir l'opinion séparée de l'arbitre Pedro Nikken dans l'affaire Suez v. Argentina, p. 48: “I do not agree with
+the assumption expressed in the Decision (para. 239) that AASA was coerced into acceding to the renegotiation
+because, had it refused, it could have been accused of violating Article 5.1 of the Concession Agreement, which
+obligated both sides to use all means available to establish and maintain a fluid relationship which would
+facilitate the discharge of this Concession Agreement. Rather, I believe that this clause is evidence that the
+obligation to renegotiate did not have as its sole source the Emergency Law, but the Concession Contract itself
+and that AASA could not lawfully refuse to renegotiate (as in fact it did not refuse). Moreover, the international
+standard for such contracts in the event of hardship aims to impose an obligation on the parties to negotiate an
+adaptation of the contract to the changed circumstances or the termination of the contract which is moreover, in
+my opinion, a corollary of the good faith that should prevail in the execution of any contract.” (« Je ne suis pas
+d'accord avec l'hypothèse exprimée dans la Décision (paragraphe 239) qu'AASA a été forcé d'accepter la
+renégociation parce que, s'il avait dû refuser, il aurait été accusé de violer l'article 5.1 de l'Accord de concession,
+qui obligeait les deux parties à recourir à tous les moyens disponibles afin d'établir et de conserver une relation
+fluide qui facilite la réalisation de cet Accord de concession. Je crois plutôt que cette clause est la preuve que
+
+                                                                                                                    21
+
+
+Il s’ensuit qu’il est nécessaire d’adopter une perspective plus holistique de la nature hybride
+des contrats de concession, c’est-à-dire une perspective qui lierait les côtés publics et privés
+aux deux parties, l’État et l’investisseur. En d’autres termes, la délégation d’une fonction
+publique (d’habitude monopoliste) à un investisseur privé invalide la dichotomie public-
+privé. Dans ce contexte, il se peut que le partenaire public se comporte comme une partie
+privée à un contrat commercial, demandant l’adaptation de celui-ci au changement de
+circonstances, de la même façon qu’il se peut que le partenaire privé se comporte comme une
+partie publique, ayant l’autorité nécessaire lui permettant d’avoir de l’emprise sur le
+gouvernement et de soutirer des rentes de cette relation bilatérale de monopole au détriment
+des consommateurs et des contribuables.
+
+Par conséquent, une perspective mutuelle sur la gouvernance adaptative de la part des arbitres
+refléterait mieux le besoin qu’ont les deux parties d’ajuster leur accord commercial initial, à
+mesure que le besoin s’en fait sentir ou que les difficultés arrivent, tout en justifiant non
+seulement le risque d’opportunisme gouvernemental (par exemple par le biais de
+l’expropriation), mais aussi une emprise et une attitude opportuniste possibles de la part du
+monopoliste privé.
+
+Comme nous l’expliquons ci-dessous, la renégociation et l’adaptation des contrats de
+concession doivent être fondées sur les principes de la théorie du contrat relationnel. La
+nature relationnelle des contrats de concession signifie que l’investisseur étranger doit
+accepter des renégociations initiées par l’État hôte dans certaines circonstances rendant les
+adaptations contractuelles indispensables. Cette perspective de contrat relationnel a des
+conséquences importantes pour la résolution des litiges relatifs aux traités, car, en principe,
+un investisseur étranger ne peut pas avoir le droit d’alléguer la violation d’un traité – c’est-à-
+dire la violation du TJE – découlant de la renégociation contractuelle demandée par l’État
+hôte faisant face à des changements matériels de circonstances qui requièrent l’adaptation du
+contrat à la nouvelle situation. La question qui se pose ainsi dans ce contexte est de savoir à
+quelles conditions une renégociation est légale et légitime en droit international de
+l’investissement.
+
+C’est la question que le chapitre suivant se donne pour but de traiter en étudiant le lien entre
+le contrat de concession et le traité général. Pour cela, le deuxième chapitre développe encore
+davantage l’argument de l’internationalisation 64 des contrats, en montrant que la relation
+contrat-traité fonctionne dans les deux sens, et qu’elle est dynamique et mutuelle. Cela veut
+dire que non seulement les traités ont un impact sur les contrats sous-jacents, mais que les
+contrats ont également une incidence directe sur la décision relative au traité quand une
+renégociation contractuelle est en jeu.
+
+l'obligation de la renégociation n'a pas eu pour seule origine la loi d'urgence, mais le Contrat de concession lui-
+même, et que l'AASA ne pouvait pas légalement refuser de renégocier (comme en réalité il n'a pas refusé de le
+faire). En outre, la norme internationale pour de tels contrats en cas de force majeure a pour but d'imposer
+l'obligation pour les deux parties de négocier une adaptation du contrat au changement de circonstances ou la fin
+du contrat qui est en outre, selon moi, un corollaire de la bonne foi qui devrait prévaloir dans l'exécution de tout
+contrat. »)
+64
+   Voir Voss, J.O., supra note 45.
+
+                                                                                                                 22
+
+
+On insiste ici sur la norme du TJE comme disposition illustrant très clairement un tel lien,
+particulièrement à travers la doctrine des « attentes légitimes » de l’investisseur qui émanent
+du contrat de concession et de son cadre réglementaire. La thèse affirme de la même façon
+que la distinction stricte entre les « revendications contractuelles » et les « revendications
+relatives au traité » est en grande partie artificielle, et adopte à la place une approche
+d’intégration – pour citer Crawford (2008)65 – selon laquelle les deux instruments ne peuvent
+être traités séparément l’un de l’autre.
+
+S’appuyant sur les découvertes du deuxième chapitre qui démontrent le lien inextricable entre
+les contrats de concession et le traité général, le troisième chapitre démontre que les traités
+internationaux d’investissement sont eux-mêmes des contrats incomplets, contenant des
+normes vagues qui fonctionnent comme des règles par défaut, complétées par les contrats
+sous-jacents 66. Pour cela, ce chapitre analyse la perspective des « traités comme contrats », et
+plus spécifiquement des traités internationaux d’investissement comme contrats relationnels.
+
+Un accent particulier, comme nous l’avons dit, est mis sur la norme par nature vague,
+dynamique et dépendante du contexte, du « traitement juste et équitable ». L’analyse
+théorique succède à l’analyse empirique de la jurisprudence arbitrale qui traite de la relation
+entre renégociations contractuelles et violation du TJE. Les décisions qui s’ensuivent ont
+souvent donné lieu à des résultats contradictoires, allant d’une méthodologie interprétative
+rigide, textualiste et ressemblant à la théorie classique des contrats, à des approches plus
+équilibrées qui tentent de faire droit aux deux parties et à l’inévitable renégociation du contrat
+fondée sur les principes de la théorie du contrat relationnel.
+
+Le but de l’examen de la jurisprudence pertinente est donc double : il s’agit d’abord, montrer
+comment les arbitres ont jugé une allégation de violation du TJE comme étant le résultat
+d’une renégociation contractuelle, ensuite (et de façon plus importante selon une perspective
+politique) de traiter la question de savoir « si et quand une renégociation viole la norme de
+traité du traitement juste et équitable » et poser ainsi les fondations du développement de
+critères selon lesquels une renégociation contractuelle est légale et légitime en droit
+international, et enfin de trouver un meilleur équilibre entre les intérêts publics et privés
+opposés qui sont impliqués.
+
+Afin que les tribunaux d’arbitrage trouvent une interprétation équilibrée (ou vraiment « juste
+et équitable ») du TJE, les renégociations doivent être évaluées et interprétées à travers le
+prisme du « droit en action », et non pas simplement du « droit sur le papier ». Cela veut dire
+que les tribunaux doivent considérer les deux côtés de l’échelle quand ils jugent si une
+renégociation contractuelle a violé le TJE, et en particulier les « attentes légitimes » de
+
+65
+  Crawford, J. (2008), Treaty and Contract in Investment Arbitration, Arbitration International, 24 (3): 351.
+66
+   Sur la nature des traités internationaux d'investissement comme contrats incomplets, voir van Aaken, A.
+(2014), Control Mechanisms in International Investment Law, dans: Douglas, Z., Pauwelyn, J. & Viñuales, J.
+(Eds), The Foundations of International Investment Law, Bringing Theory into Practice, Oxford University
+Press. De même, sur l'équilibre entre engagement et flexibilité en droit international de l'investissement, voir
+van Aaken, A. (2009), International Investment Law between Commitment and Flexibility: A Contract Theory
+Analysis, Journal of International Economic Law, 12 (2): 507.
+
+                                                                                                             23
+
+
+l’investisseur. Dans un environnement dans lequel les renégociations – ainsi que le montrent
+les découvertes économiques analysés ci-dessous – sont une pratique courante des parties,
+souvent initiées également par les investisseurs, le tribunal a besoin de toutes les preuves
+nécessaires pour évaluer ce que les « attentes légitimes » des parties sont réellement.
+
+Par exemple, si, sur la base de telles preuves holistiques, on trouve que l’investisseur a initié
+certaines renégociations du contrat de concession (ayant pour résultat des termes
+d’investissement qui lui sont plus favorables que ceux qui étaient proposé lors du processus
+d’appel d’offres), alors l’investisseur doit être empêché (estopped) de revendiquer une
+violation de ses droits selon le traité comme résultant seulement d’une renégociation
+ultérieure demandée par l’État. Dans tous les cas, l’attitude de l’investisseur (ainsi que la
+conduite de l’État) lors de la mise en œuvre du contrat tout entière doit également être prise
+en compte afin de déterminer ce qu’étaient ses « attentes légitimes ».
+
+En d’autres termes, comme nous l’avons analysé dans le troisième chapitre, l’interprétation
+des traités d’investissement (c’est-à-dire du TJE) doit être fondée sur les principes
+relationnels de « dynamisme » et de « mutualité ». Le TJE est une norme évolutive, comme
+les normes incluses dans les contrats relationnels, et, par conséquent, les « attentes
+légitimes » des parties doivent être déterminées d’une façon dynamique et mutuelle (par
+opposition aux principes statiques et unilatéraux de la théorie classique des contrats que la
+plupart des tribunaux d’investissement ont suivis jusqu’à présent).
+
+Enfin, afin de rendre opérationnelles les découvertes théoriques et empiriques des chapitres
+précédents, le dernier chapitre propose certaines recommandations de lege ferenda, traitant,
+entre autres, de la question de la preuve. En particulier, la conception proposée des règles de
+sanction par défaut assignerait la charge de la production de la preuve à la partie qui a initié
+une renégociation et exigerait qu’elle présente au tribunal les raisons d’une telle
+renégociation, le résultat de celle-ci et le plan proposé pour remplir les nouvelles obligations
+contractuelles. Pour cela, les tribunaux doivent exiger (et les parties produire) toutes les
+preuves matérielles de chacune des renégociations ayant eu lieu depuis la signature du
+contrat.
+
+De telles preuves sont indispensables pour déterminer ce qu’ont été les « attentes légitimes »
+des parties et le lien causal prétendu entre la renégociation et le dommage souffert par
+l’investisseur67. Dans ce contexte, si un investisseur – comme les découvertes de l’Économie
+le montrent – avait également initié des renégociations du contrat de concession avant celle
+qui a donné lieu au litige relatif au traité, une revendication que la dernière renégociation a
+violé toute « attente légitime » fondée sur la « stabilité de l’activité et du cadre juridique de la
+concession » serait bloquée par la doctrine de la préclusion (estoppel).
+
+
+
+
+67
+  Sur les problèmes particuliers se posant dans le contexte de contrats complexes à long terme et l'attribution de
+dommages-intérêts, voir Wöss, H., San Román Rivera, A., Spiller, P. & Dellepiane, S. (2014), Damages in
+International Arbitration under Complex Long-Term Contracts, Oxford University Press.
+
+                                                                                                               24
+
+
+En outre, dans le cas où de telles renégociations menées par l’investisseur (auxquelles on peut
+s’attendre pour des contrats relationnels complexes et à long terme), le seuil pour trouver une
+violation du TJE due à une renégociation ultérieure menée par l’État doit être élevé (au lieu
+du cas inverse, à savoir, un seuil élevé pour la défense de nécessité) et les tribunaux doivent
+développer des critères clairs correspondant à un tel seuil. Pour résumer, l’attribution
+appropriée de la charge de la preuve aux parties68 forcerait un meilleur alignement de leurs
+avantages, réduisant ainsi l’incidence des renégociations opportunistes.
+
+En outre, la production de la preuve de tous les processus de renégociation est importante
+pour prévenir le risque de renégociations corrompues. Comme le montre l’expérience, les
+renégociations corrompues sont tout sauf inhabituelles dans les contrats de concession 69. Pour
+que le système de résolution de litige entre État et investisseur contribue à limiter les
+renégociations opportunistes et corrompues, il faut que les tribunaux prennent déjà en compte
+la corruption au moment où ils décident de l’admissibilité de la revendication qui est devant
+eux.
+
+La corruption a déjà été condamnée dans la décision arbitrale séminale du juge Lagergren en
+1963 comme « violation manifeste des mœurs publics et de la politique publique
+internationale70 », ce qui a amené le juge à refuser d’entendre l’affaire en arguant que les
+parties avaient « perdu tout droit à l’aide de la machine de la justice pour résoudre leurs
+différends. » Cependant, le problème est resté largement ignoré depuis, malgré ses
+implications immenses pour la durabilité (politique) d’un investissement, ainsi que pour le
+bien-être social. La norme très élevée de la preuve de la corruption a rendu particulièrement
+difficile de produire des preuves convaincantes 71. La tendance a commencé à changer avec
+les décisions récentes du CIRDI dans les affaires World Duty Free Company Limited v. the
+Republic of Kenya72 et Metal-Tech v. Uzbekistan73.
+
+
+
+68
+   La production et la charge de la preuve sont des questions encore plus sensibles dans le cas de contrats
+incomplets et des défis qui en découlent concernant la possibilité de vérifier les contingences, comme nous
+l'avons mentionné ci-dessus. Dans ce contexte, l'attribution pertinente de la charge de la preuve peut être un
+système utile d'économie des coûts de transaction. Sur le lien de la charge de la preuve et de l'efficacité en
+termes de coûts du litige dans le cas de contrats incomplets, voir Scott, R. & Triantis, G. (2006), Anticipating
+Litigation in Contract Design, The Yale Law Journal, 115 (4): 814.
+69
+   Voir, entre autres, Guasch, J.L. & Straub, S. (2009), Corruption and Concession Renegotiations. Evidence
+from the water and transport sectors in Latin America, Utilities Policy, 17 (2): 185.
+70
+   Même un « mal à l'échelle internationale ». Voir ICC Award No. 1110 de 1963 de Gunnar Lagergren, YCA
+1996, p. 47 sqq.
+71
+   Voir Wells, L. (2010), Backlash to Investment Arbitration: Three Causes, dans: Waibel, M., Kaushal, A.,
+Chung, K.H. & Balchin, C. (Eds), The Backlash against Investment Arbitration: Perceptions and Reality, p.
+347. Siemens AG v. Argentina fait partie de affaires dans lesquelles alors qu'aucune preuve de corruption n'était
+apportée pendant les procédures, l'entreprise a néanmoins été déclarée coupable de corruption selon la loi
+Foreign Corrupt Practices Act, ce qui a conduit l'Argentine à chercher à obtenir une révision du procès et
+Siemens à renoncer à ses droits étant donné la décision arbitrale contre l'État. Voir Peterson, L. E. (2009),
+Siemens Waives Rights under Arbitral Award against Argentina; Company’s Belated Corruption Confessions
+Had Led Argentina to Seek Revision of 2007 Ruling: https://www.iareporter.com/articles/siemens-waives-rights-
+under-arbitral-award-against-argentina-follows-companys-belated-corruption-confessions/
+72
+   World Duty Free Company Limited v. Kenya, ICSID Case No. ARB/00/7, Award, 4 Octobre 2006.
+73
+   Metal-Tech Ltd. v. Republic of Uzbekistan, ICSID Case No. ARB/10/3, Award, 4 Octobre 2013.
+
+                                                                                                              25
+
+
+Une autre proposition normative concrète visant à mettre en valeur la gouvernance adaptative
+de la relation contractuelle et le lien entre contrat et traité est le recours plus répandu des
+Principes UNIDROIT relatifs aux contrats du commerce international lors de la résolution
+des litiges relatifs au traité résultant de la renégociation des contrats d’investissement sous-
+jacents (on a déjà évoqué ces Principes comme outils pertinents pour l’interprétation des
+traités d’investissement dans les affaires El Paso et Suez).
+
+Le deuxième chapitre examine les principes UNIDROIT relatif au cas de force majeure, son
+statut au regard du droit international et son potentiel à être utilisé comme un principe général
+de droit pour la résolution des litiges relatifs au traité. L’application de la défense du cas de
+force majeure selon l’UNIDROIT peut apporter une perspective nouvelle dans la résolution
+équilibrée des litiges entre État et investisseur, car c’est une norme juridique moins rigide que
+la défense de nécessité en droit public international, qui place donc les parties davantage sur
+un pied d’égalité en ce qui concerne leur capacité à demander l’adaptation de leur contrat au
+changement de circonstances.
+
+À la différence de la recherche antérieure, qui s’est concentrée sur les outils de droit public
+permettant de trouver un équilibre entre intérêts publics et privés 74, comme le principe de
+proportionnalité emprunté au domaine du droit administratif ou certaines notes interprétatives
+clarifiant le sens de certaines normes de traité 75, cette thèse défend l’idée que les outils de
+droit privé, qui sont à la disposition des deux parties, ont une importance tout aussi grande
+dans la réalisation de cet équilibre 76. Dans le contexte particulier de la renégociation des
+contrats de PPP, les arbitres doivent développer des outils juridiques non seulement publics 77
+mais aussi privés 78 pour faciliter la gouvernance adaptative de la relation des parties.
+
+
+74
+   Voir entre autres Van Harten, G. (2009), Investment Treaty Arbitration and Public Law, Oxford Scholarship
+Online, ainsi que Van Harten, G. & Loughlin, M. (2006), Investment Treaty Arbitration as a Species of Global
+Administrative Law, The European Journal of International Law, 17 (1): 121, et Schill, S. (2011), International
+Investment Law and Comparative Public Law, Oxford Scholarship Online.
+75
+   Par exemple, la note interprétative à propos de certaines dispositions du chapitre 11 de l'ALENA, qui ont été
+adoptées par la Commission du libre-échange. On pourrait considérer le mécanisme d'interprétation pour
+adapter un traité à un changement de circonstances ou corriger une interprétation avancée par des arbitres avec
+quelque scepticisme étant donné que les traités internationaux d'investissement eux-mêmes sont par nature des
+contrats incomplets qui ne peuvent prévoir toutes les contingences, et laissent donc un pouvoir discrétionnaire
+important aux arbitres dans le choix de leurs propres normes.
+76
+    Il est important de faire la différence entre les types de litiges d'investissement et les différents enjeux
+impliqués. Comme nous l'avons déjà expliqué au début de ce chapitre, cette thèse étudie plus spécialement le
+type particulier de litiges découlant des PPP d'infrastructure par lesquels le fonctionnement et le contrôle des
+services publics stratégiques sont délégués à un investisseur privé étranger. Sur la différenciation des litiges
+d'investissement, voir Maupin, J. (2014), Differentiating Among International Investment Disputes, dans:
+Douglas, Z., Pauwelyn, J. & Viñuales, J. (Eds), The Foundations of International Investment Law, Bringing
+Theory into Practice, Oxford University Press, pp.467-498.
+77
+   Comme la clause « rebus sic stantibus » – assez limitée dans son application, comme la CIJ l'indique dans
+l'affaire Fisheries Jurisdiction sur la juridiction en matière de pêche [1974] CIJ Rep 3) – de l'article 62 de la
+Convention de Vienne sur le droit des traités, comme contrepoids au principe de « pacta sunt servanda » de
+l'article 26 de la même convention. L'importance de « rebus sic stantibus » a aussi été démontrée dans la crise
+financière mondiale récente. Voir Ferré, H. & Duggal, K. (2011), The world economic crisis as a changed
+circumstance: http://ccsi.columbia.edu/files/2014/01/FDI_43.pdf
+78
+    En particulier les Principes UNIDROIT pour les contrats commerciaux internationaux. Sur l'importance
+émergente des principes traitant les problèmes arrivant dans le contexte particulier des contrats d'investissement
+
+                                                                                                               26
+
+
+La dernière proposition normative faite dans le dernier chapitre est d’utiliser la médiation
+internationale comme mécanisme de gouvernance pour faciliter l’adaptabilité du contrat. La
+conception de la médiation proposée souligne le processus de renégociation en soi et sa mise
+en œuvre d’une façon fondée sur la bonne foi, dépolitisée, transparente et équilibrée. Outre
+les règles et mécanismes interprétatifs pour traiter la renégociation comme une question
+juridique centrale dans l’arbitrage international, il faut donner plus de visibilité et de
+transparence au processus de renégociation lui-même. La nature même de la médiation
+comme mécanisme indépendant visant à trouver une solution dès le début des conflits entre
+les investisseurs et l’État et l’adaptation coopérative de la relation à long terme des parties,
+rend pertinente la gestion neutre, dépolitisée et non opportuniste du processus de
+renégociation79.
+
+Pour résumer, la perspective originale de cette thèse est le point de vue réaliste qu’elle adopte
+sur le pouvoir de négociation réel et sur l’attitude et de l’État hôte et de l’investisseur
+étranger. En prenant en compte la nature véritablement « hybride » du régime du droit de
+l’investissement80, en particulier dans le cas des contrats de PPP, elle affirme que l’État peut
+agir en tant que partie « privée » demandant l’adaptation légitime d’un contrat complexe et à
+long terme, tout comme l’investisseur a le pouvoir, en tant que monopoliste privé, d’agir en
+tant qu’acteur « public » ayant potentiellement une emprise sur le gouvernement et initiant
+des renégociations stratégiques dans un environnement non concurrentiel. Dans un paysage si
+complexe, on fait appel à l’arbitrage international de l’investissement pour résoudre à la fois
+les contingences et les risques, en renonçant par-là même à une dichotomie public-privé
+rigide81. Les arbitres n’ayant pas exploré jusqu’au bout les règles et les mécanismes
+
+
+à long terme (comme le sont par excellence les PPP), voir l'étude en cours de l'Institut international pour
+l'unification du droit privé: http://www.unidroit.org/work-in-progress-studies/current-studies/long-term-
+contracts. Voir aussi Bonell, M.J. (2014), The UNIDROIT Principles of International Commercial Contracts
+and Long-Term Contracts: http://www.unidroit.org/english/documents/2014/study50/s-50-126-e.pdf. Sur le
+dépoiement potentiel des principes de l'UNIDROIT en matière d'arbitrage international des investissements, voir
+Bonell, M.J. (2013), Model Clauses for Use of the UNIDROIT Principles of International Commercial
+Contracts          in      Transnational          Contract       and       Dispute        Resolution       Practice:
+http://www.unidroit.org/english/documents/2013/study50/mc/s-50-mc-01rev-e.pdf
+79
+   von Kumberg, W.J., Lack, J., & Leathes, M. (2014), Enabling Early Settlement in Investor-State Arbitration -
+The Time to Introduce Mediation Has Come, ICSID Review, 28 (3): 133.
+80
+   Sur les origines de l'arbitrage international d'investissement dans l'arbitrage commercial et l'extension du
+régime arbitral qui a suivi dans la résolution de litiges réglementaires, voir Van Harten, G. (2009), supra note
+74. Sur la nature de l'arbitrage international de l'investissement, voir Douglas, Z. (2003), The Hybrid
+Foundations of Investment Treaty Arbitration, British Yearbook of International Law, 74 (1): 151.
+81
+   Pour une approche juridico-réaliste du rôle des adjudicateurs, voir Posner, R. (2011), Realism about Judges,
+Northwestern University Law Review, 105 (2): 577, p. 577: “The courts must address themselves in some
+instances to issues of social policy, not because this is particularly desirable, but because often there is no
+feasible alternative. […] The realistic theory can be traced back to Plato’s dialogues, before t there was a legal
+profession or professional judges. In the Apology, Socrates notes that each judge […] has sworn that he will
+judge according to the laws, and not according to his own good pleasure”- but in Gorgias Socrates predicts that
+his trial will be the equivalent of the trial of a doctor prosecuted by a cook before a jury of children. And in the
+Republic Thrasymachus argues that justice is simply the will of the stronger” (« Dans certains cas les cours
+doivent elles-mêmes régler des problèmes de politique sociale, non pas parce que cela est particulièrement
+désirable, mais souvent parce qu'il n'y a pas d'alternative possible. […] On peut remonter la trace de la théorie
+réaliste jusqu'aux dialogues de Platon, auparavant la profession juridique ou les juges professionnels n'existaient
+pas. Dans l'Apologie, Socrate remarque que chaque juge […] a juré qu'il jugerait selon les lois, et non selon son
+bon plaisir » – mais dans le Gorgias Socrate prédit que son procès sera l'équivalent du procès d'un docteur
+
+                                                                                                                 27
+
+
+internationaux, en particulier les principes interprétatifs facilitant l’adaptation durable du
+contrat de PPP, la présente recherche se donne pour objet de pallier ce manque.
+
+Il est possible de le faire en développant les critères que les tribunaux d’arbitrage devront
+utiliser pour décider si la renégociation d’un contrat de concession constitue une violation du
+traité, à savoir, de la norme du « traitement juste et équitable ». Une telle solution devrait être
+fondée sur une approche faisant le lien entre droit et économie (des coûts de transaction), ou
+entre « droit sur le papier » et « droit en action ». Cela implique qu’afin d’évaluer si une
+renégociation contractuelle a violé la norme du TJE, les arbitres prennent en compte la
+gouvernance du contrat et le progrès de toute renégociation dans leur entièreté.
+
+Pour résumer, le propos ici est d’aider les arbitres en développant des critères permettant de
+différencier une renégociation respectant le droit d’une négociation violant le traité. Étant
+donné la nature vague et la mutabilité de la norme du TJE, les arbitres doivent se tourner vers
+les principes de la théorie du contrat relationnel comme méthode interprétative appropriée
+pour déterminer le contenu du « traitement juste et équitable ».
+
+Une interprétation relationnelle du TJE, fondée sur les intermédiaires de « mutualité » et de
+« dynamisme », lisserait même certaines des asymétries résultant de l’inégalité des armes
+accordées aux investisseurs étrangers et aux États hôtes en droit international. Alors que les
+contrats sont souvent renégociés quand les investisseurs étrangers font face à des cas de force
+majeure ou même à des difficultés financières moins importantes, l’État n’a pas d’égale
+possibilité de recourir à l’arbitrage pour obtenir des dommages-intérêts contre un investisseur
+défaillant. Ainsi, céder à une demande de renégociation 82 est souvent la seule possibilité qu’il
+ait si l’investisseur demande avec insistance à ne pas suivre l’accord précédent.
+
+On trouve un exemple de ce déséquilibre de l’arbitrage international de l’investissement dans
+l’affaire Aguas Argentinas 83. Suez et al avait lancé des renégociations afin d’obtenir des
+termes contractuels plus favorables (y compris l’indexation des tarifs de l’eau sur le dollar –
+clause absente du contrat original, mais qui devint le cœur de la décision arbitrale contre
+l’Argentine qui suivit). Le gouvernement n’avait aucun droit au niveau international pour
+imposer l’exécution des termes originaux du contrat face aux exigences de l’investisseur.
+Inversement, quand l’Argentine fit l’objet de pressions pour renégocier à cause de la
+dépression économique qui frappa le pays à la fin des années 1990, l’investisseur principal
+
+
+
+
+poursuivi par un cuisinier devant un jury d'enfants. Et dans la République Thrasymaque affirme que la justice
+n'est que la volonté du plus fort »). Vor aussi Llewellyn, K. (1931), Some Realism about Realism: Responding
+to Dean Pound, Harvard Law Review, 44 (8): 1222.
+82
+   Pour une demande de renégociation du contrat initial forte et initiée par un investisseur (et opportuniste selon
+les amici curiae), voir par exemple l'affaire Biwater Gauff (Tanzania) LTD v. United Republic of Tanzania,
+ICSID No. ARB/05/22, 24 juillet 2008.
+83
+   Voir la décision Suez v. Argentina, supra note 61.
+
+                                                                                                                28
+
+
+poursuivit l’État en vertu du TBI entre la France et l’Argentine, exigeant l’exécution de la
+version la plus récente de son contrat 84.
+
+La perspective de cette thèse n’est pas seulement originale ; elle est aussi d’actualité. Malgré
+le temps qui s’est écoulé depuis la vague de contrats d’investissement dans les infrastructures
+énergétiques qui ont marqué l’ère du « Consensus de Washington », les affaires étudiées sont
+toujours autant d’actualité. Tout d’abord, plusieurs de ces affaires de renégociation, en
+particulier celles qui sont nées de la crise de l’Argentine, sont toujours en cours d’examen, ou
+n’ont été résolues que très récemment (ce qui a donné lieu à des décisions longues, et parfois
+aussi originales, comme dans Urbaser85, où le tribunal a adopté une approche plus centrée sur
+le contrat relationnel en prenant également en considération la conduite de l’investisseur et en
+le tenant responsable de violations des droits de l’homme).
+
+Ensuite, le problème des renégociations et des modifications contractuelles, et la prétendue
+violation du traité général qui en découle, ne cesse de donner lieu à de nombreuses affaires.
+On en trouve un exemple récent dans la décision sur la fin des contrats égyptiens pour le
+développement du gazoduc entre l’Égypte et Israël, dans laquelle le tribunal du CIRDI a
+examiné la décision de la CCI sur la fin prétendument disproportionnée du contrat pour
+décider s’il y avait violation du traité d’investissement bilatéral en question86. Enfin, la
+privatisation de l’infrastructure énergétique reste en général une pratique très actuelle,
+comme le montre, entre autres, la plainte que la compagnie d’énergie espagnole Gas Natural
+Fenosa a menacé de déposer auprès du CIRDI contre la Colombie pour recouvrer certains
+paiements d’électricité dus par des clients près de la côte caribéenne 87.
+
+Le prisme analytique à travers lequel le problème des renégociations contractuelles est traité
+est celui de l’économie des coûts de transaction, et en particulier de la théorie des contrats
+incomplets. L’économie des coûts de transaction (ici ECT), est le cadre analytique pertinent
+pour traiter la gouvernance des relations contractuelles. Le but de l’ECT est de réaliser des
+économies sur les coûts de transaction de la rationalité limitée et de l’opportunisme. Ces
+risques sont encore plus aigus dans le cas de contrats incomplets et des difficultés qui en
+découlent en matière de vérifiabilité des contingences et d’exécution des dispositions
+pertinentes.
+
+Selon Commons (1932) « la toute dernière unité d’activité doit contenir en elle-même les
+trois principes de conflit, de mutualité de d’ordre. Cette unité est une transaction »88. L’ECT
+
+84
+   Voir Wells, L., supra note 75, Backlash to Investment Arbitration: Three Causes, dans: Waibel, M., Kaushal,
+A., Chung, K.H. & Balchin, C. (Eds), The Backlash against Investment Arbitration: Perceptions and Reality,
+Kluwer Law International, pp. 345-346.
+85
+   Urbaser S.A. and Consorcio de Aguas Bilbao Bizkaia, Bilbao Bizkaia Ur Partzuergoa v. The Argentine
+Republic, ICSID Case No. ARB/07/26, Award, 8 Decembre 2016.
+86
+   https://www.iareporter.com/articles/in-new-egypt-ruling-disproportionate-contract-termination-and-failure-to-
+prevent-pipeline-attacks-underpin-fortier-chaired-tribunals-findings-of-bit-breach/
+87
+     http://globalarbitrationreview.com/article/1138238/colombia-will-face-billion-euro-power-claim
+88
+     Commons, J. (1932), The Problem of Correlating Law, Economics, and Ethics, Wisconsin Law Review 8(1):
+3.
+
+                                                                                                             29
+
+
+se concentre sur les transactions comme unités principales d’analyse et pose que la
+« gouvernance » est le moyen par lequel on peut obtenir l’ordre car elle permet de surmonter
+les conflits entre les parties contractuelles en visant à réaliser des gains mutuels. À la
+différence de simples transactions de marché qui sont exécutées instantanément, la
+gouvernance est la gestion de relations contractuelles continues, et, en tant que telle, elle est
+essentielle pour l’exécution de contrats complexes et à long terme 89.
+
+Les contrats de concession d’infrastructures appartiennent à la catégorie des contrats par
+définition incomplets 90. Ils sont développés dans des conditions de dépendance bilatérale
+dans lesquelles on trouve deux hypothèses clé de comportement : d’une part, la rationalité
+limitée fait que les parties sont dans l’incapacité de prédire à l’avance chaque contingence
+susceptible d’arriver au cours du cycle de vie entier du projet. Cette réalité rend la
+renégociation et l’adaptation de la relation contractuelle inévitable de fait. D’un autre côté, la
+spécificité des actifs et les coûts (politiques) liés à l’admission de l’échec d’un programme de
+privatisation et au changement du titulaire enferme les deux parties du PPP dans une relation
+d’emprise potentielle et de comportement opportuniste.
+
+Dans ce contexte de dépendance bilatérale, l’objectif de l’ECT est d’étudier les structures de
+gouvernance qui facilitent et la renégociation de bonne foi et l’adaptation du contrat de
+concession par la prévention des risques qu’encourt son succès à long terme et découlant de
+la rationalité limitée et de l’opportunisme. Plus spécifiquement, cette thèse étudie les
+institutions qui peuvent permettre la gouvernance à long terme du contrat de concession.
+
+Outre les principes généraux de l’ECT mentionnés ci-dessus, il reste encore deux arguments
+centraux donnant au cadre analytique que nous déployons ici sa structure. Tout d’abord, le
+contrat international d’investissement est un outil de gouvernance susceptible d’adaptation
+aux changements de circonstances et de besoins 91. Ensuite, l’institution étudiée comme
+structure de gouvernance est l’arbitrage international d’investissement. L’arbitrage est une
+forme mondiale de gouvernance administrative ayant la capacité de créer des incitations
+soutenant la renégociation et l’adaptation durables des contrats sous-jacents en économisant
+sur les coûts de transaction de la rationalité limitée et de l’opportunisme.
+
+Enfin, une autre raison pour laquelle l’ECT convient aux objectifs analytiques de cette thèse
+réside en sa rigueur intellectuelle et sa méthode interdisciplinaire. L’approche qui vise à
+apporter des solutions à des problèmes et que nous adoptons ici requiert un état d’esprit actif
+et interdisciplinaire prêt à traverser des frontières disciplinaires afin de répondre à la
+question : « Que se passe-t-il ici ? ». Pourquoi la renégociation reste-t-elle un problème
+juridique largement inexploré en arbitrage international de l’investissement, malgré le fait
+qu’on la trouve partout dans la réalité, d’après les découvertes de la recherche en économie ?
+Quelles sont les règles et les mécanismes qui permettent de combler ce manque et de
+89
+   Williamson, O. (1998), The Institutions of Governance, The American Economic Review, 88 (2): 75.
+90
+   Sur la triple classification des contrats en classiques, néoclassiques et relationnels (question qui sera étudiée
+au chapitre suivant), voir Macneil, I. (1978), Contracts: Adjustment of Long-Term Economic Relations under
+Classical, Neoclassical, and Relational Contract Law, Northwestern University Law Review, 72 (6): 854.
+91
+   Williamson, O. (1981), supra note 1, p. 550.
+
+                                                                                                                 30
+
+
+contribuer à l’adaptation durable des contrats de PPP, en s’appuyant sur les découvertes des
+domaines du droit, de l’économie et de la psychologie comportementale 92 ?
+
+L’application du cadre analytique de l’ECT au domaine de l’arbitrage international de
+l’investissement est une approche originale qui promet d’offrir de nouveaux aperçus sur la
+résolution des déséquilibres entre les parties des PPP que la résolution d’affaires très
+médiatisées dans le domaine stratégique des industries d’infrastructure produit. En utilisant
+les outils de l’ECT et de la théorie économique des contrats pour répondre à la façon dont les
+arbitres rendent des décisions sur la renégociation de contrats internationaux d’investissement
+peut permettre de mieux comprendre le compromis entre engagement et flexibilité en droit
+international de l’investissement93 et ses implications pour la durabilité des PPP
+d’infrastructure.
+
+Dans ce contexte, la relation entre la théorie du contrat relationnel et l’économie des coûts de
+transaction est celle d’un moyen en vue d’une fin. En d’autres termes, l’application de la
+théorie du contrat relationnel comme méthode interprétative appropriée pour déterminer le
+contenu du TJE est le moyen de réaliser les objectifs d’économie sur les coûts de transaction
+de la rationalité limitée et de l’opportunisme à la fois pendant la résolution des litiges relatifs
+aux traités résultant de renégociations contractuelles et, par induction inverse, pendant la
+gouvernance des contrats de concession sous-jacents.
+
+La méthodologie déployée ici est fondée sur la révision et l’analyse de la doctrine arbitrale
+portant sur la question de la renégociation des contrats de concession d’infrastructure. Le
+recours à la méthode des cas Langdellian est la méthodologie qu’il faut pour résoudre un
+problème juridique soulevé dans le domaine assez nouveau de l’arbitrage moderne de
+l’investissement. L’application de cette approche inductive permettrait d’avoir des aperçus
+pratiques sur l’état réel des affaires en arbitrage international, et plus spécifiquement sur la
+façon dont les arbitres ont répondu au problème du compromis entre engagement et
+flexibilité, et sur le résultat final des affaires pertinentes (y compris la politique de l’exécution
+ou non-exécution des décisions qui en ont résulté).
+
+L’un des principaux objectifs de la méthode des cas inductive est d’étudier s’il y a une
+cohérence dans la façon dont les arbitres ont jugé la renégociation et si des motifs communs
+se dégagent de leurs raisonnements juridiques. On peut dire dès maintenant que de tels motifs
+cohérents n’apparaissent pas encore. Par exemple, dans l’affaire Aguas Argentinas, les
+renégociations qui ont eu lieu pendant l’exécution du contrat ont été vues comme des faits
+secondaires, ne nécessitant qu’une note au passage indiquant la relation de coopération des
+parties jusqu’à ce que l’économie du pays et la concession s’effondrent94. Il faut souligner
+
+92
+   Williamson, O. (2010), Transaction Cost Economics: The Natural Progression, The American Economic
+Review, 100 (3): 673, p. 682.
+93
+   Voir van Aaken, A. (2009), supra note 66.
+94
+   Voir la décision Suez supra note 61, p. 17, para. 40 : “The significance of these revisions and renegotiations
+lies not in the details of what the parties discussed and agreed but rather in what they suggest about the parties’
+relationship with and intentions toward each other. […] Argentina has suggested another interpretation for the
+revisions and renegotiations: that the claimants made an unrealistically low bid in order to win the Concession
+
+                                                                                                                31
+
+
+cependant qu’il n’y a eu aucun consensus parmi les membres du tribunal sur les effets
+juridiques de la renégociation contestée. L’arbitre Nikken a écrit une opinion dissidente sur le
+rôle des « attentes légitimes » dans l’évaluation du TJE, dans laquelle il a souligné
+l’inévitabilité de la renégociation dans un cas de force majeure, qu’il considérait être la
+« norme juridique internationale » pour l’adaptation des contrats d’investissement et un
+corollaire du principe général de « bonne foi »95.
+
+À la différence de l’affaire Aguas Argentinas, la renégociation a été au centre de la décision
+dans l’affaire Biwater v. Tanzania 96, à la fois en termes de substance et de procédure. La
+renégociation initiée par Biwater a été soumise à un contrôle rigoureux de la preuve devant le
+tribunal d’investissement, en particulier en ce qui concernait les motivations réelles de la
+renégociation, la performance de l’investisseur pendant la durée du contrat et le lien entre la
+renégociation et le dommage prétendument causé à l’entreprise par la République de
+Tanzanie. En termes de procédure, la renégociation a été assignée à des médiateurs
+indépendants, ce qui a évité une haute politisation du processus et le manque de transparence
+qui ont caractérisé les renégociations dans l’affaire Aguas Argentinas, lesquelles ont eu lieu
+directement entre le gouvernement et l’investisseur, en contournant le régulateur.
+
+Si des affaires d’arbitrage sont examinées tout au long de la thèse, le troisième chapitre
+s’arrête en particulier sur les litiges relatifs aux traités qui sont nés de la renégociation de
+contrats de concession après la crise économique de l’Argentine. L’analyse complète une
+matrice (présentée en annexe) qui montre les approches divergentes que les tribunaux
+d’arbitrage ont de la renégociation, allant d’une approche rigide, textualiste, comparable à la
+théorie classique des contrats, à une interprétation plus dynamique et mutuelle se rapprochant
+des principes de la théorie du contrat relationnel et reconnaissant le besoin d’une adaptation
+et d’une renégociation de bonne foi des contrats de concession sous-jacents.
+
+Pour conclure, la question de la méthode appropriée pour l’interprétation des traités
+d’investissement international préoccupe la communauté épistémique des chercheurs
+internationaux (venant d’horizons divers) depuis assez longtemps. La présente thèse examine
+ce problème épineux en s’écartant des différents camps idéologiques et de leurs
+recommandations de politique pour la réforme de la résolution des litiges entre État et
+investisseur, et adopte à la place une approche de l’interprétation des traités d’investissement
+juridico-réaliste, de bas en haut. Elle le fait en construisant une argumentation à deux
+
+and thereafter used the revision and renegotiation processes to secure tariff increases, which if they had been
+included in the original bid, would not have gained the claimants the Concession in the first place. Other than
+supposition, Argentina offered no evidence to support this interpretation of the Claimant’s actions.”
+(« L'importance de ces révisions et de ces négociations n'est pas dans les détails de ce que les parties ont discuté
+et sur lesquels elles se sont mises d'accord, mais plutôt dans ce qu'ils suggèrent de la relation des parties l'une
+avec l'autre et de leurs intentions l'une envers l'autre. […] L'Argentine a suggéré une autre interprétation de la
+révision et des renégociations : que les demandeurs avaient fait une offre basse irréaliste afin de remporter la
+Concession et qu'ils avaient ensuite utilisé les processus de révision et de renégociation pour s'assurer des
+augmentations de tarifs, qui, si elles avaient été incluses dans l'offre initiale, ne leur aurait pas permis d'obtenir
+la Concession initialement. En dehors de cette hypothèse, l'Argentine n'a présenté aucune preuve pour soutenir
+cette interprétation des actions du demandeur. »)
+95
+   Voir supra note 63, paras 45-50.
+96
+   Sur l'affaire Biwater, voir supra note 82.
+
+                                                                                                                   32
+
+
+branches, fondée sur le lien entre le traité et les contrats d’État signés dans le cadre de ce
+traité, et en utilisant la renégociation de tels contrats comme expérience naturelle montrant le
+caractère relationnel de ces contrats.
+
+C’est cette combinaison de la nature « relationnelle » des « contrats » sous-jacents et le
+« lien » inséparable entre eux et le « traité » général qui fait de la « théorie du contrat
+relationnel » la méthode interprétative qui convient pour donner du sens aux normes
+contenues dans des traités d’investissement, et en particulier à la norme (la plus litigieuse) du
+traitement juste et équitable. La réceptivité de ces normes à la méthode d’interprétation de la
+théorie du contrat relationnel est renforcée par leur nature propre en tant que normes
+relationnelles. Leur caractère relationnel est dû à leur formulation vague et ouverte, qui les
+rend « par définition incomplètes » et dépendantes des circonstances individuelles de la façon
+dont la relation contractuelle particulière entre l’État et l’investisseur a été mise en œuvre et a
+évolué.
+
+Proposer la théorie du contrat comme méthode d’interprétation des traités d’investissement
+est une tendance émergente mais pas tout à fait inédite. Déjà au début des années 1930,
+Lauterpacht a mis au jour la distinction entre lois publiques et lois privées. Prenant le contre-
+pied de l’école positiviste et adoptant une approche juridico-réaliste, empruntée aux relations
+internationales et à la pratique réelle des États, Lauterpacht a appliqué certaines analogies de
+droit privé au droit international, ouvrant ainsi la voie à l’application de la théorie du contrat
+pour l’interprétation des traités, en particulier par les tribunaux d’arbitrage.
+
+À la suite de Lauterpacht et d’autres, plusieurs chercheurs ont suggéré ces dernières années la
+nature contractuelle des traités internationaux d’investissement. Ils ont de la même façon
+traduit plusieurs problèmes d’origine contractuelle, en particulier le compromis entre
+engagement et flexibilité (ou entre pacta sunt servanda et clausula rebus sic standibus) en
+principes internationaux pour l’interprétation des traités. Ces principes contractuels se
+concentrent souvent sur la conception de structures incitatives forçant les parties à « coopérer
+dans un jeu d’interactions répétées » quand elles exécutent le traité. On trouve un exemple
+parlant de l’utilisation de principes contractuels pour l’interprétation des traités dans
+l’application, pour la résolution de litiges entre État et investisseur, des Principes UNIDROIT
+relatifs aux contrats du commerce international visant à interpréter les normes vagues des
+traités.
+
+Ce qui rend le présent projet plus original qu’une simple application de la théorie des contrats
+pour l’interprétation des traités est qu’il pousse le débat sur le lien entre les deux instruments
+encore plus loin. Il le fait en proposant une branche spécifique de la théorie des contrats, à
+savoir, la théorie des contrats relationnels, comme méthode d’interprétation des traités
+d’investissement, et en s’appuyant sur la pratique des renégociations contractuelles comme
+expérience naturelle prouvant le lien inséparable entre le traité contesté et le contrat sous-
+jacent, dont la renégociation a donné lieu au litige relatif au traité.
+
+
+
+
+                                                                                                33
+
+
+La méthodologie pour approcher le lien contrat-traité dans ce contexte ressemble à un jeu à
+trois niveaux : d’abord, la recherche se concentre sur le microcosme des contrats
+d’investissement sous-jacents en identifiant, à la fois doctrinalement et empiriquement, les
+caractéristiques qui les rendent relationnels. Ensuite, elle examine le lien entre ces contrats
+relationnels et les normes (spécifiquement le TJE) incluses dans les traités d’investissement
+généraux, en particulier la façon dont l’évolution du contrat et la renégociation affectent
+l’interprétation des normes de ces traités. Enfin, à travers à la fois une analyse doctrinale et
+jurisprudentielle, l’attention se porte spécifiquement sur ces normes des traités (à savoir le
+TJE) qui ont des caractéristiques qui les rendent semblables à des contrats relationnels, en
+appelant ainsi à appliquer certains principes de la théorie des contrats relationnels pour leur
+interprétation.
+
+Il est important de souligner la nature dynamique de ce projet. De la même façon que
+l’interprétation des traités d’investissement est un projet « hybride » en construction, la
+théorie des contrats relationnels est également un domaine émergent, qui ne s’est pas encore
+cristallisé en un droit concret et immuable. Il ressemble de la sorte d’une certaine façon à la
+lex mercatoria et sert les besoins du fiat interprétatif de common law, souvent exercé par les
+tribunaux d’investissement, et menant progressivement à un précédent de facto (qui est par la
+suite formalisé, y compris par les critiques mêmes de ce précédent, quand ils formulent des
+normes de traité plus complètes, comme dans le cas de l’incorporation des « attentes
+légitimes » de la norme du TJE dans le CETA).
+
+La nature évolutive de la théorie des contrats relationnels peut souvent la rendre difficile à
+appréhender complètement et à la traduire en termes pratiques et en recommandations
+concrètes de politiques. Néanmoins, cette thèse rend cette théorie opérationnelle en proposant
+deux « intermédiaires interprétatifs » spécifiques, fondés sur ses principes : le « dynamisme »
+et la « mutualité ». Le premier intermédiaire rend compte à la fois de la nature changeante de
+la relation contractuelle des parties et du caractère ouvert, tant du point de vue du texte que
+de la fin, des normes des traités d’investissement, appelant à ce qu’elles soient interprétées de
+façon également dynamique. Le second intermédiaire permet d’ouvrir la possibilité d’inclure
+des obligations des investisseurs dans le régime international d’investissement par le moyen
+de l’interprétation d’un traité qui prenne en compte les réalités du contrat sous-jacent, en
+particulier quand c’est la renégociation d’un tel contrat qui a elle-même donné lieu au litige.
+
+Se servir d’une théorie évolutive pour l’interprétation tout aussi muable des normes de traités
+implique l’importance d’adopter une approche holistique et ouverte de tous les outils
+contenus dans une telle théorie interprétative. Au lieu d’adopter une réponse unilatérale (et
+plutôt simpliste) à des problèmes multiples (comme le principe de proportionnalité comme
+moyen de traiter tous les conflits d’intérêts entre investisseur et État hôte), la méthodologie
+de la théorie des contrats relationnels propose à la place une « conception de la
+gouvernance » pour l’interprétation des traités d’investissement visant à répondre à un
+objectif de politique concret.
+
+
+
+
+                                                                                              34
+
+
+L’objectif est l’ « économie des coûts de transaction de la rationalité limitée et de
+l’opportunisme » et l’ « alignement des incitations » des parties contractantes (et plus tard en
+conflit) qui en découle, afin de les « forcer à coopérer » tout en exécutant leur contrat dans le
+cadre des traités d’investissement (et du système de résolution des litiges entre État et
+investisseur qui y est inclus). S’appuyant sur la théorie des contrats relationnels et son accent
+sur un ensemble plus grand de parties prenantes impliquées dans la relation contractuelle, la
+conception de la gouvernance proposée voit les investisseurs étrangers (en particulier les
+entreprises multinationales ayant des structures de gouvernance d’entreprises transnationales
+complexes) comme des acteurs internationaux non traditionnels mais néanmoins puissants.
+Malgré le manque officiel de réglementation de ces acteurs en droit international, l’approche
+relationnelle peut permettre d’insérer les obligations des investisseurs dans les traités
+d’investissement à travers l’interprétation qui convient des normes (par nature incomplètes)
+qui s’y trouvent incluses, rendant ainsi le système plus équilibré, et par conséquent plus
+durable.
+
+S’inscrivant dans la ligne de la tradition juridique réaliste, ce projet ne construit pas une
+théorie interprétative incluant toutes sortes de litiges différents fondés sur un traité
+d’investissement. Au contraire, fondé une méthodologie de différenciation – en adéquation
+avec le cadre analytique de l’économie des coûts de transaction qu’il adopte ici – il considère
+qu’il n’existe pas d’approche interprétative unique qui convienne à tous les litiges relatifs aux
+traités, qui ont souvent des caractéristiques visiblement distinctes. Ce qui est nécessaire, à la
+place, c’est d’une méthodologie interprétative pragmatique qui, avec discernement, fait
+correspondre (pour citer Williamson) différentes transactions et différentes structures de
+gouvernance. Dans ce contexte discriminant, l’accent est mis sur cette catégorie particulière
+de « litiges réglementaires » résultant de la « renégociation des contrats d’État » dans le
+secteur des infrastructures énergétiques.
+
+Ce projet a des implications à la fois doctrinales et empiriques de grande échelle. Dans la
+première partie, il sème les graines d’une théorie pour la renégociation des contrats
+réglementaires signés et exécutés dans le cadre des traités internationaux d’investissement.
+Pour cela, il adopte la vision innovante de la relation (presque toujours hautement contestée)
+entre les deux instruments : au lieu de l’argument commun en faveur de l’impact que les
+traités d’investissement ont eu sur (l’internationalisation) des contrats sous-jacents, il regarde
+aussi l’autre côté de la médaille, c’est-à-dire, l’impact que ces contrats ont, à leur tour, sur les
+traités généraux.
+
+Dans ce contexte, l’argument principal est que la théorie des contrats relationnels montre que
+les termes de ces contrats, à mesure qu’ils évoluent, agissent comme « remplissage » pour les
+« normes » vagues « par défaut » incluses dans les traités d’investissement. Étant donné
+l’incomplétude de telles normes (en particulier de la norme sur le traitement juste et
+équitable), le lien entre le traité et le contrat, dont la renégociation a donné lieu au litige, peut
+aider l’interprétation des normes du traité contesté d’une façon qui réalise un meilleur
+équilibre entre intérêts publics et privés que d’autres méthodologies.
+
+
+
+                                                                                                  35
+
+
+En termes économiques, le déploiement d’une telle approche interprétative novatrice des
+traités d’investissement, lors de la résolution de litiges impliquant la renégociation de contrats
+réglementaires, a des conséquences évidentes sur l’alignement des incitations des parties
+contractantes, qui sont forcées de coopérer réellement au succès de la concession à long
+terme sous peine de voir d’autres plaintes opportunistes contre le traité rejetées par le tribunal
+d’arbitrage. En termes juridiques, l’application des intermédiaires et des outils de la théorie
+des contrats relationnels pour des raisons interprétatives a des effets clairs sur la « norme
+juridique applicable » pour juger « si une renégociation contractuelle a respecté le traité » ou
+pas.
+
+L’incohérence des décisions arbitrales à cet égard révèle le manque d’approche cohérente
+d’un problème élémentaire que le droit international de l’investissement est appelé à
+combler : le compromis entre stabilité et prédictibilité, ou entre les principes de pacta sunt
+servanda et de clausula rebus sic stantibus. Cette thèse démontre les incohérentes flagrantes
+dans le raisonnement juridique des tribunaux à propos des « effets juridiques d’une
+renégociation contractuelle » sur la prétendue violation d’une norme de traité. Leurs
+approches vont d’une demande de stabilité absolue du système juridique de l’État hôte, et de
+l’illégalité de la renégociation en tant que telle qui en découle, à une perspective plus
+relationnelle qui considère que la renégociation est juridiquement défendable dans certaines
+circonstances (par exemple en cas de force majeure) et que c’est le « processus » par lequel la
+renégociation est conduite qui entraîne une différence juridique dans le cadre du traité.
+
+Enfin, il est important de souligner l’actualité des efforts doctrinaux et juridico-réalistes de ce
+projet de recherche. Son accent sur les contrats dans le secteur particulièrement sensible des
+infrastructures énergétiques n’aurait pas pu être plus opportun, car le nombre des litiges
+réglementaires dans ce domaine ne peut que croître. Entre autres, comme un rapport de l’AIE
+publié en juillet dernier (2017) le montre, avec la croissance exponentielle de la demande
+d’électricité et le financement de bien plus de 90% des investissements dans le secteur de
+l’électricité par des prix réglementés ou par des contrats visant à gérer les risques de revenus,
+les politiques des gouvernement et les nouveaux modèles économiques vont jouer un rôle
+prééminent en attirant plus de financements. Il est évident que toutes ces politiques
+énergétiques et modèles économiques gouvernementaux donneront davantage lieu à des
+litiges devant les tribunaux arbitraux, nécessitant ainsi des méthodes interprétatives qui
+réalisent un meilleur équilibre entre intérêts privés et publics, et rendant le système de
+résolution des litiges État-investisseur plus cohérent et plus durable.
+
+
+
+
+                                                                                                36
+

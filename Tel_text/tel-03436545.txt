@@ -1,0 +1,1154 @@
+          Consumption, social interactions and preferences
+                                           Eve Sihra Colson
+
+
+
+      To cite this version:
+    Eve Sihra Colson. Consumption, social interactions and preferences. Economics and Finance. Institut
+    d’études politiques de paris - Sciences Po, 2017. English. �NNT : 2017IEPP0015�. �tel-03436545�
+
+
+
+
+                                   HAL Id: tel-03436545
+                 https://tel.archives-ouvertes.fr/tel-03436545
+                                      Submitted on 19 Nov 2021
+
+
+
+
+    HAL is a multi-disciplinary open access               L’archive ouverte pluridisciplinaire HAL, est
+archive for the deposit and dissemination of sci-     destinée au dépôt et à la diffusion de documents
+entific research documents, whether they are pub-     scientifiques de niveau recherche, publiés ou non,
+lished or not. The documents may come from            émanant des établissements d’enseignement et de
+teaching and research institutions in France or       recherche français ou étrangers, des laboratoires
+abroad, or from public or private research centers.   publics ou privés.
+
+
+                  Institut d’études politiques de Paris
+             ECOLE DOCTORALE DE SCIENCES PO
+                   Programme doctoral en économie
+                          Département d’économie
+
+
+                   Doctorat en sciences économiques
+
+
+
+
+     Consommation, interactions sociales et préférences
+
+                                       Résumé
+
+
+
+                            Eve SIHRA COLSON
+
+    Thèse dirigée par Thierry MAYER et Olivier ALLAIS
+
+                           soutenue le 26 juin 2017
+
+
+                                        Jury :
+- Olivier ALLAIS, Chargé de Recherche, HDR, INRA-ALISS
+- David ATKIN, Associate Professor (with tenure) of Economics, MIT       Rapporteur
+- Ghazala AZMAT, Professeur des Universités, IEP de Paris
+- Paola GIULIANO, Associate Professor (with tenure) of Economics, UCLA   Rapporteur
+- Thierry MAYER, Professeur des Universités, IEP de Paris
+
+
+ii
+
+
+                                                                                Résumé
+
+
+
+
+            thèse étudie la façon dont les incitations culturelles et sociales affectent le
+C
+     ETTE
+      comportement du consommateur. L’objectif est de mieux comprendre un cer-
+tain nombre de phénomènes, parmi lesquels : pourquoi les personnes souffrant de
+malnutrition dépensent une part significative de leur budget en biens ostentatoires
+(premier chapitre) ? Pourquoi des personnes différant seulement par le groupe social
+auquel elles appartiennent ne consomment pas les mêmes biens (deuxième chapitre)
+? Les interactions sociales contribuent-elles à la persistance de goûts locaux (troisième
+chapitre) ? Et l’intégration commerciale contribue-t-elle à la convergence des goûts
+(quatrième chapitre) ? Pour ce faire, les travaux de cette thèse font le lien entre la
+théorie standard de la consommation et l’économie comportementale. En effet, ces
+sujets requièrent de considérer la signification sociale des choix de consommation, en
+plus de l’effet du revenu et des prix.
+   Mon premier chapitre, conjointement écrit avec Clément Bellet, inclue le besoin
+de reconnaissance sociale au comportement de consommation des pauvres. Le cas
+d’étude est l’Inde, pays dans lequel la malnutrition est une préoccupation majeure.
+Plusieurs travaux empiriques suggèrent cependant que les pauvres en Inde dépensent
+un montant important en biens socialement valorisés – un comportement déconcer-
+tant étant donné le manque de nutrition adéquate. Pour expliquer ce comportement,
+nous introduisons le concept de subsistance sociale, défini comme le coût irréductible
+de vivre en société. L’idée principale de ce chapitre est qu’un pauvre disposant d’un
+même revenu devra dépenser plus en biens socialement valorisés dans les régions où
+l’inégalité est haute, par conséquent disposant de moins de revenu pour les produits
+plus nutritifs. Nous capturons la variation du niveau de subsistance sociale par la vari-
+
+
+                                             1
+
+
+ation d’inégalité entre les régions Indiennes. Nous estimons un système de demande
+sur dix-neuf catégories alimentaires et non-alimentaires utilisant cinq enquêtes des
+ménages Indiens (National Sample Surveys) couvrant 160 000 ménages en dessous
+du seuil de pauvreté. Ce chapitre apporte deux contributions majeures: première-
+ment, nous présentons une stratégie empirique afin d’identifier quels sont les biens
+socialement valorisés; deuxièmement, nous mesurons le coût calorique que les pau-
+vres doivent subir afin d’être respectés dans une société où le niveau de subsistance
+sociale augmente. Nos résultats principaux sont, premièrement, que les biens sociale-
+ment valorisés sont cohérents avec ce que l’on sait des normes sociales et culturelles
+en Inde, et sont des biens non-alimentaires ou moins nutritifs (chaussures, produits
+laitiers, épices, etc.). Deuxièmement, la perte calorique due à la privation relative
+s’élève à 10 à 15% de la consommation calorique moyenne des ménages pauvres pour
+un Gini médian. C’est un coût élevé étant donné que ces ménages sont déjà en mal-
+nutrition, et que cette perte a des effets néfastes sur le long-terme également (santé,
+capacité d’apprentissage, etc.). Nous estimons comme contrefactuel que le nombre de
+personnes sous le seuil de pauvreté étant en malnutrition serait réduit de dix points
+de pourcentage en l’absence de privation relative. Ce chapitre montre à quel point le
+besoin de reconnaissance sociale mène à une dépense substantielle du budget des in-
+dividus, en particulier pauvres, et peut amener au sous-investissement dans d’autres
+dimensions comme la nutrition, sapant leur santé et revenu futurs.
+   Mon second chapitre, également écrit avec Clément Bellet, apporte un point de vue
+différent sur l’effet de la reconnaissance sociale sur la consommation. Si le premier
+chapitre s’intéresse principalement à la pauvreté économique, ce chapitre considère
+l’effet de la hiérarchie sociale sur la consommation de groupes défavorisés. Plusieurs
+travaux montrent que les groupes en bas de la hiérarchie sociale dépensent une plus
+grande fraction de leur budget sur des biens visibles non-essentiels. Ce chapitre ap-
+porte une explication à ce comportement en analysant l’effet de l’inégalité relative en-
+tre castes en Inde. Premièrement, les castes hautes sont le groupe de référence des
+castes plus basses qui imitent leurs comportements de consommation ; deuxième-
+ment, une plus haute inégalité relative entre hautes et basses castes conduisent ces
+dernières à compenser leur privation de statut en dépensant plus sur les biens visi-
+bles/ostentatoires ; troisièmement, ce comportement de consommation se fait au détri-
+ment des dépenses alimentaires et est plus prononcé dans les catégories pauvres des
+basses castes. Dans les régions où les hautes castes sont deux fois plus riches que les
+basses castes, ces dernières dépensent jusqu’à 8% de plus en biens visibles, et autant
+de moins en nourriture. Pour les ménages vivant en dessous de $2 par jour, cela corre-
+spond à une réallocation budgétaire quotidienne de 15 centimes de dollar. Par ailleurs,
+
+                                           2
+
+
+tandis que les hautes castes sont le groupe de référence pour les basses castes, les mé-
+nages en dehors du système de caste Hindou (Musulmans, Tribus) ne sont pas affectés
+par l’inégalité relative. Nos résultats soulignent l’intérêt d’une analyse au niveau du
+groupe lorsqu’on considère les politiques de développement : la hiérarchie sociale
+sous-jacente peut avoir des conséquences néfastes pour les choix de consommation, et
+en conséquence, pour le développement au long-terme des groupes défavorisés.
+   Mon troisième chapitre est une étude des causes de la persistance des préférences
+locales. L’environnement économique et les interactions sociales (transmission hor-
+izontale) sont tous deux documentés comme affectant les décisions des individus,
+mais démêler les deux effets pour expliquer des différences persistantes dans les com-
+portements ne va pas de soi. La question centrale est : peut-on expliquer les choix
+hétérogènes simplement avec des différences de prix et revenu passés et présents, ou
+y a-t-il quelque chose laissé à l’interprétation basée sur les interactions sociales ? Le
+chapitre répond précisément à cette question en proposant une méthode empirique
+afin de capturer l’effet des interactions sociales sur les choix, tout en prenant en compte
+d’autres canaux. La stratégie utilisée est de considérer les dépenses alimentaires des
+ménages immigrants et de mesurer comment ils s’adaptent aux pratiques de consom-
+mation locale. Premièrement, il doit y avoir une différence de consommation local-
+isée et persistante en France : j’utilise la division culturelle entre le Nord et le Sud de
+la France dans la consommation de beurre et d’huile comme source d’hétérogénéité.
+Deuxièmement, j’utilise les dépenses des immigrants qui partagent une origine cul-
+turelle et une expérience passée similaires : tous sont d’origine Maghrébine ou La-
+tine, et ont une plus grande propensité à consommer de l’huile plutôt que du beurre
+par rapport aux natifs. J’observe donc l’origine et la localisation des migrants, et le
+prix relatif des biens entre régions. J’estime alors comment les migrants s’adaptent
+aux préférences alimentaires culturelles locales en montrant qu’un immigrant dans le
+Nord de la France consommera relativement plus de beurre qu’un immigrant dans le
+Sud à prix donnés. Je trouve que la distance en consommation de produits gras entre
+les immigrants est 40 à 45% la distance bilatérale de consommation entre les natifs.
+Cet article montre non seulement que les choix de consommation locaux ne sont pas
+déterminés par le seul environnement économique, mais également qu’ils persistent
+à travers les interactions sociales (transmission culturelle horizontale). C’est une pre-
+mière étape dans la compréhension de ce qui produit des préférences hétérogènes. Ces
+résultats ont deux applications potentielles : une meilleure estimation et prévision de
+la demande alimentaire en prenant en compte son composant non-économique, et une
+meilleure compréhension des liens entre équilibre culturel-institutionnel et incitations
+économiques.
+
+                                            3
+
+
+   Mon quatrième chapitre, écrit conjointement avec Thierry Mayer et José de Sousa,
+se focalise sur l’aspect institutionnel/économique qui affecte la formation des préférences
+culturelles. Au début des années 80, Theodore Levitt a proclamé qu’à travers la mondi-
+alisation, “Les besoins et désires du monde sont devenus irrévocablement homogènes”.
+De façon intéressante, cependant, on trouve très peu d’estimation empirique de ce
+phénomène d’homogénéisation des préférences après l’intégration économique. Ce
+chapitre explore l’effet de l’intégration commerciale en France, et si cela mène bien à
+une homogénéisation des goûts alimentaires dans le temps. La France est un pays très
+diversifié, avec des goûts localisés pour les consommations alimentaires qui persis-
+tent dans le temps, comme le montre troisième chapitre dans le cas de la consomma-
+tion de beurre et d’huile. Il y a pourtant des preuves d’une convergence des paniers
+de consommation. La question que l’on pose est donc : Les gens ont-ils des goûts
+plus similaires maintenant qu’auparavant ? Et en particulier, l’effet de la distance
+géographique sur les différences de goût diminue-t-il dans le temps ? Pour répon-
+dre à cette question, nous utilisons les enquêtes des ménages Français de 1973 à 2005
+(INSEE) qui contiennent les dépenses et quantités pour des produits alimentaires très
+détaillés, ainsi que les caractéristiques des ménages. La difficulté empirique princi-
+pale est de distinguer l’effet du goût de l’effet des prix et du revenu : cela est cru-
+cial, puisque l’homogénéisation des prix produit également une homogénéisation des
+comportements de consommation. Nous procédons donc en deux étapes : première-
+ment, nous estimons un modèle de demande flexible dans la dimension des prix et
+du revenu (Almost Ideal Demand System, Deaton et Muellbauer, 1980), et récupérons
+les paramètres de goût; deuxièmement, nous calculons une distance bilatérale de goût
+avec ces paramètres, et estimons une équation de gravité inspirée de la littérature en
+commerce international. Notre résultat principal est que l’effet de la géographie sur
+les différences de goût diminue significativement dans le temps pour les produits al-
+imentaires. En résumé, la France est en train de devenir plus “plate”, ou homogène.
+C’est remarquablement vrai pour toutes les catégories alimentaires, même pour celles
+où existe un goût localisé très persistant comme dans le cas des produits gras. Ces ré-
+sultats préliminaires apportent une preuve empirique que non seulement les paniers
+de consommation convergent dans le temps, mais aussi les goûts.
+
+
+
+
+                                           4
+
+
+                                                                          Résumé Long
+
+
+
+
+    “Ah, ne discutez pas ‘besoin’! Le dernier des mendiants a encore un rien de superflu
+    dans la plus misérable chose. Réduisez la nature aux besoins de nature, et l’homme
+    est une bête : sa vie ne vaut pas plus.”
+                               – William Shakespeare, King Lear, Acte II sc IV (1608)
+
+
+
+
+Introduction Générale
+    A notion de besoin caractérise souvent une nécessité biologique, le strict minimum
+L    pour se nourrir et se loger. Les besoins ont pourtant souvent été définis comme
+relatifs et propres à une situation donnée. Les incitations culturelles et sociales ten-
+dent à fournir des motivations puissantes aux individus, les conduisant à prendre des
+décisions parfois à leur détriment au plus ou moins long-terme. Ces choix révèlent
+certains besoins allant au-delà de la seule survie. Ma thèse a pour objectif de mieux
+comprendre ces décisions en incluant des composants sociaux ou culturels à la théorie
+standard de la consommation. Elle contribue à faire le lien entre deux branches impor-
+tantes de la littérature économique: l’analyse de la demande, et l’économie comporte-
+mentale/sociale.
+   Plusieurs raisons font de la consommation un point d’entrée intéressant pour l’étude
+des incitations sociales et culturelles. Premièrement, la consommation est au cœur
+de l’analyse économique, et la question de ses déterminants a une longue tradition
+en économie (Adam Smith, 1776). Deuxièmement, la consommation donne lieu à un
+choix actif et régulier de la part de chaque individu, devant révéler constamment ce
+
+                                               5
+
+
+qu’il préfère. Nous pouvons ainsi observer plus de variations que pour d’autres choix
+tels que le choix des prénoms, ou d’un partenaire de vie. Troisièmement, la consom-
+mation est le résultat d’un choix dans un environnement contraint (prix, revenu), in-
+troduisant par conséquent un arbitrage entre préférences et contraintes économiques
+observables. Quatrièmement, et en particulier parce que je me focalise essentiellement
+sur la consommation alimentaire, ces travaux donnent lieu à des applications immé-
+diates pour les politiques de santé et de nutrition.
+   Des travaux empiriques ont déjà mis en évidence le fait que les individus sont
+prêts à payer un prix conséquent (malnutrition, maladie) afin de suivre les impératifs
+socio-culturels. Garine (1979) observe, par exemple, que le maïs et le manioc sont con-
+curremment consommés comme base alimentaire dans une région climatique où tous
+deux peuvent être cultivés, et cela bien que le manioc comme aliment de base peine
+à remplir les besoins nutritifs qualitatifs de la population. Chakravarti (2007) note
+également que “bien plus que la pauvreté générale, les cultures alimentaires locales
+sont la cause prédominante de certaines maladies endémiques en Inde”. A propos des
+contraintes sociales, Veblen (1899) écrit que “les dépenses ostensiblement gaspillées
+afin de conférer un bien-être psychologique peuvent devenir plus indispensables que
+les dépenses de subsistance”. Plusieurs économistes ont remarqué que les personnes
+souffrant de malnutrition peuvent préférer dépenser plus en biens sociaux ou de statut
+plutôt que pour une nutrition adéquate (Deaton, 1996; Duflo et Banerjee, 2007), et que
+ces dimensions relatives sont suffisamment importantes pour devoir être incluses dans
+notre compréhension de la pauvreté (Sen, 1983, 1984; Ravallion et Chen, 2011).
+   Je m’inspire de tous ces travaux afin de répondre à des questions telles que : pourquoi
+les personnes souffrant de malnutrition dépensent une part significative de leur bud-
+get en biens ostentatoires (premier chapitre) ? Pourquoi des personnes différant seule-
+ment par le groupe social auquel elles appartiennent ne consomment pas les mêmes
+biens (deuxième chapitre) ? Les interactions sociales contribuent-elles à la persistance
+de goûts locaux (troisième chapitre) ? Et l’intégration commerciale contribue-t-elle à
+la convergence des goûts (quatrième chapitre) ? Ces sujets requièrent de considérer
+la signification sociale des choix de consommation, en plus de l’effet du revenu, des
+prix et de leur valeur fonctionnelle. En d’autres termes, ils requièrent de penser la
+consommation comme un langage.
+
+
+
+
+                                            6
+
+
+La Consommation comme Langage
+Les travaux de cette thèse ont tous pour hypothèse sous-jacente que la consommation
+produit un système de signes, ou langage. Ce système peut être traité comme un lan-
+gage dans le sens où chaque individu le maîtrise en fonction de sa culture, sa classe,
+son identité, et utilise ses signes selon ce qu’il souhaite exprimer. Cela inclue tous
+biens en dehors de leur valeur fonctionnelle, même ceux conventionnellement con-
+sidérés comme des nécessités telles que l’alimentation. “Quand il achète un produit
+alimentaire, le consomme, ou le sert, l’homme moderne ne manipule pas simplement
+un objet; ce produit alimentaire transmets une situation; il constitue une information;
+il signifie” (Barthes, 1961). Les biens sont utilisés pour créer et maintenir les relations
+sociales, incluant ou excluant les individus selon ce qu’ils choisissent de consommer
+(Mintz et Du Bois, 2002).
+   L’ouvrage principal de Veblen, Théorie de la classe de loisir (1899), est une référence
+incontournable pour la compréhension du système de signes sous-jacent à la consom-
+mation. Il introduit les concepts de consommation et loisir gaspillés ostensiblement,
+que l’on nomme usuellement conspicuous, ou ostentatoires. Il donne un argument évo-
+lutionniste à ces traits sociaux. Sa théorie est qu’au tout début de l’histoire de l’homme,
+les trophées de chasse étaient le symbole du succès et apportaient admiration et re-
+spectabilité à leur possesseur. Cela a permis aux chasseurs couronnés de succès de
+s’abstenir du travail domestique: ils se distinguaient par leurs possessions (trophées)
+et leur temps de loisir (en dehors du temps consacré à la chasse et la guerre). Avec
+l’essor de la population et de l’agriculture/activité industrielle, l’accumulation de la
+propriété a remplacé les trophées de chasse comme signe conventionnel du succès.
+   Une des facettes intéressantes de cette théorie est que l’accumulation des signes
+ostentatoires de richesse n’est pas la conséquence du manque de contrôle de soi, ni
+de l’envie envers ses pairs. C’est simplement l’expression tangible du besoin d’être
+respecté aux yeux de la société, produite par le processus évolutif des signes de succès
+dans l’histoire humaine. L’inaptitude à posséder un niveau adéquat de richesse fait
+obstacle au bien-être de chaque personne. Veblen écrit : “aucune classe de la société,
+pas même la plus abjectement pauvre, renonce à toute consommation ostentatoire cou-
+tumière. Les derniers articles de cette catégorie de consommation ne sont abandonnés
+que sous la contrainte de la plus pressante nécessité.”
+   L’explication évolutionniste de l’accumulation ostentatoire comme signe de succès
+trouve écho chez d’autres espèces également : plusieurs animaux passent un temps
+important à créer et décorer de véritables constructions afin d’augmenter leur chance
+
+
+                                            7
+
+
+de trouver un partenaire et se reproduire. Les oiseaux jardiniers et les poissons-globes
+sont deux exemples très intéressants de ce processus (voir les documentaires de la BBC
+sur ces espèces). Dans le cas des êtres humains, il est assez probable que l’accumulation
+de possessions puisse préserver des épisodes de famine ou prouver une aptitude à la
+chasse, deux conditions nécessaires pour prospérer dans un environnement compéti-
+tif. C’est pourquoi, et bien que ce comportement puisse également avoir une fonction
+instrumentale dans le temps présent (i.e. le statut peut être utilisé comme instrument
+pour avoir accès à certaines ressources), il est probablement profondément ancré dans
+les préférences suite à ce long processus d’évolution. Nous suivons plusieurs autres
+travaux en interprétant ce comportement comme le fruit d’une lente évolution (Rob-
+son, 2001; Saad et Vongas, 2009; Heffetz et Frank, 2008).
+   Baudrillard (1970, 1972) généralise l’idée de Veblen sur la consommation dans un
+nouveau contexte social. Il appelle à une sémiologie de la consommation, une analyse
+systématique des objets et de leur signification. Il observe également, comme Veblen,
+que le groupe le plus privilégié dans la société est la référence pour l’utilisation osten-
+tatoire de la consommation. La distinction entre bas et haut statut social ne s’exprime
+en revanche pas uniquement par les comportements ostentatoires. Le groupe social
+ayant le plus haut statut peut profiter des produits de luxe, mais c’est son privilège ab-
+solu dans d’autres dimensions du pouvoir (politique, économique, etc.) qui se traduit
+par l’utilisation ostentatoire de la consommation et du loisir. Ses habitudes de con-
+sommation se diffusent sans doute le long de la hiérarchie de statut, mais non ses
+privilèges dans d’autres sphères, ceux mêmes qui rendent sa position désirable et ses
+comportement de consommation imités. C’est d’ailleurs paradoxalement ce qui révèle
+l’appartenance à un groupe de statut plus bas : ceux-ci ne peuvent imiter que les pra-
+tiques de consommation, révélant leur rang par ce même fait. Baudrillard (1972) note
+qu’ils peuvent être même plus activement impliqués dans la production de signes
+ostentatoires par la consommation lorsque la mobilité sociale est basse, dans une ten-
+tative de compenser leur manque de position sociale ou de s’identifier avec le statut
+de ceux qu’ils imitent.
+   Les personnes sont-elles consciemment impliquées dans la production de signes
+à travers la consommation ? Probablement pas dans tous les processus. Il y a une
+production inconsciente de signes se référant à un code internalisé, aussi bien qu’une
+utilisation consciente de ces signes afin de se différencier. Ces deux aspects sont con-
+sidérés séparément par Baudrillard (1970). Le premier est l’utilisation de la consom-
+mation suivant un code dont les règles ne sont pas consciemment comprises par les
+individus, de même qu’une langue. Les individus pourront croire qu’ils choisissent
+librement de consommer tel ou tel objet auquel ils aspirent pour leur propre satisfac-
+
+                                            8
+
+
+tion, tandis que ces objets ont une signification implicite et distinctive au sein de la
+société dans laquelle ils vivent. Cela paraît évident lorsqu’on considère, par exemple,
+la décoration d’intérieur dans les ménages de classe moyenne utilisant un carrelage
+représentant du parquet, des papiers peints copiant le marbre, ou encore des nappes
+plastifiées imitant la dentelles. Si l’on demande pourquoi ils achètent de telles choses,
+la réponse est généralement “c’est ce que les gens achètent de nos jours”. D’un point
+de vue extérieur ou de statut supérieur, ces choix ont l’air de contrefaçons, de mau-
+vaises imitations, signes du statut social de leur propriétaire. Le propriétaire lui-même
+peut ne pas être pleinement conscient que les carreaux représentant un parquet sont
+les imitations des parquets en bois détenus par les sections plus riches de la société.
+Posséder ces carreaux peut cependant devenir le nouveau standard pour tout ménage
+plus pauvre, et ne pas les posséder peut reléguer l’individu à une position sociale non
+désirée.
+   L’utilisation conscience de ces signes, au contraire, est purement instrumentale
+et a pour fonction la différentiation de statut, parfois en vue d’autres bénéfices. Les
+groupes de statut élevé peuvent jongler avec ces signes en possédant des articles spé-
+cifiques et distinguables par leur propre groupe, comme par exemple un vase décoratif
+de luxe qui pourrait avoir l’air banal aux yeux d’un non connaisseur. A l’extrême, la
+renonciation à la consommation peut être un signe du niveau de pouvoir et de richesse
+– seuls les privilégiés ont la liberté de renoncer à signifier leur privilège. Les person-
+nes de statut plus bas dépensant un montant excessif – relativement à leur revenu –
+pour posséder la nouvelle pair de chaussures de marque peuvent également jouer con-
+sciemment avec les signes de consommation. La tendance générale est cependant que
+les biens de consommation sont instrumentalisés par les élites, groupe de référence,
+pour se différencier, avant de descendre de classe en classe jusqu’à la plus basse qui
+suit passivement. Le contenu du standard package (panier de biens possédés par tous
+jusqu’à la plus basse section) est formée par les biens précédemment contenus par le
+select package qui distingue les individus les plus riches.
+   Bandrillard écrit dans un contexte social digne d’être souligné : La très haute crois-
+sance des biens de consommation, phénomène plutôt récent dans l’histoire. Au sein
+d’une société en stagnation, le processus d’aspiration à de nouveaux biens et besoins
+est limité par les ressources et le processus de production. De nombreux exemples
+historiques montrent que les classes à revenus élevés ont restreint l’utilisation de cer-
+tains types de biens par les lois ou les normes sociales afin de maintenir la différenti-
+ation sociale.1 Ces restrictions de la consommation sont les témoins du signal social
+  1 Voir,   par exemple, Montaigne, Essais (1595), I, 43 sur les lois somptuaires en France
+
+
+
+                                                      9
+
+
+auquel renvoient les biens, car sinon, quel serait l’utilité de réduire leur accès ? Dans
+une société en croissance, cependant, le processus d’aspiration à de nouveaux biens
+et besoins est virtuellement illimité et suit le processus de différentiation au haut de
+la hiérarchie de statut. Le processus d’imitation des classes inférieures est alors dy-
+namique : Les biens qui se trouvent dans le standard package ont déjà été remplacés par
+d’autres dans le select package.
+   Si les biens sont utilisés pour différencier verticalement les individus suivant une
+hiérarchie de statut, ils peuvent également être signes de différentiation horizontale
+entre les groupes. En particulier pour ce qui concerne les pratiques alimentaires,
+les cultures et tabous locaux ont pour but de renforcer le sentiment communautaire
+(Mintz et Du Bois, 2002). D’ailleurs, on observe que la préservation de ces pratiques
+est un aspect très sensible de la relation entre communautés : Par exemple, chaque ten-
+tative d’organiser un apéritif “saucisson-pinard” en France a été jugée provocatrice, et
+ultimement refusée par les autorités comme trouble à l’ordre public. Il est évident
+que de tels événements sont censés amplifier les sentiments communautaires autour
+des pratiques alimentaires et tabous des différents groupes sociaux. Le récent débat
+en France à propos de la suppression d’une seconde option de repas lorsque du porc
+est servi dans les cantines scolaires est un autre exemple de la cristallisation de la dif-
+férentiation culturelle par les pratiques de consommation. Sur une note plus légère,
+toute personne discutant de beurre salé ou non-salé à un Breton peut comprendre
+l’importance de certains biens dans la définition d’identités distinctives.
+   Les éléments de la consommation qui dépendent du contexte social et culturel sem-
+blent suffisamment substantiels pour être inclus dans l’analyse de la demande. C’est
+d’autant plus important que les modèles standards montrent une large variation des
+comportements de consommation non expliquée par les prix et le revenu. Nous tour-
+nant maintenant vers l’évolution de la littérature sur ce sujet spécifique, nous allons
+voir que si ces idées ont été insuffisamment exploitées, elles ne font pas moins entière-
+ment partie de la tradition économique.
+
+
+
+Consommation et Reconnaissance Sociale
+Adam Smith (1776), écrivant à propos de la taxation, ne définit pas les nécessités en
+termes absolus. Il note :
+
+      Une chemise en lin n’est pas à strictement parlé une nécessité de vie. Les
+      Grecs et les Romains vivaient très confortablement, alors même qu’ils n’avaient
+      pas de lin. Mais dans les temps présents, à travers la plus grande partie de
+
+                                            10
+
+
+     l’Europe, un travailleur journalier qui se respecte aurait honte d’apparaître
+     en public sans chemise en lin. C’est pourquoi, sous le terme nécessité,
+     j’inclue non seulement les choses que la nature, mais aussi que les règles
+     de décence établies rendent nécessaires même aux gens de plus bas rang
+     [soulignement ajouté].
+
+   Une des premières définitions des nécessités comprend donc non seulement la sub-
+sistance, mais également les biens qui permettent d’apparaître en public sans honte.
+D’une façon intéressante, il n’exclue aucune section de la société de ces besoins relatifs,
+considérant que tous ont le besoin légitime de posséder une chemise en lin en Europe
+en ce temps-là. Cette citation montre à quel point la question des déterminants sociaux
+de la consommation, et en particulier des nécessités, a été longtemps centrale pour les
+économistes.
+   Comment ces besoins relatifs sont-ils déterminés, et qui détermine les règles de
+décence ? Comme Veblen et Baudrillard après lui, Adam Smith (1759) conclue égale-
+ment que les préférences sont déterminées par le haut : “il est dans notre disposition
+d’admirer, et par conséquent d’imiter, les riches et les grands, qui ont ainsi la possibil-
+ité de débuter ou mener une tendance.” En d’autres mots, le panier de biens nécessaire
+relatif est déterminé par la haute société.
+   Son travail contient également l’idée d’un impact négatif de ces besoins relatifs,
+idée sur laquelle repose une partie significative de mes travaux ; il écrit : “de nombreux
+pauvres placent leur fierté dans le fait d’être pris pour riches, sans considérer que les
+devoirs que cette réputation impose sur eux les réduisent bientôt à la mendicité, et font
+diverger leur situation de ceux qu’ils admirent et imitent" (Adam Smith, 1759). Cette
+idée introduit le mécanisme de trappe à pauvreté : Les sections plus pauvres de la
+société tentent désespérément de suivre les signes de décence sociale, ce qui en retour
+les appauvrissent en les empêchant de dépenser ce montant sur des investissements
+de long-terme (nutrition, éducation, etc.). Dans une société où les inégalités sont plus
+hautes, le niveau de nécessités sociales peut être si élevé que ce mécanisme pose une
+réelle menace à la réduction de la pauvreté.
+   Adam Smith n’était pas le seul économiste intéressé par l’aspect social du com-
+portement humain. Les interactions entre individus et les différentes caractéristiques
+de leur environnement ont été considérées comme la pierre angulaire du comporte-
+ment par plusieurs économistes éminents du dix-neuvième siècle (Becker, 1974). Si
+ces interactions ont été largement ignorées dans la littérature économique moderne,
+elles ont été de plus en plus intégrées dans différentes branches de l’économie. Je vais
+me focaliser sur deux d’entre elles dans les paragraphes suivants : La littérature sur
+
+                                              11
+
+
+les préférences interdépendantes, et sur la pauvreté.
+   Après les travaux fondateurs d’Adam Smith et Thorstein Veblen, Duesenberry
+(1949) introduit le revenu relatif dans la fonction d’utilité afin de faire le lien en-
+tre privation relative et taux d’épargne. Il affirme que les individus relativement
+plus pauvres sont poussés à consommer plus et épargner moins dans une société
+en croissance et plus inégalitaire (puisque leur revenu relatif baisse, ou leurs besoins
+sociaux augmentent). Leibenstein (1950), son contemporain, distingue différents ef-
+fets d’interdépendance : conformisme, snobisme (distinction) et effet Veblen (compris
+dans le sens restreint de la consommation ostentatoire amenée par des prix hauts). Il
+reporte également que ces effets sont absents des Principes de l’Economie de Marshall
+(1890) à cause de la complexité qu’ils introduisent dans l’analyse de la demande (i.e.
+non-additivité). Cette absence a été d’ailleurs reprochée à Marshall par Pigou et Cun-
+ynghame qui ont tout deux traité cette question dans des travaux précédents (Pigou,
+1903; Cunynghame, 1892). Leibenstein (1950) tente précisément de résoudre cette
+question et de réintégrer les effets d’interdépendance dans la théorie traditionnelle
+du consommateur (une tentative plus récente d’insérer ces effets de distinction et con-
+formisme dans la fonction d’utilité peut être trouvée dans Clark et Oswald (1998)). Ces
+échanges académiques montrent que les préférences interdépendantes sont au centre
+d’un débat vif sur la théorie du consommateur, et ont été mises de côté principalement
+pour des raisons pratiques, étant donnée la voie prise par l’économie à ce moment-
+là. Becker (1974) exprime une idée similaire, notant que “l’explication principale du
+manque d’attention des économistes aux interactions sociales n’est ni l’insolvabilité
+analytique ni l’intérêt porté à des concepts jugés plus importants, mais l’attention ex-
+cessive aux développements formels durant ces derniers soixante-dix ans.”
+   Ces échanges sont importants à comprendre puisque ce qui est en jeu pour l’inclusion
+des effets d’interdépendance est leur impact direct sur l’analyse du bien-être. Cela
+suppose en effet une externalité que le choix des autres impose sur son propre choix.
+Dans le cas de l’effet de privation relative, le revenu ou la consommation des plus
+riches pourrait affecter négativement les autres (Yitzhaki, 1979; Hey et Lambert, 1980).
+Cette insatisfaction relative peut en effet divertir des ressources et mener à des choix
+socialement non optimaux, par exemple en termes de crédit (Becker et Rayo, 2006;
+Bertrand et Morse, 2013), ou d’heures travaillées (Bowles et Park, 2005). Dans le cas
+de la consommation comme signal, tous sont amenés à dépenser un montant supplé-
+mentaire en biens ostentatoires afin de simplement maintenir leur rang dans la société
+(Hopkins et Kornienko, 2004). Cela peut également mener certains biens à être ven-
+dus à un plus haut prix que leur coût marginal, une hypothèse à l’origine de toute une
+littérature sur l’effet non-distortif de la taxation des produits de luxe (Ireland, 1994,
+
+                                           12
+
+
+2001; Bagwell et Bernheim, 1996). D’autres travaux soulignent le coût potentiel sur la
+santé (Deaton, 2001) ou le bonheur (Easterlin, 1995; revue dans Clark et D’Ambrosio,
+2014) liés au besoin de reconnaissance sociale.
+   La littérature sur les comportements des consommateurs contient également des
+tentatives d’introduction des choix des autres dans les systèmes de demande. Cela a
+été fait le plus souvent avec le concept de formation d’habitude : la consommation
+des autres nommée habitude externe, tandis que sa propre consommation passée est
+nommée habitude interne. Les travaux de Pollak (1970, 1976) sont fondamentaux pour
+l’introduction de ces concepts dans la demande; les préférences interdépendantes ont
+été également incluses dans l’Almost Ideal Demand System (AIDS, Deaton et Muell-
+bauer, 1980) par Alessie et Kapteyn (1991). La difficulté de démêler le sens de la causal-
+ité et de prendre en compte les prix a fait que la consommation n’a pas été le centre
+d’intérêt principal de la littérature plus récente sur les interactions sociales (Brock et
+Durlauf, 2000; Blume et al., 2011). L’article de Lewbel et al. (2016) sur l’effet des pairs
+sur la consommation, utilisant les mêmes enquêtes Indiennes que dans deux chapitres
+de ma thèse, est une tentative récente de réconcilier les deux branches de la littéra-
+ture. Ils trouvent que la consommation de ses pairs (définis comme ayant une même
+occupation et un même statut social dans un même lieu) a une influence sur ses pro-
+pres besoins, c’est-à-dire le niveau minimum de consommation de chaque bien. La
+signification sociale de la consommation a également été développée dans le concept
+de cascade de dépenses (Frank et al., 2005) dans une approche très Veblenienne. Hef-
+fetz (2011) a beaucoup contribué à l’identification empirique du composant social de
+la consommation en soulignant une corrélation positive entre l’élasticité revenu et la
+fonction de signal social de chaque bien.
+   La littérature sur la pauvreté et la privation a également pris en compte la notion de
+reconnaissance sociale. Le travail conceptuel le plus proche est celui d’Armatya Sen et
+l’approche par capabilité (1983, 1984). Son approche de la pauvreté et de la privation
+est multidimensionnelle, et considère des capabilités absolues correspondant à des
+besoins relatifs : “la privation absolue en termes de capabilités d’une personne est
+reliée à une privation relative en termes de commodités, revenus, ressources”. Cette
+définition mène à une compréhension du revenu non comme permettant un contrôle
+sur les biens, mais sur les capabilités. La consommation est un moyen pour accéder à
+plusieurs fins telles qu’avoir une nutrition adéquate, ou obtenir l’estime sociale. Ces
+fins requièrent toutes un certain montant relatif de chaque bien. Par exemple, si une
+personne sans voiture vit dans une ville où tous les autres en possèdent (Los Angeles),
+les transports publics seront peu développés et cette personne sera considérée pauvre
+puisque n’ayant pas accès à certaines capabilités (aller à son travail, à l’école, etc.). Ça
+
+                                            13
+
+
+ne sera pas le cas dans une ville où les transports publics sont développés de façon
+appropriée (New York). De même, si nous considérons la capacité de ne pas avoir
+honte en public, une chemise en lin était peut-être suffisante au temps d’Adam Smith;
+aujourd’hui, en revanche, chacun doit avoir des chaussures de marque.
+   Plusieurs tentatives ont été faites récemment pour intégrer les dimensions absolues
+et relatives de la privation dans les mesures de la pauvreté. Atkinson et Bourguignon
+(2001) et Ravallion et Chen (2011) se focalisent sur le calcul d’une ligne de pauvreté
+prenant en compte les capabilités se traduisant par des montants plus absolus (besoins
+biologiques) et les capabilités se traduisant par des montants relatifs (ne pas avoir
+honte en public, être mobile, etc.). On prend de plus en plus conscience que, pour
+utiliser la métaphore d’Adam Smith, “le coût d’une chemise en lin acceptable n’est
+pas nul, et n’est a priori pas différent pour une personne pauvre” (Ravallion et Chen,
+2011). Il y a un coût irréductible à vivre dans chaque société, comme il y en a un à
+survivre biologiquement ; c’est ce que j’appelle subsistance sociale.
+
+                                           d
+
+   Mon premier chapitre, intitulé “Le coût de la privation relative: subsistance sociale et
+malnutrition en Inde” et conjointement écrit avec Clément Bellet, s’inspire de cette lit-
+térature sur la reconnaissance sociale et la privation relative. Le cas d’étude est l’Inde,
+pays dans lequel la malnutrition est une préoccupation majeure : près de 50% des
+enfants entre zéro et cinq ans sont rachitiques (Unicef, 2015), et la malnutrition a
+été déclarée “honte nationale” par le précédent Premier Ministre, Manmohan Singh
+(2012). Plusieurs travaux empiriques suggèrent cependant que les pauvres en Inde
+dépensent un montant important en biens socialement valorisés – un comportement
+déconcertant étant donné le manque de nutrition adéquate et ses conséquences sur le
+long terme (Dasgupta, 1997). Ce chapitre apporte deux contributions majeures: pre-
+mièrement, nous présentons une stratégie empirique afin d’identifier quels sont les
+biens socialement valorisés; deuxièmement, nous mesurons le coût calorique que les
+pauvres doivent subir afin d’être respectés dans une société où le niveau de subsis-
+tance sociale augmente.
+
+
+
+
+                                            14
+
+
+             Per capita expenditure in cereal
+                                                              cereal                                                                         meat
+
+
+
+
+                                                                                             Per capita expenditure in meat
+                  0 50 100 150 200
+
+
+
+
+                                                                                                  0 20 40 60 80
+                                                  .1   .2        .3         .4     .5                                          .1   .2        .3         .4   .5
+                                                            Regional Gini                                                                Regional Gini
+             Per capita expenditure in clothing
+
+
+
+
+                                                             clothing                                                                        dairy
+
+
+
+
+                                                                                             Per capita expenditure in dairy
+                   0 10 20 30 40
+
+
+
+
+                                                                                                  0     20   40      60
+                                                  .1   .2        .3         .4     .5                                          .1   .2        .3         .4   .5
+                                                            Regional Gini                                                                Regional Gini
+
+
+                                                                Regional mean expenditure                                           Fitted line
+
+
+
+  Figure 1: Corrélation entre le Gini et la dépense régionale par catégories pour les
+          ménages en dessous du seuil de pauvreté (Source: enquête NSS)
+
+   Comme discuté dans les paragraphes ci-dessus, la subsistance sociale est fortement
+dépendante du niveau de vie de la section la plus haute de la société : plus grande est
+la différence entre les sections riches et les plus pauvres, plus ces dernières se sentent
+privées relativement aux autres et plus chère est la subsistance sociale. La privation
+relative a d’ailleurs été associée à l’inégalité (coefficient de Gini) par les travaux de
+Yitzhaki (1979). Nous capturons la variation du niveau de subsistance sociale par la
+variation d’inégalité entre les régions Indiennes. La Figure 1 donne une intuition du
+mécanisme à l’œuvre : elle montre l’évolution de la dépense régionale par tête en
+fonction du Gini régional pour quatre catégories. Les ménages en dessous du seuil de
+pauvreté semblent en effet consommer moins de céréales et produits animaux dans
+les régions plus inégalitaires ; au contraire, ils dépensent plus en vêtements et pro-
+duits laitiers. Ce fait concorde avec l’idée qu’un pauvre disposant d’un même revenu
+devra dépenser plus en biens socialement valorisés dans les régions où l’inégalité est
+haute afin de ne pas avoir honte en public, par conséquent disposant de moins de
+revenu pour les produits plus nutritifs. Ici, les biens socialement valorisés semblent
+être déterminés par leur visibilité (vêtements) aussi bien que par les normes sociales
+attachées aux castes hautes dans l’Hindouisme (la viande est impure, tandis que les
+produits laitiers sont révérés) – deux attributs des sections les plus riches de la société.
+   Pour confirmer cette intuition, nous estimons un système de demande sur dix-
+neuf catégories alimentaires et non-alimentaires utilisant cinq enquêtes des ménages
+
+                                                                                        15
+
+
+Indiens (National Sample Surveys) couvrant 160 000 ménages en dessous du seuil de
+pauvreté. L’estimation structurelle est basée sur le système de demande linéaire qui
+possède un niveau de référence spécifique à chaque bien. Ces niveaux de référence
+sont des quantités minimum que chaque ménage doit consommer. Nous les définis-
+sons comme fonctions de la privation relative : les biens socialement valorisés sont
+identifiés comme les biens dont la demande augmente avec la privation relative. Nos
+résultats principaux sont, premièrement, que les biens socialement valorisés sont co-
+hérents avec ce que l’on sait des normes sociales et culturelles en Inde, et sont des
+biens non-alimentaires ou moins nutritifs (chaussures, produits laitiers, épices, etc.).
+Deuxièmement, la perte calorique due à la privation relative s’élève à 10 à 15% de la
+consommation calorique moyenne des ménages pauvres pour un Gini médian. C’est
+un coût élevé étant donné que ces ménages sont déjà en malnutrition, et que cette perte
+a des effets néfastes sur le long-terme également (santé, capacité d’apprentissage, etc.).
+Nous estimons comme contrefactuel que le nombre de personnes sous le seuil de pau-
+vreté étant en malnutrition serait réduit de dix points de pourcentage en l’absence de
+privation relative. Ce chapitre montre à quel point le besoin de reconnaissance sociale
+mène à une dépense substantielle du budget des individus, en particulier pauvres,
+et peut amener au sous-investissement dans d’autres dimensions comme la nutrition,
+sapant leur santé et revenu futurs.
+
+                                           d
+
+   Mon second chapitre, intitulé “Moins de nourriture pour plus de statut : inégalité en-
+tre castes et consommation ostentatoire en Inde” et également écrit conjointement avec
+Clément Bellet, apporte un point de vue différent sur l’effet de la pression sociale
+sur la consommation. Si le premier chapitre s’intéresse principalement à la pauvreté
+économique, ce chapitre considère l’effet de la hiérarchie sociale sur la consommation
+de groupes défavorisés. Plusieurs travaux montrent que des individus similaires en
+tous points sauf le groupe social auquel ils appartiennent font des choix de consom-
+mation différents – avec une tendance qui émerge, à savoir que les groupes en bas de
+la hiérarchie sociale dépensent une plus grande fraction de leur budget sur des biens
+visibles non-essentiels (Charles et al., 2009; Khamis et al., 2012). Dans ce chapitre, nous
+apportons des faits empiriques pour expliquer ce comportement.
+   Les groupes sociaux sont généralement définis et ordonnés selon une hiérarchie de
+statut. C’est le cas en Inde, où les castes produisent une hiérarchie implicite entre les
+personnes et maintenue par la naissance et l’endogamie. Ce statut acquis par le rang
+de sa caste renforce d’autres privilèges tels que l’accès aux ressources et au pouvoir
+
+
+                                            16
+
+
+(Weber, 1922; Ridgeway, 2014). Ce chapitre montre les conséquences de cette hiérar-
+chie de statut sur plusieurs points : premièrement, les castes hautes sont le groupe
+de référence des castes plus basses qui imitent leurs comportements de consomma-
+tion ; deuxièmement, une plus haute inégalité relative entre hautes et basses castes
+conduisent ces dernières à compenser leur privation de statut en dépensant plus sur
+les biens visibles/ostentatoires ; troisièmement, ce comportement de consommation
+se fait au détriment des dépenses alimentaires et est plus prononcé dans les catégories
+pauvres des basses castes.
+                                                    .05
+
+
+
+
+                                                                                                                                                                                    .25
+                                                                                                                                   Regional expenditure share in animal products of LC
+    Regional expenditure share in toileteries of LC
+
+
+
+
+                                                                                                                                                                        .2
+                                   .04
+
+
+
+
+                                                                                                                                                           .15
+                  .03
+
+
+
+
+                                                                                                                                               .1
+    .02
+
+
+
+
+                                                                                                                                   .05
+
+
+
+
+                                                          -.4     -.2           0             .2              .4        .6                                                                -.4     -.2           0             .2              .4        .6
+                                                                Log of HC regional mpce controlling for regional mpce                                                                           Log of HC regional mpce controlling for regional mpce
+
+
+
+  (a) Produits de Beauté (parfum, savon,                                                                                          (b) Produits Animaux (viande, poisson,
+  crème)                                                                                                                          œuf, produits laitiers)
+
+  Figure 2: Dépenses régionales des basses castes en fonction du revenu relatif des
+                castes hautes (Source: Enquête NSS, 66ème vague)
+
+
+   La Figure 2 donne une intuition de ces résultats: nous pouvons y voir les dépenses
+régionales des basses castes en fonction du revenu relatif des castes hautes : lorsque
+les castes hautes sont relativement plus riches, les castes basses dépensent plus sur les
+produits de beauté qui sont typiquement classés dans les biens ostentatoires, et moins
+sur les produits d’origine animale qui ont une haute teneur en protéines mais sont
+considérés non-ostentatoires et impurs. Nous généralisons cette analyse en utilisant
+un modèle de demande log-log, et trouvons que les ménages de basse caste choisis-
+sent de consommer moins de nourriture et plus de biens visibles que les ménages de
+haute caste similaires. De plus, cette différence est plus fort pour les ménages pauvres,
+suggérant une interaction entre statut social et économique. Dans les régions où les
+hautes castes sont deux fois plus riches que les basses castes, ces dernières dépensent
+jusqu’à 8% de plus en biens visibles, et autant de moins en nourriture. Pour les mé-
+nages vivant en dessous de $2 par jour (ligne de pauvreté de la Banque Mondiale),
+cela correspond à une réallocation budgétaire quotidienne de 15 centimes de dollar.
+Par ailleurs, tandis que les hautes castes sont le groupe de référence pour les basses
+
+                                                                                                                             17
+
+
+castes, les ménages en dehors du système de caste Hindou (Musulmans, Tribus) ne
+sont pas affectés par l’inégalité relative.
+   Nos résultats soulignent l’intérêt d’une analyse au niveau du groupe lorsqu’on
+considère les politiques de développement : la hiérarchie sociale sous-jacente peut
+avoir des conséquences néfastes pour les choix de consommation, et en conséquence,
+pour le développement au long-terme des groupes défavorisés. C’est un argument
+fort pour entreprendre des politiques ciblant des groupes particulier, comme la dis-
+crimination positive, afin de combattre directement la privation de statut.
+   La recherche sur la consommation et la reconnaissance sociale a plusieurs lignes
+prometteuses à développer. Si la consommation est pensée comme un langage cor-
+respondant à l’impératif de différentiation sociale, elle donne naissance à un système
+dans lequel les biens se diffusent d’un groupe de référence aux autres strates de la
+société. Nous devrions alors être capables de détecter empiriquement le cycle de de-
+mande, capturant à la fois l’aspect de signal (différentiation) et l’aspect de privation
+relative (subsistance sociale) de chaque bien à chaque période. Les biens ont donc
+des caractéristiques changeantes, d’un signal de statut et richesse à une aspiration so-
+ciale sur toute l’échelle de revenu. Introduire ces caractéristiques dans un système
+de demande pourrait mener à des prédictions empiriques sur la dynamique de con-
+sommation et les parts de marché par catégories de produits durant le processus de
+développement. Le but final serait d’incorporer les incitations sociales dans l’analyse
+de la consommation, mesurer le biais résultant de ces incitations dans les dépenses
+des consommateurs, et suggérer des politiques publiques corrigeant ces biais.
+
+
+
+Consommation et Formation des Préférences
+Un autre aspect de la signification sociale de la consommation est de créer différents
+goûts, différentes cultures à travers les peuples. Nous avons vu que la littérature an-
+thropologique et sociologique considère les biens comme permettant de mettre en œu-
+vre le sentiment d’appartenance à un groupe. Adam Smith (1776) lui-même écrit, à la
+suite de l’exemple de la chemise en lin, que les chaussures en cuir sont une nécessité en
+Angleterre pour les deux sexes, mais seulement pour les hommes en Ecosse, et pour
+ni les uns ni les autres en France où le rang le plus bas de la société peut paraître sans
+aucun discrédit avec des sabots ou pied-nu. Duesenberry (1949) souligne que la con-
+sommation de certains biens est requise pour les activités requises par la culture aussi
+bien que les besoins physiques. Comment ces différences de goût peuvent-elles être
+expliquées ?
+
+
+                                              18
+
+
+   La première interprétation de la littérature économique sur le goût est qu’il est
+mieux de laisser son étude à d’autres sciences sociales comme la sociologie ou la psy-
+chologie, suivant l’adage De Gustibus Non Est Disputandum. Expliquer les différences
+de goût conduirait au raisonnement tautologique : les Français aiment les cuisses
+de grenouille parce qu’ils sont Français, les Anglais aiment le bœuf bouilli avec de
+la menthe parce qu’ils sont Anglais. Ce n’est pas un sujet qui concerne directement
+les économistes. Becker et Stigler (1977) proposent une autre interprétation. Ils font
+l’hypothèse que le goût est distribué uniformément parmi les êtres humains : “on
+n’argumente pas à propos des goûts pour la même raison que l’on n’argumente pas à
+propos des Montagnes Rocheuses – les deux sont là, seront là l’année prochaine égale-
+ment, et sont les mêmes pour tous les hommes”. Cette interprétation permet de faire
+place aux économistes pour considérer la source des choix hétérogènes : ils doivent en
+premier lieu “chercher les différences de prix et revenus permettant d’expliquer toute
+différence ou changement de comportement”.
+   Le concept de formation d’habitude est central dans l’analyse de Becker et Stigler
+(1977). Les habitudes ont été démontrées plus efficaces comme processus décisionnel
+dans les situations répétées, comme celles de l’achat de biens. Utilisant les propres
+mots de Becker et Stigler (1977) : “le coût de chercher l’information et de l’appliquer
+à une situation nouvelle est tel que l’habitude est souvent une façon plus efficace de
+gérer des changements modérés ou temporaires dans l’environnement qu’une déci-
+sion maximisant pleinement l’utilité”. Les décisions présentes sont donc dépendantes
+de l’environnement passé qui a rendu ces décisions rationnelles. Aussi, la préférence
+pour un produit spécifique augmente avec l’exposition à ce produit (i.e. son prix caché
+diminue à mesure que l’expérience est acquise). On doit donc subir un changement
+non-transitoire dans l’environnement pour commencer à modifier ses décisions de
+consommation et s’adapter au nouveau cadre.
+   Nous pouvons donc penser aux divergences persistantes dans les décisions de con-
+sommation entre deux groupes comme un résultat de la différence des prix relatifs (et
+revenus). Prenons l’exemple des Français dans le Nord de la France qui cuisinent avec
+le beurre, alors qu’ils utilisent l’huile dans le Sud. Faisons l’hypothèse que cela corre-
+spond à des différences persistances dans les prix relatifs : le beurre est relativement
+moins cher dans le Nord que dans le Sud. Si, dû à un choc climatique temporaire
+(tous les oliviers gèlent), le prix relatif du beurre baisse dans le Sud de la France, on
+s’attend à ce que les Français du Sud ne changent pas leur décision de consommation.
+Ils continueront à acheter de l’huile d’olive pour cuisiner, puisque ce changement est
+purement temporaire. Maintenant, imaginons que quelqu’un migre du Sud au Nord :
+cela introduit un arbitrage entre la formation d’habitude et la maximisation de l’utilité,
+
+                                           19
+
+
+puisque le coût de la décision par habitude augmente vis-à-vis du coût de s’adapter
+au nouvel environnement. Nous nous attendons donc à voir cette personne converger
+vers la consommation de beurre dans une période de temps définie.
+   La première partir de l’hypothèse de formation d’habitude, le fait que les prix
+passés influencent les décisions présentes, est plutôt bien documentée. Une des méth-
+odes récurrentes, introduite par Staehle (1934), est d’étudier les immigrants afin de
+tester comment la consommation répond aux changements relatifs de prix et revenu.
+Cette méthode a été récemment employée par Logan et Rhode (2010) sur les immi-
+grants aux Etats-Unis, et Bronnenberg et al. (2012) sur les immigrants entre Etats au
+sein des Etats-Unis. Atkin (2013) introduit la formation d’habitude dans un modèle
+de commerce international et mesure un coût calorique à la libéralisation en Inde. En
+effet, les personnes développent l’habitude de consommer la nourriture locale, qui
+est relativement moins chère puisque plus adaptée aux conditions locales de culture.
+C’est aussi le produit pour lequel la région à un avantage comparatif, ce qui fait que
+son prix relatif augmente avec la libéralisation. La formation d’habitude mène les indi-
+vidus à continuer à acheter et consommer la nourriture locale qui devient relativement
+plus chère après l’ouverture au commerce, et ainsi à consommer moins de calories.
+   Avec ces faits empiriques à l’esprit, avons-nous une preuve tangible de la con-
+vergence des consommations après un changement permanent dans l’environnement
+économique (seconde prédiction de la formation d’habitude) ? Bronnenberg et al.
+(2012) observent que la préférence pour une marque des immigrants entre Etats aux
+Etats-Unis converge très lentement vers celle des résidents natifs : ils estiment que
+cela prend plus de vingt ans pour réduire la moitié de cette différence, qui reste sig-
+nificative cinquante ans après l’immigration. Par ailleurs, ils trouvent que les caté-
+gories avec le plus haut degré de visibilité sociale (sodas, chips, cigarettes, etc.) ont
+un capital de marque plus élevé, c’est-à-dire que la convergence est plus lente encore.
+Atkin (2016) montre que les immigrants entre Etats en Inde sont prêts à payer une
+“taxe calorique” pour conserver les types de consommation de leur culture d’origine,
+et que ces choix ne sont pas le résultat d’un manque d’information ou d’un temps
+d’adaptation. Même les ménages en malnutrition préfèrent consommer selon leur
+culture dans les environnements où il est plus coûteux de le faire. Nous pouvons
+également avoir à l’esprit les nombreux tabous alimentaires conservés par des com-
+munautés différentes, quand bien même le produit interdit est relativement moins
+cher que les substituts, et absolument sûr à consommer. Ces faits soulignent un autre
+composant du processus de prise de décision : une identité culturelle qui persiste mal-
+gré les changements permanents dans les incitations économiques, nous ramenant à
+la notion de goûts, ou préférences, hétérogènes.
+
+                                           20
+
+
+   Le danger de revenir aux préférences hétérogènes, comme nous l’avons vu avec
+Becker et Stigler (1977), est de laisser l’économiste avec rien e substantiel à dire. Une
+branche relativement récente de la littérature, sur les préférences sociales et culturelles,
+s’adresse précisément à ce souci et montre qu’il est possible d’endogénéiser ces préférences
+en dehors du cadre de la formation d’habitude. Bowles (1998) note que le marché et les
+autres institutions économiques font plus qu’allouer des biens et services : ils influen-
+cent également l’évolution des valeurs, goûts et préférences. Pour que les préférences
+puissent avoir un pouvoir explicatif, cependant, elles doivent être suffisamment per-
+sistantes pour expliquer les comportements dans le temps et à travers les situations.
+La distinction clé est que lorsque les préférences sont endogènes, elles ont un pou-
+voir explicatif dans des situations distinctes de l’environnement institutionnel qui ex-
+plique leur adoption. En premier lieu, les préférences diffèrent entre les individus
+du fait de la transmission verticale (parents), oblique (éducateurs, etc.) ou horizontale
+(pairs); et la population minoritaire met plus d’effort dans le processus de socialisation
+de leur enfants à leurs propres préférences (Bisin et Verdier, 2001, 2011). En second
+lieu, l’environnement économique a un rôle majeur dans le modelage des préférences
+initiales – en revanche, lorsqu’elles se développent en une culture locale, elles peu-
+vent persister dans une période indéfinie après un changement de l’environnement
+économique (ou modeler l’environnement économique en retour).
+   Les travaux empiriques sur ce sujet se sont intéressés principalement aux normes et
+valeurs. Par exemple, Tabellini (2010) explore la façon dont les institutions historiques
+ont influencé la culture, qui en retour influence les résultats économiques présents, et
+trouve un impact significatif et persistent sur le développement en Europe. Maystre
+et al. (2014) montre que le commerce entre pays européens fait converger les valeurs
+de ces pays, en dehors de l’échange des biens. Il est intéressant de noter que la lit-
+térature utilise également la comparaison entre immigrants et natifs pour prendre en
+compte l’effet de la culture, alors que la littérature sur la formation d’habitude utilise
+cette stratégie pour prendre en compte l’effet des prix passés sur les choix de con-
+sommation présents. Cette approche est nommée l’approche épidémiologique par
+Fernandez (2007) qui analyse le choix des femmes d’entrer sur le marché du travail
+en fonction de leur culture d’origine. Luttmer et Singhal (2011) observent également
+que les immigrants conservent les valeurs de leur pays d’origine en montrant la per-
+sistance des préférences en matière de redistribution. Ils trouvent que cet effet persiste
+dans le temps et pour la seconde génération, un fait en faveur de l’interprétation des
+différences en termes de culture.
+
+                                            d
+
+                                            21
+
+
+   Mon troisième chapitre, “Interactions sociales et goût localisé pour les produits gras en
+France”, est une étude des causes de la persistance des préférences locales. L’environnement
+économique et les interactions sociales (transmission horizontale) sont tous deux doc-
+umentés comme affectant les décisions des individus, mais nous avons vu dans la
+littérature sus-mentionnée que démêler les deux effets pour expliquer des différences
+persistantes dans les comportements ne va pas de soi. La question centrale est : peut-
+on expliquer les choix hétérogènes simplement avec des différences de prix et revenu
+passés et présents, ou y a-t-il quelque chose laissé à l’interprétation basée sur les inter-
+actions sociales ? Le chapitre répond précisément à cette question en proposant une
+méthode empirique afin de capturer l’effet des interactions sociales sur les choix, tout
+en prenant en compte d’autres canaux.
+
+
+
+
+   Figure 3: Part de Budget en Produits Figure 4: Par de Budget en Produits
+   Gras, 1952 (Source: Enquête Rurale de Gras, 2005-06 (Source: Enquête Mé-
+   l’INSEE, Hemardinquer, 1961)          nages de l’INSEE, propres calculs)
+
+   La stratégie utilisée est de considérer les dépenses alimentaires des ménages immi-
+grants et de mesurer comment ils s’adaptent aux pratiques de consommation locale.
+Premièrement, il doit y avoir une différence de consommation localisée et persistante
+en France : j’utilise la division culturelle entre le Nord et le Sud de la France dans
+la consommation de beurre et d’huile comme source d’hétérogénéité. Comme nous
+pouvons le voir sur les Figures 3 et 4, le Nord-Ouest de la France consomme une bien
+plus haute fraction de beurre dans leur budget en produits gras que le Sud-Est. Cette
+différence est localement persistante: les cartes de 1952 et 2005 montrent une tendance
+similaire malgré l’intégration économique durant la même période. Deuxièmement,
+j’utilise les dépenses des immigrants qui partagent une origine culturelle et une ex-
+périence passée similaires : tous sont d’origine Maghrébine ou Latine, et ont une plus
+grande propensité à consommer de l’huile plutôt que du beurre par rapport aux natifs.
+
+                                            22
+
+
+J’observe donc l’origine et la localisation des migrants, et le prix relatif des biens entre
+régions. J’estime alors comment les migrants s’adaptent aux préférences alimentaires
+culturelles locales en montrant qu’un immigrant dans le Nord de la France consom-
+mera relativement plus de beurre qu’un immigrant dans le Sud à prix donnés. Je
+trouve que la distance en consommation de produits gras entre les immigrants est 40
+à 45% la distance bilatérale de consommation entre les natifs.
+   Cet article montre non seulement que les choix de consommation locaux ne sont
+pas déterminés par le seul environnement économique, mais également qu’ils persis-
+tent à travers les interactions sociales (transmission culturelle horizontale). C’est une
+première étape dans la compréhension de ce qui produit des préférences hétérogènes.
+Ces résultats ont deux applications potentielles : une meilleure estimation et prévision
+de la demande alimentaire en prenant en compte son composant non-économique, et
+une meilleure compréhension des liens entre équilibre culturel-institutionnel et incita-
+tions économiques.
+
+                                            d
+
+   Mon quatrième chapitre, “Intégration économique et convergence des paniers de con-
+sommation”, écrit conjointement avec Thierry Mayer et José de Sousa, se focalise sur
+l’aspect institutionnel/économique qui affecte la formation des préférences culturelles.
+Au début des années 80, Theodore Levitt a proclamé qu’à travers la mondialisation,
+“Les besoins et désires du monde sont devenus irrévocablement homogènes”. Cette
+idée est également dernière les termes tels que la “McDonaldization” (Ritzer, 1983).
+C’est un concept puissant, puisqu’il semble être une des premières causes de résis-
+tance à la mondialisation: près de 60% des Français pensent que leur manière de vivre
+doit être protégée contre les influences étrangères en 2009 (Enquête Pew), et nous pou-
+vons être certains que ce pourcentage n’a pas diminué ces dernières années. De façon
+intéressante, cependant, on trouve très peu d’estimation empirique de ce phénomène
+d’homogénéisation des préférences après l’intégration économique.
+   Dans ce chapitre, nous explorons si l’intégration commerciale en France homogénéise
+les préférences alimentaires dans le temps. La France est un pays très diversifié, avec
+des goûts localisés pour les consommations alimentaires qui persistent dans le temps.
+Le troisième chapitre montre cette persistance des goûts dans le cas de la consomma-
+tion de beurre et d’huile. Il y a pourtant des preuves d’une convergence des paniers
+de consommation dans le temps, et ce même dans le cas des produits gras (voir Fig-
+ure 5). La question que l’on pose est donc : Les gens ont-ils des goûts plus similaires
+maintenant qu’auparavant ? Et en particulier, l’effet de la distance géographique sur
+les différences de goût diminue-t-il dans le temps ?
+
+                                            23
+
+
+                                                                             Convergence of butter consumption?
+
+
+
+
+                                                 0.2
+                                                                           ●                                  Hautes−Alpes
+                                                                                                      ●
+                                                                    ●
+                                                                                               ●
+                                                        slope = −.59 (t=−9.26)
+                                                 0.0                         ●
+                                                                                     ●   ●
+              Difference in shares (1973−2005)
+
+
+                                                                                 ●
+                                                                                                  ●
+                                                                                     ● Marseille
+                                                                           ●         ●
+                                                                                       ●                              ●
+                                                                           ●                        ●      ● ●               ●
+                                                                                        ●        ● Nice
+                                                                                                      ●            ● ●
+                                                                                                               ● Lyon
+                                                                                                      ●
+                                                                                                ●                 ●         ●   ●
+                                                                                          ● ●●● ●                ● ●Clermont−Ferrand
+                                                                                                                         ●           ●    ●
+                                                                                                                                          ●
+                                                                                                                         ●
+                                                 −0.2
+
+
+
+
+                                                                                                        ●●●●● Strasbourg    ●●          ●          ●
+                                                                                                        ● Toulouse
+                                                                                                    ●                       ● ●             ● Nantes     ●
+                                                                                                                               ●        ●     ● Brest
+                                                                                                                           ● ●
+                                                                                                                           ● ●       ●      ●
+                                                                                                                                         ● Caen ●
+                                                                                                                   ● ●     ● Paris
+                                                                                                                              ●    ●    ● Le Havre
+                                                                                                            ●            ● ●       ● ●
+                                                                                                               ●         ● ●          ●                  ● Rennes
+                                                                                                                      ●●                       ● Lille
+                                                 −0.4
+
+
+
+
+                                                                                                          ●
+                                                 −0.6
+
+
+
+
+                                                                                                                             ● Ardèche
+
+
+
+
+                                                                               0.4                              0.6                      0.8                        1.0
+
+                                                                                                    Initial share (1973)
+
+
+
+        Figure 5: Homogénéisation de la Demande pour le Beurre: 1973-2005
+
+
+   Pour répondre à cette question, nous utilisons les enquêtes des ménages Français
+de 1973 à 2005 (INSEE) qui contiennent les dépenses et quantités pour des produits
+alimentaires très détaillés, ainsi que les caractéristiques des ménages. La difficulté em-
+pirique principale est de distinguer l’effet du goût de l’effet des prix et du revenu : cela
+est crucial, puisque l’homogénéisation des prix produit également une homogénéi-
+sation des comportements de consommation. Nous procédons donc en deux étapes
+: premièrement, nous estimons un modèle de demande flexible dans la dimension
+des prix et du revenu (Almost Ideal Demand System, Deaton et Muellbauer, 1980),
+et récupérons les paramètres de goût; deuxièmement, nous calculons une distance bi-
+latérale de goût avec ces paramètres, et estimons une équation de gravité inspirée de la
+littérature en commerce international. Notre résultat principal est que l’effet de la géo-
+graphie sur les différences de goût diminue significativement dans le temps pour les
+produits alimentaires. En résumé, la France est en train de devenir plus “plate” (Fried-
+man, 2005). C’est remarquablement vrai pour toutes les catégories alimentaires, même
+pour celles où existe un goût localisé très persistant comme dans le cas des produits
+gras. Ces résultats préliminaires apportent une preuve empirique que non seulement
+les paniers de consommation convergent dans le temps, mais aussi les goûts.
+
+
+                                                                                                               24
+
+
+   La prochaine étape dans cette approche serait d’avoir une méthode systématique
+pour considérer par quels canaux les préférences persistent ou convergent. Nous
+avons vu que les interactions sociales jouent un rôle significatif ; c’est également le
+canal mis en avant par Olivier et al. (2008). D’un autre côté, le commerce bilatéral
+semble contribuer à la convergence des valeurs et des goûts. Dans la même ligne de
+pensée que Bowles (1998), il y a une grande diversité de questions à approfondir pour
+démêler l’aspect culturel de l’aspect économique et comprendre la manière dont ils
+modifient les choix de consommation.
+
+
+
+
+                                        k
+
+
+
+
+                                          25
+

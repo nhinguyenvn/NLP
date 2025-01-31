@@ -1,0 +1,2166 @@
+      Family, marriage markets and inequality : a matching
+                           approach
+                                              Simon Weber
+
+
+
+      To cite this version:
+    Simon Weber. Family, marriage markets and inequality : a matching approach. Economics and
+    Finance. Institut d’études politiques de paris - Sciences Po, 2017. English. �NNT : 2017IEPP0039�.
+    �tel-03436364�
+
+
+
+
+                                   HAL Id: tel-03436364
+                 https://tel.archives-ouvertes.fr/tel-03436364
+                                      Submitted on 19 Nov 2021
+
+
+
+
+    HAL is a multi-disciplinary open access               L’archive ouverte pluridisciplinaire HAL, est
+archive for the deposit and dissemination of sci-     destinée au dépôt et à la diffusion de documents
+entific research documents, whether they are pub-     scientifiques de niveau recherche, publiés ou non,
+lished or not. The documents may come from            émanant des établissements d’enseignement et de
+teaching and research institutions in France or       recherche français ou étrangers, des laboratoires
+abroad, or from public or private research centers.   publics ou privés.
+
+
+                    Institut d’études politiques de Paris
+               ECOLE DOCTORALE DE SCIENCES PO
+              Programme doctoral en Sciences économiques
+
+
+                            Doctorat en économie
+
+
+                               Résumé
+
+ Famille, marché du mariage et inégalités :
+ l’approche par les modèles d’appariement
+                              Simon WEBER
+
+            Thèse dirigée par Pr. Alfred GALICHON
+               Soutenue à Paris le 14 Septembre 2017
+
+
+
+   Jury:
+Pierre-André CHIAPPORI, Professor of Economics, Columbia University
+Gabrielle DEMANGE, Directeur d’études, EHESS
+Arnaud DUPUY, Professeur (Full Professor), Université du Luxembourg
+Alfred GALICHON, Professor of Economics, New York University (NYU) and TSE
+Jean-Marc ROBIN, Professeur des Universités, Sciences Po Paris
+Frederic VERMEULEN, Professeur (Full Professor), KU Leuven.
+
+
+                                        1
+
+
+2
+
+                                      Introduction
+
+
+
+
+    Cette thèse traite de la formation des couples sur le marché du mariage. Elle
+met en avant la question des inégalités qui résultent de ce processus d’appariement,
+d’abord entre ménages, puis au sein des couples. Elle repose sur l’idée que le marché
+du mariage a une influence déterminante sur ces inégalités, et qu’il est donc important
+de modéliser le marché du mariage de manière adéquate. La famille est un sujet cen-
+tral en recherche économique depuis les travaux fondateurs de Gary Becker (Becker,
+1991). En effet, ce dernier introduit l’idée que des décisions aussi variées que celles
+de se marier, avoir des enfants ou de se séparer peuvent être modélisées en utilisant
+les outils de la théorie microéconomique. Au-delà de ces avancées conceptuelles, les
+travaux de Gary Becker ont également eu le mérite de replacer la famille (quelle que
+soit sa structure) au cœur de nombreux sujets économiques importants. Ce sont les
+membres d’une famille qui décident de leur participation au marché du travail, du
+nombre d’enfants qu’ils auront et du temps investi avec eux. La famille est le lieu
+de transmission du capital humain entre générations. In fine, les décisions prises au
+sein de la famille structurent le paysage démographique et économique d’un pays, et
+influencent aussi bien le court terme que le long terme.
+
+    Le thème de la famille a largement alimenté des recherches de nature empirique.
+Sur le plan théorique, l’économie s’est structurée autour de deux champs majeurs.
+Tout d’abord, les modèles d’appariement ont pour sujet principal le marché du ma-
+riage. Traditionnellement, les modèles d’appariement se divisent en deux grandes
+classes : les modèles à utilité non transférables, dans lesquels les transferts entre par-
+tenaires sont strictement prohibés (Gale et Shapley, 1962) ; d’autre part les modèles à
+utilité parfaitement transférable (Koopmans et Beckmann, 1957 ; Shapley et Shubik,
+1971 ; Becker, 1973). Toutes deux ont été appliquées avec succès à la modélisation
+du marché du mariage, et on comprendra aisément pourquoi : en effet, le marché du
+
+
+                                     INTRODUCTION                                          3
+
+mariage constitue un cas d’école d’un marché d’appariement, puisque deux popula-
+tions distinctes (hommes et femmes), avec des préférences hétérogènes envers leurs
+partenaires potentiels, se rencontrent pour éventuellement former des paires (en tout
+cas dans la plupart des sociétés où la monogamie est la norme).
+
+   Le second champ théorique est celui qui modélise le processus de décision qui prend
+place au sein des ménages ou des couples. Le modèle traditionnel, ou modèle unitaire,
+suppose que ces décisions découlent de la maximisation d’une fonction d’utilité qui
+prends en compte les préférences des membres du ménage mais en leur assignant un
+“poids” fixe. Ces poids ne dépendent donc pas des prix, du revenu ou de tout autre
+facteur tel que la différence de niveau d’éducation entre les membres, le rapport des
+sexes sur le marché du mariage, etc. Le modèle unitaire est donc peu satisfaisant,
+puisqu’il ignore les thématiques de négociation ou de conflit au sein des ménages, et
+surtout, ses implications ont souvent été invalidées par la recherche empirique. A
+l’inverse, les modèles collectifs (Chiappori, 1988) supposent que les ménages prennent
+des décisions efficaces au sens de Pareto, et le processus peut donc être représenté
+comme la maximisation d’une somme pondérée des utilités individuelles, où les poids
+de Pareto répondent aux variations de prix, de revenu ou de tout facteur de distri-
+bution. Les modèles collectifs présentent deux intérêts majeurs. Tout d’abord, c’est
+dans la nature même de ces modèles de permettre les transferts d’utilité entre par-
+tenaires. Ces transferts ne prennent pas nécessairement la forme d’argent ou d’un
+bien numéraire, mais d’ajustements dans la structure de la consommation de biens
+privés et publics. Ainsi, les modèles collectifs introduisent la notion de partage de
+ressources au sein des ménages, et ajoutent un nouveau canal par lequel le processus
+de décision au sein des ménages accentue ou atténue les inégalités entre individus
+à l’échelle d’une société. Ainsi, et c’est le second point, les modèles collectifs sont
+intrinsèquement liés à la notion de pouvoir de négociation : un changement dans
+la distribution du pouvoir de négociation affecte non seulement le partage des res-
+sources, mais également les décisions des ménages, dont certaines sont fondamentales
+
+
+4
+
+(participation sur le marché du travail, fertilité, investissement dans le capital hu-
+main des enfants, etc.). Dès lors, il est crucial de comprendre ce qui détermine la
+distribution du pouvoir de négociation, et c’est sur ce point que la littérature sur
+les modèles collectifs et d’appariement se rejoignent. En effet, le partage du pouvoir
+est endogène à la détermination de l’équilibre sur le marché du mariage. La struc-
+ture du marché du mariage, l’attractivité et les options de réserve des partenaires
+potentiels déterminent ce partage. L’idée que le partage de l’utilité au sein des cou-
+ples et le marché du mariage sont liés est loin d’être nouvelle et on la trouve déjà
+dans les travaux de Gary Becker. En revanche, fusionner ces deux littératures dans
+un cadre suffisamment général (i.e., non restreint au cas où l’utilité est parfaitement
+transférable comme dans les travaux de Becker) est un défi de taille. L’ambition de
+cette thèse est de proposer une avancée dans cette direction.
+
+    Cette thèse articule trois chapitres sur le thème de la formation des couples, le
+partage des ressources au sein des ménages et les inégalités. Le chapitre 1 traite de
+la contribution des préférences maritales aux inégalités de revenus entre ménages.
+J’utilise un modèle d’appariement avec utilité parfaitement transférable pour estimer
+ces préférences et construire les expériences contrefactuelles appropriées. Il s’agit
+d’un travail commun avec Edoardo Ciscato. Nous utilisons une variante continue et
+multidimensionnelle du modèle de Choo et Siow (2006) que nous appliquons à des
+données américaines entre 1962 et 2015. L’usage d’un modèle structurel nous permet
+de répondre à plusieurs types de question : l’assortativité sur le marché du mariage
+s’est-elle accrue entre 1962 et 2015 ? Par ailleurs, quel serait le niveau d’inégalité au-
+jourd’hui si ces préférences étaient restées inchangées ? Nous montrons notamment
+que le coefficient de Gini serait inférieur de 6% en 2015 si les préférences maritales
+étaient restées celles de 1971. Le chapitre 2 est un préliminaire à l’intégration des
+modèles collectifs et d’appariement dans un cadre unifié. Il est tout à fait possible
+de considérer un modèle collectif dans lequel l’utilité est parfaitement transférable,
+auquel cas la théorie sur les modèles d’appariement est bien connue. En revanche,
+
+
+                                     INTRODUCTION                                          5
+
+il s’agit d’une hypothèse assez restrictive, et surtout ses implications sont contrai-
+res à un bon nombre de résultats empiriques. Aussi est-il préférable de construire
+un modèle d’appariement à utilité imparfaitement transférable, ce qui permet d’être
+cohérent avec n’importe quel modèle collectif. Alfred Galichon, Scott Kominers et
+moi-même proposons un modèle d’appariement à utilité imparfaitement transférable
+couvrant les cas limites TU et NTU ainsi que les modèles collectifs. Nous intro-
+duisons de l’hétérogénéité inobservée dans les préférences des partenaires, et mont-
+rons que l’équilibre existe et est unique. En outre, nous proposons deux algorithmes
+pour calculer l’appariement d’équilibre et illustrons les résultats de notre modèle avec
+un exemple empirique. Le chapitre 3 offre un regard plus précis sur l’intégration
+des modèles collectifs dans le cadre ITU. En particulier, je caractérise les classes de
+modèles collectifs pour lesquels cette intégration est possible. Puisque ce chapitre est
+résolument orienté vers les possibilités d’application, je propose différentes méthodes
+de calcul pour résoudre le modèle dans des cas complexes. Ces méthodes illustrent en
+outre la connexion entre le cadre ITU et les modèles collectifs. Enfin, je propose une
+illustration démontrant les mérites de cette approche, ainsi que l’étendue des champs
+d’application possibles.
+
+
+6
+
+                Chapitre 1 : Préférences maritales et inégalités
+
+
+    Dans ce chapitre, j’étudie l’appariement qui s’opère sur le marché du mariage, en
+particulier l’association systématique de certains traits ou caractéristiques des époux
+(ce que j’appellerai “schémas d’appariement”). Il faut remonter aux travaux de Gary
+Becker pour voir ce sujet introduit en économie. Becker propose en effet d’étudier
+les gains au mariage, et suggère que la structure de ces gains explique en retour
+l’appariement. Ainsi, si deux traits (par exemple, l’éducation de l’homme et de la
+femme) sont complémentaires dans la production des gains, alors l’appariement op-
+timal est assortatif pour cette dimension. Le contraire se produit lorsque deux traits
+sont substituts. L’étude de l’assortativité sur le marché du mariage a connu un regain
+d’intérêt dans la recherche économique, la raison étant qu’il existe une relation directe
+entre l’appariement d’équilibre et le niveau d’inégalités entre ménages. Ce chapitre
+s’inscrit dans cette littérature. Nous proposons d’utiliser un modèle structurel du
+marché du mariage, dans lequel l’utilité est parfaitement transférable, pour estimer
+les préférences maritales aux Etats Unis entre 1962 et 2015. En particulier, nous mon-
+trons que l’assortativité en âge a décru au fil du temps, alors que l’assortativité en
+éducation s’est accrue. Par ailleurs, nous montrons que la composante idiosyncratique
+des préférences est plus importante aujourd’hui qu’elle ne l’était il y a 50 ans, c’est-
+à-dire que l’association entre les caractéristiques des époux est moins systématique
+aujourd’hui. Sur la base de ces estimations, nous construisons les expériences con-
+trefactuelles appropriées pour mesurer la contribution de l’évolution des préférences
+maritales à la hausse des inégalités. Nous montrons que si les préférences n’avaient
+pas changé entre 1971 et 2015, les inégalités de revenus (mesurées par l’indice de Gini)
+seraient inférieures de 6%.
+
+    Littérature. C’est d’abord la sociologie qui s’est employée à faire une étude
+systématique des schémas d’appariement. Certaines études ont mis l’accent sur les
+modes de rencontre des partenaires potentiels ainsi que des associations régulières
+
+
+                CHAPITRE 1 : PRÉFÉRENCES MARITALES ET INÉGALITÉS                       7
+
+entre certaines de leurs caractéristiques (en France, voire les travaux précurseurs de
+Girard (1964)). D’un point de vue quantitatif, les travaux en sociologie du cou-
+ple ont essentiellement fait usage des modèles log-linéaires, qui tentent de mesurer
+la force de l’assortativité pour une dimension donnée (en général, l’éducation) tout
+en contrôlant par la structure du marché. Aux Etats Unis, plusieurs articles ont
+étudié l’assortativité en éducation et son évolution au cours du dernier demi-siècle
+(voir Mare (1991) et Schwartz et Mare (2005)). Les travaux en économie sont plus
+récents, et ont mis davantage l’accent sur la contribution des schémas d’appariement
+aux inégalités de revenus entre ménages. Les travaux de Fernandez et al. (2005)
+par exemple suggèrent que l’assortativité et les inégalités de salaire se renforcent
+mutuellement. D’un point de vue empirique, la plupart de ces recherches estiment
+la distribution jointe entre deux caractéristiques des époux (souvent l’éducation ou
+le niveau de revenu) et la compare à une distribution contrefactuelle (par exemple,
+la distribution jointe dans le cas où l’appariement est aléatoire) pour mesurer la
+contribution de l’appariement aux inégalités (voire Eika, Mogstad et Zafar (2014)).
+Cette approche est très similaire aux tableaux de contingence utilisés notamment dans
+Greenwood et al. (2014). La littérature évoquée ci-dessus a abouti à deux conclusions
+: d’une part l’assortativité en éducation ou en revenu est importante et s’est accrue
+au cours des dernières décennies. D’autre part, cette évolution a contribué à accroitre
+les inégalités de revenus entre ménages. Avec ce chapitre, nous nous inscrivons dans
+la lignée de ces recherches, mais apportons un certain nombre de contributions ori-
+ginales. D’abord, nous faisons usage d’un modèle structurel. Ainsi, nos résultats ne
+sont pas biaisés par les bouleversements qui ont affecté la structure du marché du
+mariage depuis plusieurs décennies (par exemple, la croissance rapide du nombre de
+femme dotées d’un diplôme supérieur). Par ailleurs, nos estimations s’interprètent en
+termes de préférences maritales, à l’inverse de mesures statistiques qui sont purement
+descriptives. De plus, notre modèle est multidimensionnel, puisque nous considérons
+l’appariement en âge, éducation, heures de travail, salaires et ethnicité. C’est une
+
+
+8
+
+différence notable avec le reste de la littérature qui met essentiellement l’accent sur
+un trait, l’éducation. Enfin, l’utilisation d’un modèle structurel facilite la formula-
+tion d’expériences contrefactuelles permettant de mesurer la contribution des schémas
+d’appariement aux inégalités.
+
+    Modèle. Nous nous appuyons sur le modèle d’appariement développé par Du-
+puy et Galichon (2014). Il s’agit d’une version continue et multidimensionnelle du
+modèle de Choo et Siow (2006), et est donc particulièrement adaptée pour répondre
+à notre question empirique. Le marché du mariage est composé d’une population
+d’hommes dont les caractéristiques observables sont introduites par le vecteur x, et
+une population de femmes dont les caractéristiques observables sont notées y. Dupuy
+et Galichon (2014) montrent que dans ce cadre, il est possible d’obtenir une solution
+analogue au modèle de Choo et Siow (2006), dans lequel les préférences des indi-
+vidus pour leurs partenaires potentiels dépendent des caractéristiques observables,
+mais également d’une composante idiosyncratique. Pour une distribution bien choi-
+sie (dans le cas de Choo et Siow (2006), Gumbel), on peut montrer qu’il existe une
+relation simple entre l’appariement optimal et le surplus dégagé par chaque mariage.
+Dans ce chapitre, nous supposons que le surplus Φ(x, y) pour une paire x, y donnée a
+la forme suivante :
+
+                              Φ(x, y) = x0 Ay + f (x) + g(y)
+
+
+    Il n’est pas possible d’identifier les fonctions f et g en observant uniquement
+l’appariement. En revanche, il est possible d’identifier A. Par ailleurs, le modèle per-
+met d’estimer le paramètre d’échelle associé aux composantes idiosyncratiques des
+préférences individuelles. Ce paramètre (noté sigma) mesure si l’appariement est
+aléatoire ou au contraire très systématique. Concernant le surplus, notre hypothèse
+ici est que la composante qui dépend conjointement des caractéristiques des époux
+est une fonction quadratique de ces caractéristiques. La matrix A est appelée matrice
+d’affinité, et chaque entrée de la matrice mesure la substituabilité ou complémentarité
+
+
+                CHAPITRE 1 : PRÉFÉRENCES MARITALES ET INÉGALITÉS                        9
+
+des caractéristiques correspondantes. Pour chaque valeur de A, il est possible de cal-
+culer l’appariement optimal, noté π. Il reste à déterminer comment choisir A. Une
+solution est de choisir A tel que la matrice de covariance entre les caractéristiques des
+partenaires prédite par le modèle coı̈ncide avec la matrice de covariance observée. Du-
+puy et Galichon (2014) montre alors que ce problème se formule comme un problème
+de minimisation convexe. Pour un marché t donné, nous construisons les matrices des
+caractéristiques des hommes et des femmes, respectivement Xt et Yt . Avec des varia-
+bles continues, les matrices sont d’abord centrées, puis réduites à partir d’un marché
+de référence donné. Ainsi, les unités de mesure sont comparables entre marchés. Nous
+étendons le modèle afin de le rentre compatible à l’inclusion de variables catégorielles,
+telles que les groupes ethniques. Nous construisons nos expériences contrefactuelles
+comme suit. Pour un marché t donné (Xt , Yt ), il est possible de calculer la matrice
+d’affinité associée At ainsi que σ t et l’appariement optimal π t . Si nous connaissons le
+revenu de chaque individu sur ce marché, alors nous pouvons construire une mesure
+des inégalités entre ménages à partir de π t . En outre, pour un marché t0 pour lequel
+nous observons Xt0 et Yt0 , il est aisé de calculer l’appariement optimal contrefactuel à
+partir de At et σ t , et donc le niveau d’inégalité dans ce contrefactuel.
+
+   Données. Le modèle est estimé sur des données américaines entre 1962 et 2015.
+Nous choisissons la base de données CPS qui comprends de nombreuses variables
+sociodémographiques (telle que l’éducation, l’âge, le salaire, l’ethnicité, etc.) pour un
+échantillon représentatif de ménages américains. Pour chaque année t, nous supposons
+que les données nous fournissent une photographie du marché du mariage. Nous
+construisons les matrices Xt et Yt à partir des couples observés dans la base de donnée.
+Dans la plupart de nos spécifications, nous considérons 5 variables :
+
+
+       • L’âge. Nous sélectionnons uniquement les couples pour lesquels l’un des
+         partenaires au moins est âgé de 23 à 35 ans. Par ailleurs, nous ne retenons
+         pas les couples où l’un des partenaires n’a pas terminé sa scolarité.
+
+
+10
+
+       • L’éducation. La variable d’éducation n’est pas cohérente au fil des années.
+          C’est pourquoi nous utilisons une variable recodée, avec 5 niveaux d’éducation.
+          Nous testons la robustesse des résultats à d’autres définitions.
+       • Le salaire et le salaire prédit. Nous calculons le salaire horaire à partir des
+          revenus du travail observés et du nombre d’heure de travail par semaine. Si
+          le salaire n’est pas observé, il est codé comme 0. Les salaires anormalement
+          faibles ou élevés sont imputés. Dans certaines spécifications, nous remplaçons
+          les salaires manquants par les valeurs imputées.
+       • Les heures de travail. Ce sont les heures habituellement travaillées chaque
+          semaine.
+       • Le groupe ethnique. Là encore, les données manquent de cohérence. Si l’on
+          utilise les données depuis 1962, nous ne pouvons distinguer que les groupes
+          “Blancs”, “Noirs” et “Autres”. En revanche, à partir de 1971, nous pouvons
+          distinguer “Blancs”, “Noirs”, “Hispaniques” et “ Autres” (dans ce cas, le
+          groupe “Autres” est très majoritairement composé des “Asiatiques”).
+
+
+     Avant de nous tourner vers les résultats, nous rassemblons quelques statistiques
+descriptives sur les marchés du mariage observés dans la figure 1.
+
+     Résultats. Nous commençons par estimer les matrices d’affinité correspondan-
+tes à chaque marché du mariage entre 1962 et 2015.            Nous nous focalisons sur
+les coefficients appartenant à la diagonale de cette matrice, puisqu’il mesure les
+préférences pour un mariage assortatif en âge, éducation, salaire, heure de travail
+et l’homogamie ethnique. Nos résultats suscitent plusieurs remarques : tout d’abord,
+comme l’illustrent les figures 2 et 3, l’assortativité en âge a largement décrue entre
+1962 et 2015, tandis que l’inverse est observé pour l’éducation. Le premier résultat
+n’est pas étonnant, car si l’on regarde les données brutes, on remarque que la variance
+dans la différence absolue d’âge entre partenaires mariés s’est accrue sur cette période.
+Concernant l’éducation, notre constat est en accord avec le reste de la littérature sur
+
+
+           CHAPITRE 1 : PRÉFÉRENCES MARITALES ET INÉGALITÉS                                                                     11
+
+
+
+                                    Figure 1. Summary Statistics
+                               (a) Men education levels                                     (b) Women education levels
+
+                                                                                                                         BHS
+                                                                                                                         HSG
+                0.5                                                              0.5                                     SC
+                                                                                                                         CG
+                                                                                                                         CG+
+                0.4                                                              0.4
+            %
+
+
+
+
+                                                                           %
+                0.3                                                              0.3
+
+
+                0.2                                                              0.2
+
+
+                0.1                                                              0.1
+
+
+                 0                                                                0
+                 1960   1970    1980    1990    2000      2010   2020             1960   1970   1980    1990   2000   2010   2020
+                                        Year                                                            Year
+
+
+
+
+                                    (c) Men race                                                  (d) Women race
+                 1                                                                1
+
+                0.9                                                              0.9
+
+                0.8                                                              0.8
+
+                0.7                                                              0.7
+
+                0.6        White                                                 0.6        White
+                           Black                                                            Black
+            %
+
+
+
+
+                                                                           %
+
+
+
+
+                0.5        Other                                                 0.5        Other
+                           Asians                                                           Asians
+                0.4        Hispanics                                             0.4        Hispanics
+
+                0.3                                                              0.3
+
+                0.2                                                              0.2
+
+                0.1                                                              0.1
+
+                 0                                                                0
+                 1960   1970    1980    1990    2000      2010   2020             1960   1970   1980    1990   2000   2010   2020
+                                        Year                                                            Year
+
+
+
+
+                         (e) Share of population employed                                         (f) Wage Ratio
+                 1                                                              0.95
+
+                0.9                                                              0.9
+
+                0.8
+                                                                                0.85
+
+                0.7
+                                                                                 0.8
+                                                                        Ratio
+            %
+
+
+
+
+                0.6
+                                                                                0.75
+                0.5
+
+                                                                                 0.7
+                0.4
+
+                0.3                                                             0.65
+                                        % positive wage, Men
+                                        % positive wage, Women
+                0.2
+                 1960   1970    1980    1990    2000      2010   2020             1960   1970   1980    1990   2000   2010   2020
+                                        Year                                                            Year
+
+
+
+
+Married couples from CPS data 1962-2015. For a couple to be in our sample, at least one partner
+must be aged between 23-35. Couples where one partner is still at school are also excluded.
+                                                                                                Student Version of MATLAB
+Discontinuity around 1992 for schooling trends is due to a change in the variable specification
+made by the US Census Bureau. Discontinuities in the race trends are also due to the addition of
+new categories in the set of possible answers.
+
+
+12
+
+
+
+                                             Figure 2. Assortativeness in age
+
+                                       0.8
+
+
+                                       0.7
+                     Assortativeness
+
+
+
+
+                                       0.6
+
+
+                                       0.5
+
+
+                                       0.4
+
+
+                                       0.3
+
+
+                                       0.2
+
+
+                                               1970   1980      1990       2000      2010
+                                                               Year
+
+                                                             Student Version of MATLAB
+       Sample used: baseline A. The figure displays the estimated trend of the diagonal element of the
+       marital preference parameter matrix A capturing the interaction between husband’s and wife’s
+       age. We observe a decrease in age complementarity.
+
+
+
+le sujet. Les résultats pour le salaire suggèrent un certain degré de substituabilité en
+début de période (mais cela ne semble pas significatif), mais qui cède la place à une
+complémentarité de plus en plus marquée avec le temps. Ceci est confirmé par nos
+différents tests de robustesse. Cela corrobore en partie la prédiction de Becker, selon
+laquelle la spécialisation qui s’opère au sein des ménages devrait se traduire par une
+corrélation négative entre les niveaux de salaires. En revanche, nous observons des
+traces de ce phénomène uniquement en début de période. Nous observons le même
+schéma pour les heures de travail. Les résultats portant sur l’homogamie ethnique sont
+plus délicats à interpréter : ils dépendent fondamentalement du nombre de groupes
+inclus dans notre échantillon. Avec seulement deux groupes (“Blancs” et “Noirs”)
+nous observons un rapide déclin de l’assortativité ; en revanche avec davantage de
+groupes, la tendance est plutôt stable ou légèrement croissante. Enfin, la figure 4
+montre nos estimations de sigma au fil du temps : il confirme que l’appariement
+aujourd’hui est moins systématique qu’il ne l’était il y a 50 ans (du moins, pour ces
+
+
+                 CHAPITRE 1 : PRÉFÉRENCES MARITALES ET INÉGALITÉS                                    13
+
+
+
+                                             Figure 3. Assortativeness in education
+                                       1.1
+
+
+                                        1
+
+
+                                       0.9
+                     Assortativeness
+
+
+
+
+                                       0.8
+
+
+                                       0.7
+
+
+                                       0.6
+
+
+                                       0.5
+                                                  1970   1980      1990       2000      2010
+                                                                  Year
+
+                                                                Student Version of MATLAB
+       Sample used: baseline A. The figure displays the estimated trend of the diagonal element of the
+       marital preference parameter matrix A capturing the interaction between husband’s and wife’s
+       schooling level. We observe an increase in education complementarity.
+
+
+variables observées). Nous nous tournons à présent vers nos expériences contrefactu-
+elles. A titre d’illustration, nous construisons une variable d’éducation à trois niveaux
+(lycée, enseignement supérieur jusqu’à la licence, ou master et supérieur). La figure
+5 représente la distribution jointe des niveaux d’éducation observée en 2015, et la
+distribution contrefactuelle calculée à partir des préférences maritales de 1971 (i.e. la
+matrice d’affinité de 1971).
+
+   Enfin, nous nous tournons vers la question des inégalités en utilisant une méthode
+similaire. Pour chaque année t, nous calculons l’appariement optimal et en déduisons
+la distribution des revenus et le coefficient de Gini correspondant. Par ailleurs, nous
+calculons l’appariement optimal si les préférences étaient celles de 1971 (i.e. nous
+utilisons la matrice d’affinité de 1971, et non celle de l’année t), et la distribution de
+revenu correspondante. Ces résultats sont rassemblés dans la figure 6. La courbe à
+traits pleins illustre la hausse des inégalités telles que mesurées par le coefficient de
+Gini. La courbe pointillée montre le coefficient de Gini contrefactuel. Ainsi, on voit
+
+
+14
+
+
+
+                                            Figure 4. Sigma
+                               1.1
+
+                              1.05
+
+                                1
+
+                              0.95
+
+                               0.9
+                      Sigma
+
+
+
+
+                              0.85
+
+                               0.8
+
+                              0.75
+
+                               0.7
+
+                              0.65
+
+                               0.6
+                                     1970     1980       1990       2000      2010
+                                                        Year
+
+                                                      Student Version of MATLAB
+
+        Sample used: baseline A. The figure displays the estimated trend of the parameter σ capturing
+        the relevance of idiosyncratic preference shocks in our matching model. We observe an increase of
+        the relevance of unobservables in matching.
+
+
+
+
+qu’en 2015, le coefficient de Gini serait de 6% inférieur si les préférences maritales
+étaient restées inchangées depuis 1971. Enfin, comme le montre la figure 7, nous
+pouvons décomposer la variation du coefficient de Gini.
+
+     Conclusion. Ce chapitre contribue à la littérature sur le mariage et les inégalités
+de trois façons. D’abord, nous documentons l’évolution des schémas de mariage aux
+Etats Unis sur une longue période en utilisant à la fois des méthodes descriptives et
+structurelles. Ensuite, notre modèle structurel nous permet de considérer plusieurs
+variables simultanément (dont l’âge, le salaire et l’éducation) ainsi que certains pa-
+ramètres absents des autres études (sigma). Enfin, nous établissons la contribution
+des préférences maritales à la hausse observée des inégalités entre ménages depuis
+1971. Nous travaillons actuellement sur plusieurs extensions à ce projet. Par exem-
+ple, nous proposons d’inclure le célibat, ce qui nous permettrait de capturer des effets
+
+
+                        CHAPITRE 1 : PRÉFÉRENCES MARITALES ET INÉGALITÉS                                                             15
+
+
+
+            Figure 5. Assortativeness in education, counterfactual distribution
+
+                                                                 Matching by education level
+
+
+
+
+                  1971 Pref.
+
+
+
+
+ 1971 Pref., 2015 educ. pref.
+
+
+
+
+           2015 Actual Pref.
+                                   HS−HS
+
+
+
+
+                                                          HS−C
+
+
+
+
+                                                                           HS−C+
+
+
+
+
+                                                                                               C−C
+
+
+
+
+                                                                                                                     C−C+
+
+
+
+                                                                                                                             C+−C+
+                            0    0.1       0.2      0.3           0.4        0.5      0.6            0.7      0.8      0.9           1
+
+
+          Sample used: baseline B. The marginal distributions of characteristics (X 2015 , Y 2015 ) are taken
+                                                                                                     Student Version of MATLAB
+          from 2015 data for the three figures. In the first line, we show the counterfactual joint distribution
+          of partners’ educational levels obtained using 1971 marital preferences. In the second line, we show
+          the counterfactual distribution obtained using 1971 marital preferences but allowing the schooling
+          complementarity parameter to rise to its 2015 value as in Figure 3. In the third line, we show the
+          actual distribution obtained with 2015 marital preferences.
+
+
+de structure des ménages sur le niveau d’inégalités. Il est tout à fait possible de mo-
+difier le modèle pour ajouter le célibat comme un choix possible pour les candidats au
+mariage. Enfin, notre modèle considère l’offre de travail comme une donnée exogène.
+Endogénéiser l’offre de travail requiert un modèle bien plus complexe, mais cela est
+possible comme le démontrera le chapitre 2.
+
+
+16
+
+
+
+         Figure 6. Counterfactual analysis, Gini coefficients since 1971
+                                        0.4                                                               5
+                                                 Predicted Gini
+                                                 Counterfactual Gini (1971 matching)
+                                                 With 1971 matching, Gini would change by (%) (right)
+
+
+
+
+                                                                                                                % change under counterfactual
+                                       0.35                                                               0
+                    Gini coefficient
+
+
+
+
+                                        0.3                                                               −5
+
+
+
+
+                                       0.25                                                               −10
+                                          1970    1980            1990             2000            2010
+
+
+
+                                                                 Student Version of MATLAB
+
+     Sample used: baseline B. The figure shows the estimated actual trend of the between-household
+     Gini coefficient and a counterfactual trend obtained by fixing marital preferences to their 1971
+     values.
+
+
+           CHAPITRE 1 : PRÉFÉRENCES MARITALES ET INÉGALITÉS                                                                               17
+
+
+
+Figure 7. Decomposition of Gini coefficient shift 1971-2015 due to
+marital preferences
+                                                                Full Decomposition
+
+
+
+
+                                                                                                                     s
+                                                                                   e
+                     Ed
+
+
+
+
+                                                          .
+                                                     uc
+
+
+
+
+                                                                                                                      r
+                                                                                 ag
+
+
+
+
+                                                                                                                   ou
+                                                                e
+                      W −H
+                      uc
+
+
+
+
+                                                      d
+
+                                                               ag
+
+
+
+
+                                                                                 W
+
+
+
+
+                                                                                                                H
+                       ag ou
+
+
+
+
+                                                   −E
+                        .
+
+
+
+
+                                                           W
+
+
+
+
+                                                                               e−
+
+
+
+
+                                                                                                              e−
+                          e− rs
+
+
+
+
+                                              c.
+
+                                                          e−
+
+
+
+
+                                                                            ag
+
+
+
+
+                                                                                                          ag
+                                               u
+                            ag
+
+
+
+
+                                            Ed
+
+
+                                                     ag
+
+
+
+
+                                                                           W
+
+
+
+
+                                                                                                          W
+                               e
+                              e− e
+                                    e
+
+
+
+
+                                                    W
+
+                                                      Ed Edu
+
+
+
+
+                                                                                            H
+
+
+
+
+                                                                                                                          H
+                 a
+
+
+
+
+                           ag ag
+                                 ag
+            m
+
+
+
+
+                                                                                            ou
+
+
+
+
+                                                                                                                          ou
+                                                       ag
+
+                                                        uc
+             g
+
+
+
+
+                                −
+
+
+
+
+                                                                                               r
+
+
+
+
+                                                                                                                             r
+          si
+
+
+
+
+                                                          e−
+
+
+
+
+                                                                                                s−
+
+
+
+
+                                                                                                                              s−
+                             rs
+
+
+
+
+                                                           .−
+                          ou
+
+
+
+
+                                                              W
+
+
+
+
+                                                                                                  W
+
+
+
+
+                                                                                                                                H
+                                                                                                                                 ou
+                                                               ag
+                      H
+
+
+
+
+                                                                                                   ag
+                                                                 c.
+
+
+
+
+                                                                                                                                    r
+                                                                  e
+
+
+
+
+                                                                                                      e
+
+
+
+
+                                                                                                                                    s
+          −5                            0                           5                  10                     15                    20
+                                                                                                                                         −3
+                                                                                                                                 x 10
+
+
+                                                                           Version
+                                                                   Studentand
+Sample used: baseline B. In the labels, the first trait is the husband’s       the of MATLAB
+                                                                                   second is the
+wife’s, e.g. Wage-Educ refers to the interaction between the husband’s wage rate and the wife’s
+education. On the right of the vertical axis, there can be found the parameters that contributed
+to raise inequality; on the left ot the vertical axis, those that pushed in the opposite direction,
+leading to a decrease.
+
+
+18
+
+       Chapitre 2 : Un modèle d’appariement à utilité imparfaitement
+                                        transférable
+
+
+     Nous l’avons dit, la recherche en économie de la famille s’articule autour de deux
+grands modèles. D’une part les modèles de d’appariement, ou “matching”, étudient
+l’appariement qui s’opère sur le marché du mariage. D’autre part, les modèles col-
+lectifs s’attachent à décrire le processus de décision qui prend place au sein des
+ménages. Malgré l’importance de ces modèles, on compte encore peu de tentati-
+ves pour les rapprocher dans un cadre unifié. C’est ce que propose de faire ce cha-
+pitre. Nous introduisons un modèle d’appariement où l’utilité est imparfaitement
+transférable et de l’hétérogénéité inobservée dans les préférences individuelles. Ainsi,
+nous pouvons connecter la littérature sur les modèles collectifs et celle sur les modèles
+de matching.
+
+     Traditionnellement, les modèles de matching s’articulent autour de deux grandes
+classes. Les modèles où l’utilité est parfaitement transférable ont été introduits par
+Koopmans et Beckmann (1957), Shapley et Shubik (1971), et enfin appliqués par
+Becker (1973) à l’étude du marché du mariage. L’hypothèse principale dans ce cas
+est que les partenaires ont à leur disposition un moyen de transférer de l’utilité à un
+taux d’échange constant. A l’inverse, dans les modèles à utilité non transférable, ces
+transferts sont tout simplement prohibés (c’est le cas par exemple lorsqu’on modélise
+les choix scolaires). Cette approche a été introduite par Gale et Shapley (1962),
+et bien qu’elle soit applicable au mariage, l’hypothèse de non transférabilité est
+problématique. En effet, dans les modèles collectifs introduits par Chiappori (1988),
+les transferts sont possibles par nature, bien que l’utilité ne soit pas nécessairement
+parfaitement transférable. Notre approche consiste donc à construire un cadre qui
+soit à la fois compatible avec l’hypothèse d’utilité imparfaitement transférable, et em-
+pirique. Sur le premier point, nous nous inscrivons dans la lignée des modèles ITU
+introduit par Crawford et Knoer (1981), Kelso et Crawford (1982), ainsi que Hatfield
+
+
+                               CHAPITRE 2 : LE MODÈLE ITU                                  19
+
+et Milgrom (2005). A noter également la contribution de Chiappori (2012) qui in-
+troduit des exemples montrant comment intégrer les modèles collectifs au cadre ITU.
+D’un point de vue empirique, la littérature sur l’estimation structurelle de modèles de
+matching s’est cantonnée au cas TU (s’appuyant notamment sur les travaux fonda-
+teurs de Choo et Siow (2006) et NTU (Dagsvik, 2000 ; Menzel, 2015). Les tentatives
+pour réconcilier modèles collectifs et d’appariement sont plus rares, mais l’on peut
+noter les contributions de Choo et Seitz (2013) et Chiappori, Costa Dias et Meghir
+(2015), bien qu’il s’agisse de modèles TU. Une exception notable est Cherchye et al.
+(2014).
+
+   Dans ce chapitre, nous introduirons le modèle ITU avec préférences hétérogènes
+et prouverons l’existence et l’unicité d’un équilibre. Nous mentionnerons également
+deux algorithmes permettant de calculer l’équilibre et décrirons en détail le modèle
+ITU-logit, dans lequel l’hétérogénéité est supposée être de type logit. Enfin nous
+mentionnerons une illustration de nos résultats.
+
+   Intuitions sur l’équilibre individuel. Nous considérons un marché du ma-
+riage assez général. Il est composé d’une population d’hommes i ∈ I, et de femmes
+j ∈ J . Par la suite, il sera utile de supposer que les caractéristiques observables des
+hommes et des femmes sont, respectivement, xi ∈ X and yj ∈ Y, et nous appellerons
+xi et yj le type de l’homme i et de la femme j, respectivement. Nous construisons le
+modèle ITU par analogie au modèle TU. D’abord, introduisons la variable indicatrice
+d’appariement µij ∈ {0, 1} égale a 1 si l’homme i et la femme j forment une paire, et
+0 sinon. Notons que µij doit satisfaire
+                                         X
+                                              µij ≤ 1
+                                          j
+                                         X
+                                              µij ≤ 1.
+                                          i
+
+Nous supposons que lorsque l’homme i et la femme j se rencontrent, ils négocient
+une allocation d’utilité que l’on note (ui , vj ) ∈ Fij . Les utilités associées au célibat
+
+
+20
+
+
+                          (a) TU                                         (b) NTU
+
+
+
+
+     vj                                                   vj
+
+
+
+
+                   F ij                                           F ij
+
+
+
+
+                              ui                                            ui
+                            Student Version of MATLAB                     Student Version of MATLAB
+
+
+                          (c) Taxes                                 (d) ETU (τ = 1)
+
+
+
+          τ =0.1
+
+
+
+
+     vj                                                   vj
+
+
+
+
+                           τ =0.4
+
+                   F ij                                           F ij
+
+
+
+                                    τ =0.7
+
+
+                              ui
+                                                                            ui
+                            Student Version of MATLAB                     Student Version of MATLAB
+
+
+
+                                    Figure 8. Examples of bargaining sets.
+
+
+
+
+sont normalisées à Ui0 et U0j . La géométrie de l’ensemble Fij détermine si il s’agit
+d’un cas TU, NTU, ou plus généralement, ITU. Dans la figure 8, nous représentons
+graphiquement les cas TU, NTU, avec taxes et le cas ETU.
+
+     A l’équilibre, on suppose que les hommes et les femmes reçoivent une utilité ui et
+vj , respectivement. Ainsi, (µ, u, v) est un équilibre dans le cas TU si
+
+
+                               CHAPITRE 2 : LE MODÈLE ITU                                  21
+
+       • (i) L’appariement satisfait:
+                          
+                           µ ∈ {0, 1}
+                               ij
+                             P                  P
+                                 j µij ≤ 1, and   i µij ≤ 1.
+                          
+
+       • (ii) La condition de stabilité est satisfaite:
+                                  
+                                      u + vj ≥ αij + γ ij
+                                   i
+                                  
+                                  
+                              (S)      ui ≥ Ui0
+                                  
+                                  
+                                   vj ≥ V0j .
+                                  
+
+
+       • (iii) Et enfin si (condition de complémentarité):
+                               
+                                 µ > 0 =⇒ ui + vj = αij + γ ij
+                                Pij
+                               
+                               
+                       (CS)          µij < 1 =⇒ ui = Ui0        .
+                               
+                               
+                                P µ < 1 =⇒ vj = V0j
+                               
+                                      ij
+
+
+Dans le cas TU, la condition de stabilité s’écrit très simplement puisque les transferts
+qui équilibrent le marché disparaissent des équations. Il n’en est pas de même dans
+le cas ITU, et nous chercheront donc à écrire la condition de stabilité différemment.
+Dans ce cas, la stabilité nécessite que si l’homme i et la femme j reçoivent à l’équilibre
+(ui , vj ), alors il ne leur est pas possible, s’ils se mettent ensemble, d’atteindre une meil-
+leure allocation par la négociation. Pour exprimer cette condition, nous introduisons
+la fonction D, ou fonction de distance à la frontière. Cette fonction décrit selon si
+une allocation (u, v) peut être atteinte ou non, et décrit implicitement la frontière de
+l’ensemble Fij . En effet, la condition (ui , vj ) ∈ Fij s’écrit
+
+                                       Dij (ui , vj ) ≤ 0
+
+où Dij (u, v) est la distance entre (u, v) et la frontière de l’ensemble. On définit la
+fonction D comme suit
+
+                     Dij (u, v) = min {z ∈ R : (u − z, v − z) ∈ Fij } .
+
+
+22
+
+
+         (a) Implicit Representation                                             (b) Explicit Representation
+
+
+                         (u0i , vj0 )
+
+                                 D(u0i , vj0 ) > 0
+
+
+
+
+ vj                                                                vj   V(w)
+
+
+
+                  F ij                                                                  F ij
+                                    D(ui , vj ) < 0
+                                                                        V(w0 )
+                                                (ui , vj )                          w                          w0
+
+                                                                                                        U(w)        U(w0 )
+
+
+
+
+                                   ui                                                            ui
+                             Student Version of MATLAB                                         Student Version of MATLAB
+
+
+      Figure 9. Implicit and explicit representations of the bargaining set Fij .
+
+
+
+La frontière de Fij est l’ensemble des points (u, v) tels que Dij (u, v) = 0. La figure
+9 illustre la fonction de distance. Nous ne rentrerons pas dans les détails de la
+définition de l’ensemble Fij , mais nous en dérivons des propriétés sur la fonction D.
+En particulier,
+
+
+                                                Dij (u + t, v + t) = Dij (u, v) + t.
+
+
+Si la fonction de distance nous permet de décrire implicitement la frontière, cette
+dernière propriété nous permet d’introduire une représentation explicite qui sera utile
+par la suite. En effet, on peut définir les fonctions UFij (w) et VFij (w) comme les
+valeurs de u et de v telles que DFij (u, v) = 0 et w = u−v. En nous basant sur les pro-
+priétés de D, on peut montrer que UFij (w) = DFij (0, −w) et VFij (w) = −DFij (w, 0).
+Nous pouvons à présent définir un équilibre dans le cas général ITU. Le n-uplet
+(µ, u, v) est un équilibre si
+
+
+                                CHAPITRE 2 : LE MODÈLE ITU                                      23
+
+       • (i) L’appariement satisfait:
+                          
+                           µ ∈ {0, 1}
+                               ij
+                           P µ ≤ 1, and P µ ≤ 1.
+                                 j ij     i ij
+
+
+       • (ii) La condition de stabilité est vérifiée:
+                                  
+                                   Dij (ui , vj ) ≥ 0,
+                                  
+                                  
+                                  
+                                      ui ≥ Ui0 , and
+                                  
+                                  
+                                   vj ≥ V0j .
+                                  
+
+       • (iii) Les conditions de complémentarité (non linéaires):
+                          
+                           µij = 1 implies Dij (ui , vj ) = 0,
+                          
+                          
+                          
+                            P
+                              j µij < 1 implies ui = Ui0 , and
+                           P
+                               i µij < 1 implies vj = V0j .
+                          
+                          
+
+On retiendra la flexibilité de cette approche qui repose essentiellement sur le calcul de
+la fonction de distance. Pour illustrer cela, on considère un modèle collectif simple.
+Considérons le cas où il n’y a pas de loisir ni de biens publics, si bien que les partenaires
+i et j obtiennent une utilité uij (ci ) = αij + τ ij logci and vij (cj ) = γ ij + τ ij logcj ,
+respectivement, où ci et cj représentent leur consommation privée et α et γ sont des
+fonctions de leurs caractéristiques. Dans ce cas, en utilisant la contrainte de budget
+ci + cj ≤ Bi j, où Bi j est le revenu total à disposition de i et j, on peut calculer la
+fonction de distance
+
+     Dij (u, v) = τ ij log(((exp(((u − αij )/(τ ij ))) + exp(((v − γ ij )/(τ ij ))))/(Bij ))),
+
+Il est intéressant de noter que si Bij = 2, alors on retrouve le cas NTU lorsque
+τ ij → 0 et le cas TU lorsque τ ij → +∞. Ce modèle, que nous appelons modèle ETU
+(exponentially transferable utility), permet une interpolation entre les cas où l’utilité
+est non-transférable et parfaitement transférable. L’ensemble Fij est représenté dans
+la figure 8d pour τ = 1.
+
+
+24
+
+     Equilibre agrégé et cadre empirique. Jusqu’à présent, nous n’avons pas
+introduit d’hétérogénéité inobservée dans les préférences des individus. Désormais, on
+supposera que les individus ayant des caractéristiques observables similaires peuvent
+être rassemblés en groupes, ou types (voire plus haut). On suppose qu’il y a nx
+hommes de type x, et my femmes de type y. On introduit µxy ≥ 0 le nombre
+de mariages entre les hommes de type x et les femmes de type y. Les contraintes
+suivantes doivent être satisfaites :
+                                        X
+                                             µxy ≤ nx
+                                         y
+                                        X
+                                             µxy ≤ my
+                                         x
+
+De la même façon, on notera µx0 et µ0y le nombre d’hommes célibataires de type
+x et de femmes célibataires de type y. Notre hypothèse principale est que si un
+homme i et une femme j sont mariés, alors il existe une quantité endogène wij telles
+que ui ≤ Uxi yj (wij ) + iyj and vj ≤ Vxi yj (wij ) + η xi j (hypothèse 1). Si ils restent
+célibataires, on suppose qu’ils reçoivent ui = i0 et vj = η 0j . Les epsilons et êtas
+sont les parts idiosyncratiques de leur utilité, et sont des variables indépendantes et
+identiquement distribuées (les distributions sont notées Px et Qy , respectivement).
+On déduit de notre hypothèse que si l’homme i et la femme j sont mariés, alors il
+existe (U, V ) ∈ Fxi yj tels que
+
+                                        ui = Ui + iy
+
+                                        vj = Vj + η jx
+
+Enfin, on suppose que les distributions Px et Qy ont des densités dont le support est
+RY0 et RX0 (hypothèse 3). L’intérêt de cette formulation est de connecter le problème
+d’appariement à la littérature sur les choix discrets. En effet, nous montrons dans ce
+chapitre que l’on peut se concentrer sur les équilibres individuels (µij , ui , vj ) tels que
+ui = Uxi yj + iyj et vj = Vxi yj + η xi j (théorème 6). Ce n’est pas une restriction comme
+
+
+                                CHAPITRE 2 : LE MODÈLE ITU                                  25
+
+le montre notre théorème 6, puisqu’il existe toujours un équilibre individuel de cette
+forme. Dans ce cas, nous pouvons réduire le problème d’appariement à une série de
+problèmes de choix discrets, dans lesquels chaque individu choisit le type observable
+de son partenaire, c’est-à-dire résout :
+                                                    
+                       max {Uxy + εiy , εi0 } et max Vxy + η xj , η 0j
+                       y∈Y                            x∈X
+
+Cela nous permet d’utiliser l’apparatus des choix discrets et notamment de relier Uxy
+et Vxy à µxy . En effet, introduisons le bien être des hommes et des femmes :
+                                     X
+                          G (U ) =         nx E max {Uxy + εiy , εi0 }
+                                                 y
+                                     x∈X
+                                     X             
+                          H (V ) =         my E max Vxy + η jx , η j0
+                                                  x
+                                     y∈Y
+
+Par le théorème de Daly-Zachary-Williams la demande pour un mariage xy par les
+hommes et les femmes est, respectivement
+
+                       µxy = ∂G (U ) /∂Uxy and µxy = ∂H (V ) /∂Vxy
+                                     
+On dira alors que µxy , Uxy , Vxy     x∈X ,y∈Y
+                                                 forme un équilibre agrégé si les conditions
+suivantes sont satisfaites : (i) µ est un matching intérieur, i.e. µ ∈ M0 ; (ii) (U, V )
+sont faisables, i.e.
+
+(2.1)                        Dxy (Uxy , Vxy ) = 0, ∀x ∈ X , y ∈ Y;
+
+(iii) µ, U , et V sont liés par l’équilibre sur le marché du mariage
+
+(2.2)                              µ = ∇G (U ) = ∇H (V ) .
+                 
+Le vecteur µxy    x∈X ,y∈Y
+                             est un matching d’équilibre agrégé si et seulement si il existe
+une paire de vecteurs (Uxy , Vxy )x∈X ,y∈Y tels que (µ, U, V ) forme un équilibre agrégé. Il
+est possible de réécrire les conditions d’équilibre de la manière suivante : on cherche
+en effet un vecteur (Wxy ) tel que
+
+                                           Z (W ) = 0,
+
+
+26
+
+où
+
+                   Zxy (W ) = ∂H (V (W )) /∂Vxy − ∂G (U (W )) /∂Uxy .
+
+Ici, W joue le rôle d’un prix, et Z le rôle d’une fonction d’excès de demande qui
+satisfait
+
+                   ∂Zxy /∂Wxy ≤ 0
+
+                   ∂Zxy /∂Wxy0 ≥ 0 and ∂Zxy /∂Wx0 y ≥ 0, x0 6= x, y 0 6= y
+
+                  ∂Zxy /∂Wx0 y0 = 0, x0 6= x, y 0 6= y.
+
+En particulier donc, Z satisfait la propriété de “gross substitutes”. La proposition
+2 montre que l’équilibre dans le modèle ITU avec hétérogénéité est équivalent au
+problème de trouver les prix walrassiens W tels que
+
+                                          Z (W ) = 0.
+
+
+      La propriété “gross substitutes” est fondamentale car elle assure la convergence
+de l’algorithme de descente permettant de trouver le prix d’équilibre. Ainsi, nous
+prouvons l’existence d’un équilibre. L’unicité, elle, suit par application des résultats
+de Berry, Gandhi et Haile (2013) (théorème 1).
+
+      Cas avec hétérogénéité logit. Nous avons établi un parallèle entre notre
+modèle ITU et les modèles de choix discret. On peut montrer que pour une dis-
+tribution bien choisie de l’hétérogénéité inobservée, il est très facile de caractériser
+l’équilibre. Dans le cas où les chocs idiosyncratiques sont logit (hypothèse 3’), on
+obtient
+
+                                            µxy
+                                         ln     = Uxy
+                                            µx0
+                                            µxy
+                                         ln     = Vxy
+                                            µ0y
+
+
+                                CHAPITRE 2 : LE MODÈLE ITU                                27
+
+Par ailleurs, nous savons qu’à l’équilibre, Dxy (Uxy , Vxy ) = 0, et donc
+                                     
+                                          µxy      µxy
+                                                       
+                               Dxy ln         , ln       = 0.
+                                          µx0      µ0y
+
+Le théorème 3 précise alors que l’équilibre dans le cas ITU avec hétérogénéité logit
+est complètement caractérisé par des équations non linéaires en µxy , µx0 et µ0y :
+                                   
+                                        µxy      µxy
+                                                     
+                               Dxy ln       , ln       =0
+                                        µx0      µ0y
+                                       X
+                                           µxy + µx0 = nx
+                                          y
+                                         X
+                                              µxy + µ0y = my
+                                          x
+
+La première équation définit implicitement une fonction d’appariement agrégée :
+                                                                  
+                 µxy = Mxy µx0 , µ0y := exp −Dxy − ln µx0 , ln µ0y
+
+Ainsi, l’équilibre est pleinement caractérisé par
+                               X                 
+                                    Mxy µx0 , µ0y + µx0 = nx
+                                y
+                               X                 
+                                    Mxy µx0 , µ0y + µ0y = my .
+                                x
+
+On notera que trouver l’équilibre dans ce cas se résume à résoudre
+                               X                 
+                                    Mxy µx0 , µ0y + µx0 = nx
+                                y
+                               X                 
+                                    Mxy µx0 , µ0y + µ0y = my .
+                                x
+                                                       
+où Mxy µx0 , µ0y       = exp −Dxy − log µx0 , − log µ0y . Il est aisé de résoudre ce
+système grâce à l’algorithme IPFP (Iterative Projective Fitting Procedure). La con-
+vergence est garantie, et en pratique, très rapide. Enfin, notons que nous avons
+introduit les fonctions d’appariement agrégées, que l’on peut facilement utiliser pour
+construire un estimateur de type maximum de vraisemblance.
+
+
+28
+
+      Illustration. Nous illustrons nos résultats en estimant le simple modèle col-
+lectif introduit plus haut, avec des données britanniques (“Living Costs and Food
+Survey 2013”). Nous utilisons ces données pour construire un marché du mariage
+représentatif, et obtenir des estimations de la consommation privée des hommes et
+des femmes mariés. Ainsi, la part systématique des utilités dépend uniquement de la
+consommation privée et de variables démographiques et est introduit comme suit :
+
+      Uxy = αxy − αx0 + τ log(((cm                                            w
+                                 xy )/(Ix ))) et Vxy = γ xy − γ 0y + τ log(((cxy )/(Iy ))).
+
+
+On peut alors dériver la fonction de distance pour ce modèle, comme nous l’avons
+montré plus haut. Les paramètres à estimer ici sont α, γ et τ , ce dernier mesurant la
+courbure de la frontière de l’ensemble Fxy . En pratique, nous ferons dépendre α et γ
+de la différence d’âge et d’éducation entre les partenaires. Les paramètres d’intérêts
+sont estimés par maximum de vraisemblance. Nos résultats sont rassemblés dans le
+tableau 1 En vue d’illustrer nos résultats le plus simplement possible, nous avons
+
+                                       Table 1. Estimates
+
+
+     Parameters        α1            α2            γ1            γ2             s            τ
+     Estimates       −1.26         −1.90         −1.80         −2.04         301.75         3.26
+         CI        [−1.84, −0.76][−2.42, −1.39][−2.35, −1.23][−2.78, −1.50][256.22, 353.61]
+                                                                                         [1.79, 7.57]
+
+     Note: These estimates are obtained using the TraME package (Galichon, O’hara and
+ Weber (2017)) and the NLOPT optimization routine. Parameters α1 and γ 1 measure
+ education assortativeness, α2 and γ 2 measure age assortativeness, and τ captures the
+ curvature of the bargaining frontier. The standard deviation of our measurement error is
+ estimated as s . Confidence intervals at the 5% level are computed using 200 bootstrap
+ estimates.
+
+opté pour un modèle simplifié que nous estimons sur un petit échantillon. Cela étant,
+nos résultats suggèrent un certain degré d’assortativité en âge et en éducation sur le
+marché du mariage. En outre, la valeur obtenue pour τ montre que ce ne sont ni le
+
+
+                              CHAPITRE 2 : LE MODÈLE ITU                                 29
+
+cas NTU (τ → 0) ni le cas TU (τ → 0) qui décrivent le plus précisément les données,
+mais bien un cas intermédiaire.
+
+   Conclusion. Dans ce chapitre, nous avons tenté de démontrer la flexibilité d’un
+modèle d’appariement avec utilité imparfaitement transférable. En effet, celui-ci per-
+met à la fois de couvrir les cas TU et NTU, mais aussi toute une série de modèles in-
+termédiaires, y compris les modèles collectifs. Outre des résultats théoriques d’existence
+et d’unicité, ce chapitre a montré que, d’un point de vue empirique, il était possi-
+ble d’utiliser et d’estimer un modèle ITU. A partir de ces résultats, on peut donc
+unifier la littérature sur les modèles collectifs et les modèles d’appariement. Il reste
+cependant un certain nombre de défis à relever. D’abord, nos résultats reposent sur
+une définition précise de l’ensemble des allocations faisables, et il est donc nécessaire
+de caractériser les modèles collectifs qui peuvent être intégrés à un modèle ITU. Par
+ailleurs, lorsque nous avons considéré des modèles collectifs, nous avons choisi des
+modèles très parcimonieux. Mais dès lors que des biens publics, le loisir ou la pro-
+duction domestique sont introduits, il n’est en général plus possible d’obtenir une
+expression analytique pour la fonction de distance. Il faut donc avoir recourt à des
+méthodes numériques. Par ailleurs, nous n’avons pas encore exploité l’ensemble des
+possibilités offertes par notre modèle (et notamment, la possibilité de construire des
+expériences contrefactuelles). Toutes ces questions seront au cœur du chapitre sui-
+vant.
+
+
+30
+
+Chapitre 3 : Un cadre unifié pour les modèles collectifs et d’appariement
+
+
+
+
+     Le présent chapitre fait largement écho aux thèmes introduits précédemment.
+En particulier, j’y étudie de manière plus approfondie la connexion qui existe entre
+les modèles collectifs et les modèles d’appariement. Alors que le deuxième chapitre
+prenait comme point de départ les modèles d’appariement à utilité imparfaitement
+transférable (ITU), il sera ici question de caractériser les modèles collectifs pouvant
+être incorporées dans un modèle ITU. Nous l’avons dit, les modèles collectifs (Chiap-
+pori, 1988) sont un outil majeur en économie de la famille. A l’inverse des modèles
+unitaires, ils admettent que les individus composants un ménage puissent avoir des
+préférences différentes, et donc que les décisions des ménages sont le fruit d’un proces-
+sus de négociation. Des lors, les modèles collectifs introduisent la notion de pouvoir
+de négociation et de partage des ressources au sein des ménages. Cette littérature
+reconnait implicitement que le partage du pouvoir de négociation dépend de l’état du
+marché du mariage. Intuitivement, si les femmes sont plus rares sur ce marché, alors
+elles peuvent attendre un pouvoir de négociation plus important. On retrouve cette
+idée dans les travaux de Becker (1973), dans lesquels le partage du surplus marital
+est déterminé par la structure du marché du mariage. Ainsi, on peut supposer qu’il
+serait fécond de considérer modèles collectifs et modèles d’appariement du marché
+du mariage dans un cadre unifié. C’est ce que propose de faire ce chapitre. Le but
+de ce travail est d’explorer la connexion entre modèles collectifs et d’appariement.
+Pour cela, je propose d’intégrer les modèles collectifs au modèle ITU développé dans
+le précèdent chapitre. Cette approche a plusieurs mérites. Tout d’abord, les poids
+de Pareto (la mesure du pouvoir de négociation) sont endogènes à la détermination
+de l’équilibre sur le marché du mariage. Ainsi, ils peuvent être estimés lorsqu’on
+résout le modèle. Par ailleurs, le cadre que je propose est compatible avec une classe
+très générale de modèles collectifs. En particulier, l’utilité n’est pas nécessairement
+
+
+                CHAPITRE 3 : MODÈLES COLLECTIFS ET D’APPARIEMENT                           31
+
+parfaitement transférable (modèles TU, ou transferable utility models). Bien que fa-
+ciles à manipuler, les modèles TU ont plusieurs limites, la principale étant que la
+consommation de biens publics du ménage est indépendante du partage du pouvoir
+de négociation. Cette conclusion n’est pas validée par la littérature empirique. Enfin,
+je propose des méthodes d’estimation structurelle de ces modèles. Ainsi, il est pos-
+sible de conduire des expériences contrefactuelles permettant, par exemple, d’évaluer
+l’impact de la variation du rapport des sexes sur la consommation de bien public ou
+le partage du pouvoir de négociation. Ce chapitre s’articule autour de trois parties.
+Premièrement, je propose de caractériser les modèles collectifs compatibles avec le
+cadre ITU. Ensuite, je propose une méthode pour résoudre ces modèles de la manière
+la plus générale possible. Enfin, j’illustre le modèle avec des données américaines,
+extraites du PSID (Panel Study of Income Dynamics).
+
+   Caractérisation. Dans le modèle ITU, on suppose que lorsqu’un homme i ren-
+contre une femme j, ils négocient et choisissent une allocation (ui , vj ) d’utilité appar-
+tenant à l’ensemble Fij . Dans le précédant chapitre, nous supposons que l’ensemble
+Fij satisfait un certain nombre de propriétés (proper bargaining set). Dans ce cha-
+pitre, j’adopte une perspective différente : je considère un modèle collectif général
+dans lequel les partenaires consomment des biens privés et publics. L’ensemble des
+allocations d’utilité possibles est défini de manière classique, et je détermine sous quel-
+les conditions cet ensemble satisfait les mêmes propriétés que l’ensemble Fij . Ainsi,
+on suppose que l’homme i et la femme j dérivent de l’utilité de la consommation
+de biens privés (les vecteurs qi et qj , respectivement) et de biens publics (le vecteur
+                                                                                   L
+Q). Lorsqu’ils se rencontrent, ils choisissent une allocation ω = (qi , qj , Q) ∈ R+
+où l’ensemble des allocations de biens possibles est noté Ωij . Pour une allocation
+(qi , qj , Q) ∈ Ωij donnée, l’homme i et la femme j reçoivent une utilité de Ui (qi , Q) et
+Vj (qj , Q), respectivement. On peut alors introduire l’ensemble des allocations d’utilité
+possibles de deux manières différentes :
+
+
+32
+
+     Definition. L’ensemble Gij est
+
+            Gij = {(ui , vj ) : ∃(qi , qj , Q) ∈ Ωij : ui ≤ U (qi , Q), vj ≤ V (qj , Q)}
+
+Et l’ensemble Hij est
+
+           Hij = {(ui , vj ) : ∃(qi , qj , Q) ∈ Ωij : ui = U (qi , Q), vj = V (qj , Q)}
+
+     Dans chaque cas, on dira que les ensembles Gij et Hij sont les ensembles des
+allocations d’utilité possibles associés à (Ωij , Ui , Vj ). Un exemple est montré dans la
+figure 10. A présent, la question est de savoir sous quelles conditions ces ensembles
+
+
+                                  Figure 10. Bargaining Sets
+               vj                                                 vj
+
+
+
+
+                    Gij                                                Hij
+
+                                                  ui                                                 ui
+
+
+
+
+                      Student Version of MATLAB                          Student Version of MATLAB
+
+               (a) The set Gij                                    (b) The set Hij
+
+
+satisfont les propriétés requises pour être utilisés en tant qu’ensemble Fij dans le cadre
+ITU. Le premier résultat est que sous des hypothèses standards sur les fonctions
+d’utilité, l’ensemble Ω et sous condition que les deux partenaires aient un moyen
+de transférer de l’utilité, alors l’ensemble Gij peut être utilisé comme ensemble Fij
+(proposition 1). On peut aussi montrer qu’un point appartenant à la frontière de
+
+
+                 CHAPITRE 3 : MODÈLES COLLECTIFS ET D’APPARIEMENT                            33
+
+Gij est faiblement efficace au sens de Pareto. Or, pour que la connexion entre les
+modèles collectifs et le modèle ITU soit complète, nous cherchons les cas où les points
+appartenant à la frontière (c’est-à-dire, les points qui seront sélectionnés à l’équilibre
+dans le modèle ITU) sont strictement efficaces au sens de Pareto. Pour cela, je propose
+d’utiliser l’ensemble Hij : sous certaines hypothèses supplémentaires, on peut montrer
+que non seulement il satisfait toutes les propriétés requises, mais aussi que les points
+sur la frontière de l’ensemble sont strictement Pareto-efficaces (proposition 5).
+
+    Méthode de calcul. La partie précédente montre que sous certaines conditions,
+de nombreux modèles collectifs peuvent être estimés dans le cadre ITU. Cependant,
+comme nous l’avons évoqué dans le chapitre 2, l’estimation de ces modèles reposent
+sur le calcul des fonctions de distance, c’est-à-dire, le calcul de la distance entre tout
+point (u, v) appartenant à l’ensemble Fij et la frontière. Dans certains cas particuliers,
+on peut calculer la fonction de distance et obtenir une expression analytique. En
+revanche, en général (dès lors que des biens publics ou le temps sont introduits dans
+le modèle collectif), on devra calculer la fonction de distance numériquement. Je
+propose une méthode générale pour résoudre ce problème, dans les cas où l’ensemble
+en question est soit Gij , soit Hij . Avant de présenter le résultat, j’introduis une
+nouvelle hypothèse : l’ensemble Ωij est caractérisé par R contraintes
+
+
+
+
+(3.1)                          hr (qi , qi , Q) ≤ 0, r ∈ {1, ..., R}
+
+
+
+
+où {hr }r∈{1,...,R} sont des fonctions convexes. Dans ce cas, nous avons :
+
+
+34
+
+     Problem 1. (i) Supposons que Gij est notre ensemble d’allocations d’utilité pos-
+sibles associé à (Uiθ , Vjθ , Ωij ). Alors on peut résoudre :
+
+(3.2)                                            min z
+                                               z,qi ,qj ,Q
+
+                                    s.t u − z ≤ Uiθ (qi , Q)
+
+(3.3)                                    v − z ≤ Vjθ (qj , Q)
+
+                                 hr (qi , qi , Q) ≤ 0, r ∈ {1, ..., R}
+
+     θ
+où Dij (u, v) = z ∗ , solution du problème.
+
+     (ii) De même, si notre ensemble d’allocations d’utilité possibles est Hij associé à
+(Uiθ , Vjθ , Ωij ), alors on résout :
+
+(3.4)                                            min z
+                                               z,qi ,qj ,Q
+
+                                    s.t u − z = Uiθ (qi , Q)
+
+(3.5)                                    v − z = Vjθ (qj , Q)
+
+                                 hr (qi , qi , Q) ≤ 0, r ∈ {1, ..., R}
+
+     θ
+où Dij (u, v) = z ∗ , solution du problème.
+
+
+     Ce résultat a plusieurs implications importantes. La première est qu’il est pos-
+sible de calculer la dérivée de la fonction de distance par rapport à n’importe quel
+paramètre du modèle sans coût de calcul supplémentaire (théorème 1). En effet, on
+peut appliquer le théorème de l’enveloppe et montrer que lorsqu’on résout le problème
+ci-dessus, alors on peut simultanément calculer la valeur de la fonction de distance et
+sa dérivée. Enfin, le problème ci-dessus introduit une connexion intéressante avec les
+modèles collectifs. Le théorème 2 montre en effet que les multiplicateurs de Lagrange
+associés aux contraintes d’utilité peuvent en fait être interprétés comme des poids de
+Pareto.
+
+
+                 CHAPITRE 3 : MODÈLES COLLECTIFS ET D’APPARIEMENT                          35
+
+      Illustration. Dans cette partie, je propose d’estimer un modèle collectif avec
+consommation privée, loisir et travail domestique. L’estimation suit les étapes intro-
+duites dans le chapitre précédent. Je suppose qu’un homme célibataire de type x (les
+types sont des catégories d’hommes ou de femmes partageant des traits observables
+similaires, par exemple, le même niveau d’éducation) résout le programme suivant
+
+
+                            max
+                             s s
+                                 ae(x) log csx + αe(x) log `sx
+                            cx ,`x
+
+                                               s.t csx + `sx wx ≤ T wx
+
+                                                            `sx ≤ T
+
+
+Ici, je suppose que l’utilité dépend de la consommation privée (cx , dont le prix est
+normalisé à 1) et du loisir (`x ). Le temps total disponible est T et le salaire est wx . Les
+paramètres de préférences peuvent varier avec certaines caractéristiques observables.
+Ici, je supposerai que les préférences varient selon trois niveaux d’éducation. Pour les
+femmes, on obtient un programme similaire :
+
+
+                            max
+                             s s
+                                 be(y) log csy + β e(y) log `sy
+                            cy ,`y
+
+                                               s.t csy + `sy wy ≤ T wy
+
+                                                            `sy ≤ T
+
+
+Les individus mariés ont les mêmes préférences, mais ont accès à un bien public Q
+produit à partir de temps de travail domestique. Ils obtiennent :
+
+
+(3.6)           Uxy (cx , `x , Q) = ae(x) log cx + αe(x) log `x + Ae(x) log Q
+
+(3.7)           Vxy (cy , `y , Q) = be(y) log cy + β e(y) log `y + Be(y) log Q
+
+
+où
+                                                           1/σ
+                                     Q = ηhσx + (1 − η)hσy
+                                        
+
+
+36
+
+Ils choisissent une allocation de biens et de temps sous les contraintes
+
+(3.8)              cx + cy + (`x + hx )wx + (`y + hy )wy ≤ T (wx + wy )
+
+(3.9)                                               `x + hx ≤ T
+
+(3.10)                                              `y + hy ≤ T
+
+Pour estimer ce modèle, j’utilise des données extraites du panel PSID américain pour
+l’année 1989. Je considère une population d’hommes mariés ou célibataires âgés
+de 30 à 60 ans, et de femmes mariées ou célibataires âgées de 28 à 58 ans. Pour
+chaque individu, j’obtiens son niveau d’éducation (trois niveaux : HS ou lycée, C
+ou enseignement supérieur jusqu’à la licence, ou C+ pour master ou supérieur). Je
+calcule le salaire (si le salaire n’est pas observé, il est prédit par un modèle de sélection
+à la Heckman) et observe le temps passé sur le marché du travail ainsi que le temps
+de travail domestique. Les paramètres de préférence estimés sont reportés dans le
+tableau 2. On notera que les femmes semblent avoir une préférence plus forte pour
+le bien public. La paramètre estimé η est proche de 1/3, ce qui n’est pas surprenant.
+En effet, dans un modèle collectif dans lequel un bien est produit par le ménage et ne
+peut pas être vendu sur le marché, alors le choix des inputs est dicté par un calcul de
+minimisation des coûts. Dans ce cas, le ratio η/(1 − η) est égal au ratio des salaires
+(wx /wy ) multiplié par le ratio du temps domestique (hx /hy ). A partir des données
+brutes, on voit que le ratio des salaires est approximativement égal à 3/2 alors que le
+ratio du travail domestique est 1/3, à partir de quoi nous pouvons déduire η.
+
+     Pour montrer dans quelle mesure le modèle est fidèle aux données, j’agrège ses
+prédictions selon 15 types de ménages possibles (9 types de couples possibles selon
+les trois niveaux d’éducation possibles de l’homme et de la femme, 3 types d’homme
+célibataire selon le niveau d’éducation, et 3 types de femme célibataire selon le niveau
+d’éducation). Ces “moments” sont également calculés à partir des données, et je
+compare les moments prédits et observés dans la figure 12 Le modèle est capable de
+reproduire les décisions observées. A partir de cette estimation, il est tout d’abord
+
+
+                     CHAPITRE 3 : MODÈLES COLLECTIFS ET D’APPARIEMENT                                                                 37
+
+
+
+                                                       Figure 12. Model Fit
+
+                                                                Marriage patterns
+                                              0.30
+
+                                              0.25
+
+                                              0.20
+                                  Predicted
+
+
+
+
+                                              0.15
+
+                                              0.10
+
+                                              0.05
+
+                                              0.00
+                                                     0.00 0.05 0.10 0.15 0.20 0.25 0.30
+                                                                   Observed
+
+
+                            Labour Supply, Men                                              Labour Supply, Women
+            80                                                                    80
+
+
+            60                                                                    60
+Predicted
+
+
+
+
+                                                                      Predicted
+
+
+
+
+            40                                                                    40
+
+
+            20                                                                    20
+
+
+            0                                                                     0
+                 0          20               40           60        80                 0        20           40         60        80
+                                          Observed                                                        Observed
+
+
+                                 Housework, Men                                                 Housework, Women
+            60                                                                    60
+
+            50                                                                    50
+
+            40                                                                    40
+Predicted
+
+
+
+
+                                                                      Predicted
+
+
+
+
+            30                                                                    30
+
+            20                                                                    20
+
+            10                                                                    10
+
+            0                                                                     0
+                 0     10        20          30    40          50   60                 0   10        20      30    40        50   60
+                                          Observed                                                        Observed
+
+
+38
+
+
+                               Table 2. Parameter Estimates
+
+                       Men                                           Women
+         Private C. Leisure Public C. Private C. Leisure Public C. Technology
+             a           α           A             b            β          B              η
+ HS         0.33        0.64        0.03          0.23        0.60        0.18          0.20
+     C      0.34        0.61        0.04          0.26        0.57        0.17          0.20
+ C+         0.37        0.58        0.05          0.27        0.56        0.17          0.20
+     Note: types are displayed in rows (HS = high school or below, C = some college, C+ =
+     college degree and above). In the estimation, I do not impose the preference parameters for
+     consumption, leisure and public good to sum to 1. In the table above, the reported values have
+     been divided by the sum of the parameters.
+
+
+possible de calculer le partage des ressources au sein des couples. Je calcule la part
+(“sharing rule”) des dépenses privées de la femme (somme de la consommation privée
+et du loisir dont le prix est le salaire) dans les dépenses privées totales. Je reporte la
+distribution des “sharing rule” pour chaque type de ménage dans la figure 13. Comme
+on peut le voir, le partage des ressources est en général plus favorable aux hommes,
+mais il devient plus favorable aux femmes à mesure que leur niveau d’éducation
+augmente (dans ce cas, leur salaire est plus élevé, et leur option de réserve, le célibat,
+est plus attractif).
+
+     Enfin, l’intérêt principal de ce modèle est que l’on peut conduire des expériences
+contrefactuelles. Par exemple, que se passe-t-il si l’on change le rapport des sexes
+sur le marché du mariage. Supposons que le rapport des sexes (nombre d’hommes
+par femme) s’accroisse d’un point de pourcentage. Quel est effet sur le partage des
+ressources ? Quels transferts cela induit-il ? Je réponds à cette question dans le
+tableau 3 : la modification du rapport des sexes induit des transferts des hommes vers
+les femmes à hauteur de $350 à $700 par an. Dans la littérature des modèles collectifs,
+Chiappori, Fortin et Lacroix (2002) trouve un chiffre proche de $2000. Plus intéressant
+est l’impact d’un changement dans le rapport des sexes sur la consommation de bien
+
+
+                   CHAPITRE 3 : MODÈLES COLLECTIFS ET D’APPARIEMENT                                                         39
+
+
+
+                              Figure 13. Conditional Sharing Rules
+
+                  Men HS, Women HS                        Men HS, Women C                       Men HS, Women C+
+                                               3.0                                    3.0
+        3.0
+                                               2.5                                    2.5
+        2.5
+        2.0                                    2.0                                    2.0
+
+        1.5                                    1.5                                    1.5
+
+        1.0                                    1.0                                    1.0
+        0.5                                    0.5                                    0.5
+        0.0                                    0.0                                    0.0
+           0.0   0.2   0.4   0.6   0.8   1.0      0.0   0.2   0.4   0.6   0.8   1.0      0.0   0.2   0.4   0.6   0.8   1.0
+                   Men C, Women HS                        Men C, Women C                        Men C, Women C+
+        3.5                                    3.0                                    3.0
+        3.0
+                                               2.5                                    2.5
+        2.5
+                                               2.0                                    2.0
+        2.0
+                                               1.5                                    1.5
+        1.5
+        1.0                                    1.0                                    1.0
+
+        0.5                                    0.5                                    0.5
+        0.0                                    0.0                                    0.0
+           0.0   0.2   0.4   0.6   0.8   1.0      0.0   0.2   0.4   0.6   0.8   1.0      0.0   0.2   0.4   0.6   0.8   1.0
+                  Men C+, Women HS                       Men C+, Women C                        Men C+, Women C+
+        4.0                                 4.0
+                                                                                      3.5
+        3.5                                 3.5
+                                                                                      3.0
+        3.0                                 3.0
+                                                                                      2.5
+        2.5                                 2.5
+                                                                                      2.0
+        2.0                                 2.0
+        1.5                                 1.5                                       1.5
+        1.0                                 1.0                                       1.0
+        0.5                                 0.5                                       0.5
+        0.0                                 0.0                                       0.0
+           0.0   0.2   0.4   0.6   0.8   1.0 0.0        0.2   0.4   0.6   0.8   1.0      0.0   0.2   0.4   0.6   0.8   1.0
+
+
+
+
+public. Je simule l’impact d’un accroissement de 10 point de pourcentage du rapport
+des sexes, et les résultats sont reportés dans la figure 14. La raréfaction des femmes
+relativement aux hommes modifie le partage du pouvoir de négociation en leur faveur.
+Comme elles ont une préférence plus marquée pour le bien public, la consommation
+de ce bien augmente, comme indiqué ci-dessous.
+
+   Conclusion. La contribution de ce chapitre est d’étudier de manière plus appro-
+fondie la connexion entre modèles collectifs et modèles d’appariement. En particulier,
+
+
+40
+
+
+                                                  Table 3. Estimating transfers from husbands to wives
+
+
+                                                                                                 HS                                   C                                                     C+
+                                               HS                                        128.18                                     243.40                                                 551.51
+                                                C                                        132.13                                     256.05                                                 597.19
+                                               C+                                        144.58                                     275.94                                                 683.64
+                                        Note: the table displays the transfers in private expenditures (private good plus
+                                        leisure) from husbands to wives following a 1 percentage point increase in the sex
+                                        ratio (share of men in total population). Men are displayed in rows and women in
+                                        columns.
+
+
+
+                                                             Figure 14. Public Good expenditures
+                                                                                                          Public good expenditures
+                                                Women HS                                                             Women C                                              0.111
+                                                                                                                                                                                            Women C+
+                       0.098                                                                   0.104                                                                                                    Baseline
+                                                                                                                                                                          0.110                         Counterfactual
+                       0.097                                                                   0.103
+                                                                                                                                                                          0.109
+Share of public exp.
+
+
+
+
+                                                                        Share of public exp.
+
+
+
+
+                                                                                                                                                   Share of public exp.
+
+
+                                                                                               0.102                                                                      0.108
+                       0.096
+                                                                                               0.101                                                                      0.107
+                       0.095                                                                                                                                              0.106
+                                                                                               0.100
+                       0.094                                                                                                                                              0.105
+                                                                                               0.099
+                                                                                                                                                                          0.104
+                       0.093             Baseline                                              0.098            Baseline
+                                         Counterfactual                                                         Counterfactual                                            0.103
+                               ['HS']               ['C']      ['C+']                                  ['HS']              ['C']          ['C+']                                  ['HS']       ['C']               ['C+']
+                                                  Man type                                                               Man type                                                            Man type
+
+
+
+je prends comme point de départ un modèle collectif général et étudie sous quelles
+conditions celui-ci peut être intégré au modèle ITU et estimé selon les techniques
+introduites dans le deuxième chapitre. Dans ce cadre général, les modèles collectifs
+sont parfois complexes et rien ne garantit que le calcul de la fonction de distance soit
+possible sans avoir recours à des méthodes numériques. Je montre cependant que le
+calcul de la fonction de distance est possible et a des propriétés intéressantes pour le
+travail appliqué. J’illustre mes résultats avec une application qui inclut bien privé,
+loisir et bien public produit à partir de travail domestique. Ce chapitre suggère plusi-
+eurs pistes de recherches. Par exemple, si le partage du pouvoir de négociation influe
+sur la consommation de bien public, cette question est particulièrement intéressante
+
+
+                CHAPITRE 3 : MODÈLES COLLECTIFS ET D’APPARIEMENT                          41
+
+si on considère que le bien public est le bien-être des enfants. Il est tout a fait
+possible d’estimer un modèle semblable à celui proposé ici, mais dans lequel les pa-
+rents investissent du temps et des ressources dans la formation du capital humain
+de leurs enfants. Un autre exemple est de regarder comment le partage du pou-
+voir de négociation varient dans le temps et l’espace. Enfin, il est possible de cou-
+pler l’approche développée ici avec celle du chapitre 1 afin de mesurer l’impact de
+l’évolution des préférences maritales et des préférences pour différents types de biens
+(loisir, etc.) sur les inégalités entre ménages, mais également entre individus.
+
+
+42
+
+                                       Conclusion
+
+     Le marché du mariage joue un rôle prépondérant dans la formation des couples
+et l’allocation des ressources entre partenaires. Cette intuition est le point de départ
+de mes recherches. Elle conduit à s’interroger sur la relation entre le marché du ma-
+riage et les inégalités, à la fois entre ménages et entre individus. Par exemple, j’ai
+tenté de répondre aux questions suivantes : (i) dans quelle mesures les préférences
+maritales contribuent-elles aux inégalités de revenu entre ménages ? Ou (ii) com-
+ment les ressources sont-elles partagées au sein des couples, et comment ce partage
+réagit-il à des variations exogènes tels que des changements de structure du marché
+du mariage ? In fine, ces recherches m’ont conduit à adopter et à développer des
+méthodes provenant de la littérature sur les modèles d’appariement afin de modéliser
+le marché du mariage de manière appropriée. Ce faisant, j’ai pu obtenir de nou-
+velles réponses à ces questions empiriques importantes. Dans le chapitre 1, je me
+suis d’abord penché sur les inégalités entre ménages. Contrairement aux travaux
+précédents, j’ai utilisé des méthodes structurelles et estimé un modèle d’appariement
+continu et multidimensionnel avec utilité parfaitement transférable. Cela m’a permis
+de dissocier préférences maritales et effets de structure du marché du mariage. En
+utilisant des données américaines, Edoardo Ciscato et moi-même avons montré que
+l’assortativité en éducation s’est accrue, et que l’hétérogénéité inobservée joue un
+rôle plus important aujourd’hui. Je montre également que si les préférences maritales
+étaient restées inchangées depuis 1971, le coefficient de Gini mesurant les inégalités
+de revenu entre ménages aujourd’hui serait inférieur de 6%. Dans les chapitres 2 et
+3, j’étudie l’allocation des ressources au sein des couples. L’idée que le partage du
+pouvoir de négociation répond au changement de structure du marché du mariage,
+puisqu’il est endogène à la détermination de l’équilibre sur ce même marché. Avec
+Alfred Galichon et Scott Kominers, j’ai développé un modèle d’appariement dans
+lequel l’utilité est imparfaitement transférable (ITU). Ce modèle fait le lien avec la
+
+
+                                       CONCLUSION                                          43
+
+littérature sur les modèles collectifs, lien que j’étudie de manière plus approfondie
+dans le troisième chapitre. En particulier, je caractérise les modèles collectifs pou-
+vant être intégrés au cadre ITU et propose une application. L’ambition de ce travail
+est de montrer que les modèles développés ici peuvent être utiles pour répondre à
+d’autres questions fondamentales. Je conclurai par exemple emprunté à Heckman et
+Cunha (2007). Les traits cognitifs et non cognitifs des enfants sont notamment le
+produit d’investissements parentaux. Ces traits sont formés dès le plus jeune âge,
+et continue d’avoir des effets très importants dans la vie adulte. C’est pourquoi il
+est crucial de comprendre comment ces traits sont formés et comment ces décisions
+d’investissement répondent à des changements de structure du marché du mariage
+(e.g. l’accès des femmes à des niveaux de diplômes plus élevés) ou à certaines politi-
+ques publiques (e.g. des transferts monétaires des hommes vers les femmes). Je crois
+que les modèles développés dans cette thèse peuvent être utilisés à cette fin. Ce sera
+l’objet de mes recherches futures.
+
+
+
+
+                                Bibliographie
+
+[1] Gary S Becker. “A Theory of Marriage: Part I”. In : Journal of Political Economy
+    81.4 (1973), p. 813–846. issn : 0226740854.
+[2] Gary S. Becker. A Treatise On The Family. Harvard University Press, 1991,
+    p. 304–304.
+[3] Steven T. Berry, Amit Gandhi et Philip Haile. “Connected Substitutes and
+    Invertibility of Demand”. In : Econometrica 81.5 (2013), p. 2087–2111. issn :
+    0012-9682.
+[4] Laurens Cherchye et al. “Household Consumption When the Marriage Is Sta-
+    ble”. In : IZA Discussion Paper 8070 (2014), p. 0–25.
+[5] P.A. Chiappori. “Modèles d’appariement en économie”. In : Revue Economique
+    63.3 (2012), p. 437–437. issn : 9782724632538.
+[6] Pierre-André Pierre-André Chiappori, Bernard Fortin et Guy Lacroix. “Mar-
+    riage Market, Divorce Legislation, and Household Labor Supply”. In : Journal
+    of Political Economy 110.1 (2002), p. 37–72. issn : 00223808.
+[7] Pierre-André Chiappori. “Rational household labor supply”. In : Econometrica:
+    Journal of the Econometric Society (1988), p. 63–90.
+[8] Pierre-André Chiappori, Monica Costa Dias et Costas Meghir. “The Marriage
+    Market, Labor Supply and Education Choice”. In : NBER Working Paper (avr.
+    2015), p. –.
+[9] Eugene Choo et Shannon Seitz. “The Collective Marriage Matching Model:
+    Identification, Estimation, and Testing”. In : Advances in Econometrics. T. 31.
+    Emerald Group Publishing Limited, déc. 2013, p. 291–336–.
+
+                                        45
+
+
+46                                 BIBLIOGRAPHIE
+
+[10] Eugene Choo et Aloysius Siow. “Estimating a marriage matching model with
+     spillover effects”. In : Demography 43.3 (2006), p. 463–490.
+[11] Vincent P Crawford et Elsie Marie Knoer. “Job Matching with Heterogeneous
+     Firms and Workers”. In : Econometrica 49.2 (1981), p. 437–450.
+[12] John K Dagsvik. “Aggregation in Matching Markets”. In : International Eco-
+     nomic Review 41.1 (2000), p. 27–57.
+[13] Arnaud Dupuy et Alfred Galichon. “Personality Traits and the Marriage Mar-
+     ket”. In : Journal of Political Economy 122.6 (2014), p. 1271–1319.
+[14] Lasse Eika, Magne Mogstad et Basit Zafar. “Educational Assortative Mating
+     and Household Income Inequality”. In : NBER Working Paper (juil. 2014),
+     p. –.
+[15] R. Fernandez et al. “Love and Money: A Theoretical and Empirical Analysis of
+     Household Sorting and Inequality”. In : Quarterly Journal of Economics 120.1
+     (fév. 2005), p. 273–344.
+[16] D Gale et L S Shapley. “College Admissions and the Stability of Marriage”. In :
+     The American Mathematical Monthly 69.1 (jan. 1962), p. 9–15.
+[17] Alain Girard. “Le choix du conjoint: une enquête psycho-sociologique en France”.
+     In : Population (french edition) (1964), p. 727–732.
+[18] Jeremy Greenwood et al. “Marry Your Like: Assortative Mating and Income
+     Inequality”. In : American Economic Review 104.5 (2014), p. 348–353.
+[19] John William Hatfield et Paul R. Milgrom. “Matching with Contracts”. In :
+     American Economic Review 95.4 (2005), p. 913–935. issn : 00028282.
+[20] James Heckman et Flavio Cunha. “The Technology of Skill Formation”. In :
+     American Economic Review 97.2 (2007), p. 31–47.
+[21] Jr Kelso Alexander S et Vincent P Crawford. “Job Matching, Coalition Forma-
+     tion, and Gross Substitutes”. In : Econometrica 50.6 (1982), p. 1483–1504.
+[22] T.C. Koopmans et M.J. Beckmann. “Assignment Problems and the Location of
+     Economic Activities”. In : Econometrica 25.1 (1957), p. 53–76.
+
+
+                                  BIBLIOGRAPHIE                                   47
+
+[23] Robert D Mare. “Five Decades of Educational Assortative Mating”. In : Ame-
+     rican Sociological Review 56.1 (1991), p. 15–32.
+[24] Konrad Menzel. “Large Matching Markets as Two-Sided Demand Systems”. In :
+     Econometrica 83.3 (2015), p. 897–941.
+[25] Christine R Schwartz et Robert D Mare. “Trends in Educational Assortative
+     Marriage from 1940 to 2003”. In : Demography 42.4 (nov. 2005), p. 621–646.
+[26] Lloyd S Shapley et Martin Shubik. “The Assignment Game I: The Core”. In :
+     International Journal of Game Theory 1.1 (1971), p. 111–130.
+

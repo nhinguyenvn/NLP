@@ -1,0 +1,832 @@
+          Optimal policies in international macroeconomics
+                                             Zineddine Alla
+
+
+
+      To cite this version:
+    Zineddine Alla. Optimal policies in international macroeconomics. Economics and Finance. Institut
+    d’études politiques de paris - Sciences Po, 2017. English. �NNT : 2017IEPP0013�. �tel-03436551�
+
+
+
+
+                                   HAL Id: tel-03436551
+                 https://tel.archives-ouvertes.fr/tel-03436551
+                                      Submitted on 19 Nov 2021
+
+
+
+
+    HAL is a multi-disciplinary open access               L’archive ouverte pluridisciplinaire HAL, est
+archive for the deposit and dissemination of sci-     destinée au dépôt et à la diffusion de documents
+entific research documents, whether they are pub-     scientifiques de niveau recherche, publiés ou non,
+lished or not. The documents may come from            émanant des établissements d’enseignement et de
+teaching and research institutions in France or       recherche français ou étrangers, des laboratoires
+abroad, or from public or private research centers.   publics ou privés.
+
+
+                        Institut d’études politiques de Paris
+
+                      ECOLE DOCTORALE DE SCIENCES PO
+
+                     Programme doctoral en Sciences économiques
+
+                                Département d’économie
+
+                        Doctorat en Sciences économiques
+
+
+                        Résumé
+         Politiques optimales en macroéconomie
+                      internationale
+                                  Zineddine ALLA
+
+                                   Thèse dirigée par
+
+                                    Philippe Martin
+
+                           Soutenue à Paris le 17 mars 2017
+
+
+Jury :
+
+M. Nicolas COEURDACIER, Associate Professor, HDR, IEP de Paris.
+
+M. Daniel COHEN, Professeur des universités en économie, ENS-CEPREMAP.
+
+M. Emmanuel FARHI, Professor of Economics, Harvard University.
+
+M. Xavier RAGOT, Professeur des Universités, IEP de Paris.
+
+Mrs Hélène REY, Professor of Economics, London Business School.
+
+
+
+
+                                  Résumé court
+
+                    Politiques optimales en macroéconomie internationale
+
+                                          par Zineddine ALLA
+
+Peu après le déclenchement de la crise, Olivier Blanchard souligne dans son article fondateur ”Re-
+thinking Macroeconomic Policy” (Blanchard and Paolo, 2010), que ”la grande modération a bercé
+les macroéconomistes et les décideurs politiques, en les convainquant qu’ils savaient conduire la
+politique macroéconomique.” Il était en effet très tentant pour les macroéconomistes d’attribuer
+(au moins partiellement) le déclin de la volatilité des cycles économiques observé depuis la moitié
+des années 80 au développement d’un cadre conceptuel fondé sur une cible d’inflation, et à sa mise
+en oeuvre par des banques centrales indépendantes (cf. Bernanke (2004)). Dans un cadre Néo-
+Keynésien standard (cf. Gali and Monacelli (2005)), la politique monétaire conventionnelle est en
+effet suffisante pour stabiliser parfaitement l’économie, puisque les deux objectifs de stabilisation
+de l’inflation et de l’écart de production coı̈ncident (la ”divine coı̈ncidence”). Cependant, la crise
+financière mondiale qui a débuté en 2008, et la crise des dettes souveraines en zone euro qui l’a
+suivie, ont successivement forcé les macroéconomistes à repenser leur cadre conceptuel.
+
+D’une part, la crise financière mondiale a obligé les banques centrales à repenser leur cadre de poli-
+tique monétaire, tant en matière d’objectifs poursuivis que d’instruments. Cette crise a notamment
+mis en évidence des frictions autres que les rigidités nominales, en particulier celles provenant de
+l’intermédiation financière. Les inquiétudes liées à la fois aux enjeux de stabilité financière et aux
+risques de déflation ont ainsi conduit les banques centrales à élargir leur panel d’instruments, qu’il
+s’agisse d’outils macro-prudentiels ou d’opérations de bilans (politique de crédit, assouplissement
+quantitatif ou interventions de change – ces dernières concernant notamment les pays émergents).
+De fait, les questions supposées résolues et portant sur la définition des objectifs poursuivis par la
+politique monétaire, ainsi que sur les instruments qui devraient figurer dans la ”boı̂te à outils” du
+banquier central, sont repassées au premier plan de la réflexion économique.
+D’autre part, la crise des dettes souveraines en zone euro a placé le rôle stabilisateur de la politique
+budgétaire au coeur des débats économiques. Si la politique budgétaire était perçue comme un
+outil essentiel de politique économique au lendemain de la Grande Dépression, le succès (supposé)
+des politiques monétaires fondées sur une cible d’inflation a établi la politique monétaire comme
+l’outil de stablisation le plus approprié pour répondre aux chocs macroéconomiques en présence de
+rigidités nominales. Les doutes portant sur les effets réels de la politique budgétaire (provenant
+essentiellement d’arguments reposant sur des formes d’équivalence ricardienne), ansi que la crainte
+que la politique budgétaire soit essentiellement mue par des considérations politiques de court
+terme – conduisant à des déficits permanents et une augmentation continue du niveau de dette – ont
+
+
+                                                     2
+
+
+restreint le champ de la politique budgétaire à un pourvoyeur de biens publics dont l’implémentation
+doit être lissée autant que possible.
+La crise en zone euro a cependant souligné l’importance pour les Etats membres d’une union
+monétaire d’être en mesure de procéder à des ajustements (internes et externes) pour rétablir
+leur compétitivité à la suite de chocs idiosyncratiques. En effet, les pays appartenant à une zone
+monétaire unifiée, et qui ont donc décidé de fixer leurs taux de change bilatéraux, sont privés de
+la possibilité d’ajuster leur taux de change en réponse à des chocs asymétriques. Une telle marge
+de stabilisation est cependant particulièrement utile pour rééquilibrer (notamment) les termes de
+l’échange et le compte courant. La mise en oeuvre d’outils budgétaires pour répliquer l’utilisation
+d’un taux de change flexible et d’une politique monétaire indépendante est ainsi devenue une
+question politique centrale depuis 2010.
+
+Blanchard conclut ainsi que ”Par bien des aspects, le cadre général de politique économique devrait
+rester le même. Les objectifs finaux demeurent la stabilité de l’inflation et de l’écart de production.
+Cependant, la crise a clairement mis en évidence que les décideurs politiques devaient surveiller de
+nombreux indicateurs, notamment la composition de la production, le comportement des prix des
+actifs, les effets de levier des différents agents. Elle a également souligné que ces mêmes décideurs
+politiques avaient beaucoup plus d’instruments à leur disposition que ceux utilisés avant la crise.
+Le défi consiste aujourd’hui à utiliser ces instruments de manière optimale.” Les essais présentés
+ci-après sont une modeste contribution aux efforts colossaux déployés par les macroéconomistes à
+travers le monde pour faire face à ce défi: renforcer la compréhension de l’utilisation optimale des
+outils de politique économique non conventionnels.
+
+A cette fin, cette thèse est construite en deux parties. Chaque partie vise à explorer au plan
+théorique un ”contexte macroéconomique-type” au sein duquel des outils de politique économique
+non conventionnels ont été employés ces dernières années. La première partie, intitulée ”Politique
+Non Conventionelle Optimale en Economie Ouverte”, analyse l’utilisation optimale d’instruments
+de politique économique non conventionels par une banque centrale en économie ouverte. En
+présence de frictions financières qui modifient la manière dont la politique monétaire affecte l’économie,
+ou en présence de chocs exogènes qui mettent en défaut la ”divine coı̈ncidence”, cette partie décrit
+comment un banquier central devrait combiner un instrument de politique monétaire non conven-
+tionnelle et la politique monétaire conventionnelle à des fins de stabilisation macroéconomique.
+Un exemple microfondé de cette approche générale est ensuite proposé, et décrit l’utilisation
+optimale des interventions de change en économie ouverte, en faisant l’hypothèse que le canal
+d’équilibrage des portefeuilles est effectif. La seconde partie, ”Politique Budgétaire Optimale en
+Union Monétaire”, adopte le point de vue du gouvernement d’un pays situé en union monétaire
+(typiquement la zone euro). Un tel pays ne disposant d’une politique monétaire autonome (au plan
+national), cette partie étudie la possibilité pour un tel pays d’utiliser la politique budgétaire comme
+un outil de stabilisation, et décrit l’utilisation optimale des dévaluations fiscales en réponse à des
+chocs exogènes idiosyncratiques.
+
+Le premier chapitre analyse l’utilisation d’un instrument de politique économique non conven-
+tionelle dans un cadre néokeynesien au sein duquel la ”divine coı̈ncidence” ne s’applique pas. Ce
+chapitre introduit un cadre unifié s’appliquant aux modèles néokeynesiens incluant des outils de
+politique économique non conventionnelle, et énumère plusieurs résultats généraux. Mon travail
+met en évidence le rôle de cet instrument non conventionnel, discute les enjeux de coordination
+entre cet instrument et la politique usuelle fondée sur les taux d’intérêt directeurs. Je présente
+ainsi des résultats théoriques portant sur la détermination des équilibres, les biais d’inflation et
+
+
+                                                     3
+
+
+de stabilisation, ainsi que sur les préférences optimales d’un banquier central disposant de deux
+instruments. Je montre ainsi que l’utilisation d’un instrument de politique économique non con-
+ventionnelle peut aider à réduire la zone d’indétermination des équilibres ainsi que la volatilité de
+l’économie en réponse à un choc réel exogène. Cependant, ce travail souligne que dans certaines
+circonstances, il peut être préférable de la part du banquier central de s’engager à ne pas utiliser
+d’instrument non conventionnel (un résultat dans l’esprit de celui de Rogoff (1985a)). Je caractérise
+enfin les préférences du ”banquier central optimal”, qui doit être à la fois conservateur vis-à-vis de
+l’inflation et interventionniste en utilisant l’instrument de politique monétaire non conventionnelle.
+Si la formation des prix dépend des perspectives d’utilisation d’un instrument non conventionnel,
+le banquier central peut renforcer la crédibilité de son action en utilisant cet instrument de manière
+volontariste.
+
+Le second chapitre propose un exemple microfondé de l’approche générale introduite ci-dessus. Ce
+chapitre décrit ainsi l’utilisation optimale des réserves de changes dans un modèle néokeynesien de
+petite économie ouverte, en supposant que le canal d’équilibrage des portefeuilles est effectif. En sus
+de la politique monétaire conventionnelle (implémentée au moyen de taux directeurs, ou pour les
+banques centrales n’ayant pas adopté un tel pilotage, au moyen d’opérations de crédit domestique),
+la banque centrale utilise des interventions stérilisées sur le marché des changes, qui consistent à
+acheter ou à vendre des devises étrangères, puis à annuler l’impact de ces opérations sur la masse
+monétaire domestique au moyen d’opérations de marché. Ce chapitre met ainsi en évidence l’utilité
+des interventions sur le marché des changes en vue de favoriser la stabilité du taux de change et
+de l’inflation, et plus généralement la stabilité de l’ensemble des grandeurs macroéconomiques en
+réponse à des chocs exogènes sur le premium des bons domestiques. Je montre ainsi comment
+l’utilisation des réserves de change peut aider à réduire la zone d’indétermination des équilibres
+économiques et la possibilité d’attaques spéculatives en présence d’un accélérateur financier sim-
+plifié. En effet, si l’unicité de l’équilibre est assurée dans le cadre néokeynesien classique, je montre
+que la présence d’équilibres multiples est possible en présence d’un accélérateur financier suffisam-
+ment important (de manière semblable aux modèles de troisième génération de crise de balance
+des paiements, cf. Aghion et al. (2000)). Je détermine ainsi les conditions dans lesquelles une telle
+indétermination est possible, et met en évidence la manière dont l’utilisation de réserves de change
+peut renforcer la crédibilité de la banque centrale.
+
+Le troisième chapitre analyse enfin le cas d’un pays situé dans une union monétaire, et qui par
+conséquent ne dispose pas d’une politique monétaire indépendante. En effet, le fameux trilemme de
+Mundell souligne que deux pays ne peuvent opter à la fois mutuellement pour une libre circulation
+des capitaux, un taux de change fixe et une politique monétaire indépendante. Les économies
+avancées, notamment en zone euro, ont fait le choix des deux premières caractéristiques, et par
+conséquent confié la mise en oeuvre de la politique monétaire à une banque centrale. Cependant,
+une politique monétaire et de change indépendante s’avère extrêmement utile pour promouvoir
+des politiques de stabilisation macroéconomique contracycliques. Je considère ainsi un modèle
+standard de petite économie ouverte en change fixe, afin d’étudier les dévaluations fiscales optimales
+en union monétaire. Les seules outils budgétaires disponibles sont la taxe sur la valeur ajoutée
+(TVA) et les cotisations patronales, soumises à une contrainte de neutralité budgétaire. J’étudie à
+la fois les dévaluations fiscales optimales continues et ponctuelles, en réponse à un panel de chocs
+macroéconomiques. Cette analyse propose des résultats sous forme de formules closes, et montre que
+le signe des dévaluations fiscales optimales (dévaluation ou réévaluation fiscale) dépend de la nature
+du choc macroéconomique (offre/demande). Je souligne également que le degré de transmission
+de la politique fiscale sur les prix détermine de manière cruciale la forme des dévaluations fiscales
+
+
+                                                      4
+
+
+optimales, et décris ainsi un arbitrage entre deux canaux de transmission respectivement basé sur
+une stimulation de la consommation ou de la compétitivité. Enfin, je montre que contrairement
+à la plupart des critiques adressées à l’encontre des dévaluations fiscales, les dévaluations fiscales
+optimales (ponctuelles et continues) sont de l’ordre du choc macroéconomique auxquelles elles
+répondent, et sont substantiellement efficaces à des fins de stabilisation macroéconomique.
+
+Bien entendu, de nombreuses questions essentielles en matière d’utilisation optimale des outils
+de politique monétaire non conventionnelle demeurent en suspens, laissant la voie ouverte à des
+travaux futurs. Une extension naturelle, et en cours, des travaux ici présentés est la définition de
+nouveaux objectifs de politique économique à l’issue de la crise financière, et leur intégration dans
+un cadre de politique optimale. Plus précisément, un travail en cours vise à introduire une mesure
+de stabilité financière dans un modèle de politique optimale canonique, et à analyser l’utlisation
+d’outils macroprudentiels dans ce cadre. D’autres travaux théoriques sont également en cours.
+
+
+
+
+                                                    5
+
+
+
+
+Table des matières
+
+Résumé                                                                                                                                    5
+
+
+I    Politique monétaire non conventionnelle optimale en économie ouverte                                                                8
+
+1 Utilisation optimale des outils de politique            monétaire non conventionnelle                                                  9
+  1.1 Résumé . . . . . . . . . . . . . . . . . . . .    . . . . . . . . . . . . . . . . . . . .                              .   .   . 9
+  1.2 Introduction . . . . . . . . . . . . . . . . . .    . . . . . . . . . . . . . . . . . . . .                              .   .   . 9
+  1.3 Principaux résultats . . . . . . . . . . . . .     . . . . . . . . . . . . . . . . . . . .                              .   .   . 11
+  1.4 Conclusion . . . . . . . . . . . . . . . . . .      . . . . . . . . . . . . . . . . . . . .                              .   .   . 11
+
+2 Interventions de change dans         un    modèle néokeynésien                                                                        12
+  2.1 Résumé . . . . . . . . . . .   . .   . . . . . . . . . . . . . .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   12
+  2.2 Introduction . . . . . . . . .   . .   . . . . . . . . . . . . . .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   12
+  2.3 Principaux résultats . . . .    . .   . . . . . . . . . . . . . .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   13
+  2.4 Conclusion . . . . . . . . .     . .   . . . . . . . . . . . . . .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   13
+
+
+II   Politique budgétaire optimale en union monétaire                                                                                    16
+
+3 Politique budgétaire optimale en union monétaire : dévaluation fiscale ou réévaluation
+  fiscale ?                                                                                          17
+  3.1 Résumé . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+  3.2 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+  3.3 Principaux résultats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+  3.4 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+
+
+
+                                                    7
+
+
+               Partie I
+
+      Politique monétaire non
+conventionnelle optimale en économie
+               ouverte
+
+
+
+
+                  8
+
+
+Chapitre 1
+
+Utilisation optimale des outils de
+politique monétaire non
+conventionnelle
+
+1.1     Résumé
+Ce chapitre étudie l’utilisation d’un instrument de politique monétaire non conventionnel dans
+un cadre néokeynésien au sein duquel la ”divine coı̈ncidence” ne s’applique pas. L’objectif de ce
+chapitre est de mettre en évidence le rôle de cet instrument, de discuter sa coordination avec la poli-
+tique de taux d’intérêt usuelle et de présenter des résultats théoriques portant sur la détermination
+de l’équilibre, le biais inflationniste, le biais de stabilisation et les préférences optimales des ban-
+quiers centraux en présence d’un intrument non conventionnel.
+Nous montrons notamment que l’utilisation d’un instrument de politique monétaire non conven-
+tionnel peut aider à réduire la zone dans laquelle des équilibres multiples coexistent, et permet
+également de réduire la volatilité de l’économie. Toutefois, dans certaines circonstances, le fait de
+s’engager à ne pas utiliser cet instrument non conventionel peut accroı̂tre le niveau de bien-être
+collectif (un résultat semblable à Rogoff (1985a)). Nous caractérisons également les préférences
+du banquier central optimal, qui doit être à la fois agressif contre l’inflation et interventionniste
+en matière de politique monétaire non conventionnelle. Tant que la formation des prix dépend
+des anticipations quant aux événements futurs, le banquier central peut renforcer sa crédibilité en
+utilisant tout instrument qui affecte ces anticipations.
+
+
+1.2     Introduction
+Depuis la crise financière mondiale de 2008, les banques centrales du monde entier ont été con-
+traintes de repenser leurs cadres de stabilité monétaire et financière. Les préoccupations relatives à
+la stabilité financière et au risque de déflation ont conduit les banques centrales à utiliser divers in-
+struments de politique économique, des outils macroprudentiels aux opérations de bilan (y compris
+la politique de crédit, l’assouplissement quantitatif et les interventions sur le marché des changes
+pour les pays émergents). En conséquence, les questions qui semblaient résolues sur les objectifs
+appropriés pour la politique monétaire, l’opportunité de cibler le prix des actifs financiers ainsi que
+les instruments qui devraient figurer dans la boı̂te à outils de la banque centrale ont réapparu. Ces
+questions avaient en effet semblé réglées par le succès que les banques centrales ciblant l’inflation
+ont connu au cours de la ’Grande modération’. Dans son ouvrage Interest and Prices, Woodford
+
+                                                     9
+
+
+(2003) affirme par exemple que les banques centrales devraient seulement viser l’inflation du panier
+de biens dont les prix sont les moins fréquemment mis à jour, car la dispersion de ces prix fausserait
+de manière substantielle les prix relatifs1 . D’autre part, la succesion de crises a mis en évidence des
+frictions autres que les rigidités nominales, en particulier celles qui proviennent de l’intermédiation
+financière. Reconnaissant la nécessité d’inclure les frictions financières dans le cadre standard, la
+littérature a étudié la mise en oeuvre d’autres régimes de politique monétaire, en commençant
+par la flexibilisation (Woodford (2012)) pour aller jusqu’à une révision plus radicale (Giavazzi and
+Giovannini (2010)) du ciblage de l’inflation.
+
+Cependant, dans le modèle néokeynésien canonique, le taux d’intérêt directeur usuel est suffisant
+pour stabiliser parfaitement l’économie, puisque la cible d’inflation et l’annulation de l’écart de pro-
+duction coı̈ncident à l’équilibre : c’est la fameuse divine coı̈ncidence (Blanchard and Gali (2007)).
+La politique monétaire optimale consiste alors à indexer le taux d’intérêt réel sur le taux d’intérêt
+naturel2 . Lorsque des frictions sont ajoutées au modèle, cette ’divine coı̈ncidence’ disparaı̂t cepen-
+dant, et la conduite de la politique monétaire devient plus compliquée. De telles frictions peuvent
+par exemple reposer sur des chocs exogènes sous forme réduite (les chocs sur les coûts sont couram-
+ment inclus dans les modèles néokeynésiens). Les banques centrales font alors face à un arbitrage
+entre réduction de la volatilité de la production et réduction de la volatilité de l’inflation (Taylor
+(1979), Clarida et al. (1999)). Des frictions autres que les rigidités nominales peuvent également être
+introduites. Dans les modèles présentant une rigidité des salaires réels, la stabilisation de l’inflation
+et de l’écart de production n’est ainsi pas optimale (Blanchard and Gali (2007)). Par ailleurs, dans
+les modèles où les taux d’intérêt affectent les coûts marginaux, les règles de politique monétaire
+usuelles peuvent conduire à des équilibres multiples (Surico (2008)), et la politique monétaire perd
+en efficacité. D’autres frictions peuvent enfin être envisagées : existence d’un niveau-plancher pour
+les taux d’intérêt (Eggertsson and Woodford (2003)), primes de risque sur les marchés financiers
+internationaux (Farhi and Werning (2013)) ou perturbations dans le processus d’intermédiation
+financière (Curdia and Woodford (2010)).
+
+Dans chacune de ces circonstances, il est naturel de se demander comment un instrument de poli-
+tique monétaire complémentaire et non conventionnel pourrait atténuer les défis auxquels sont
+confrontés les banques centrales. Au sein de la littérature, différents instruments ont été dis-
+cutés selon la nature de la friction : les contrôles des capitaux peuvent agir sur les flux de cap-
+itaux volatils en réponse à des chocs sur les primes de risque (Farhi and Werning (2013)), la
+politique budgétaire peut soutenir la politique monétaire si cette dernière est contrainte (Correia
+et al. (2013)), l’assouplissement quantitatif peut aider à réduire les spreads de crédit qui entravent
+l’intermédiation financière (Curdia and Woodford (2011)), la politique macroprudentielle peut aider
+à modérer l’instabilité financière ou les externalités de la demande globale (par exemple, De Paoli
+and Paustian (2013), Farhi and Werning (2013)). Cette littérature s’est également intéressée à
+la nécessité d’une coordination entre les différents instruments de politique monétaire (Svensson
+(2014)).
+   1
+    Pour cette raison, les prix des actifs qui s’ajustent avec une fréquence élevée ne devraient pas faire partie de la
+mesure de l’inflation qui guide les décisions de politique monétaire.
+  2
+    Le taux d’intérêt qui prévaudrait à l’allocation au sein de laquelle les prix et les salaires sont parfaitement flexibles.
+
+
+
+
+                                                               10
+
+
+1.3     Principaux résultats
+Dans bon nombre de ces références, en dépit de la diversité des circonstances considérées, les
+modèles formels aboutissent souvent à un modèle néokeynésien étendu. Dans le cadre de ce modèle
+étendu, la courbe linéarisée de l’épargne/investissement et la courbe de Phillips sont affectées par
+la ’friction’ et par le nouvel instrument, tandis que (l’approximation quadratique de) la fonction de
+bien-être inclut directement l’instrument de politique non conventionnel (pénalisant généralement
+son utilisation). C’est le problème général que nous étudions.
+
+Notre objectif est de fournir un cadre unifié pour formuler des résultats généraux quant à l’utilisation
+d’instruments non conventionnels de politique monétaire. Nous montrons que des instruments
+non conventionnels peuvent être utiles pour éliminer la possibilité d’équilibre multiples et pour
+réduire les pertes de bien-être après des chocs exogènes ou en présence d’un état d’équilibre sous-
+optimal. Cependant, dans certaines circonstances que nous précisons, s’engager à ne pas utiliser
+l’instrument non conventionnel peut favoriser le niveau de bien-être. Nous montrons également
+que le biais inflationniste et le biais de stabilisation sont atténués si la banque centrale utilise de
+manière interventionniste l’instrument non conventionnel. Enfin, nous caractérisons les préférences
+optimales du gouverneur de la banque centrale dans les cas où les préférences sociétales aboutiraient
+à l’indétermination.
+
+Notre contribution est ainsi de présenter un cadre unificateur, au sein duquel peuvent être intégrés
+de nouveaux modèles keynésiens avec des instruments multiples, et d’obtenir des résultats généraux
+applicables à une large variété de modèles.
+
+
+1.4     Conclusion
+L’objectif de cet article est de contribuer à la littérature récente portant sur la détermination des
+instruments et des objectifs pertinents dans un modèle de politique monétaire discrétionnaire rela-
+tivement général (mais tractable). Nous étudions ainsi comment certains des principaux résultats
+de la littérature sur la politique monétaire (détermination de l’équilibre, biais inflationniste, biais
+discrétionnaire, banquier central conservateur) s’étendent lorsque des instruments supplémentaires
+sont disponibles. Nous montrons ainsi que des instruments non conventionnels peuvent être utiles
+pour favoriser la détermination de l’équilibre et réduire la volatilité de l’économie en présence de
+chocs exogènes, bien que sous certains paramétrages spécifiques, il soit préférable de s’engager à ne
+pas utiliser un instrument non conventionnel.
+
+Nous tâchons également d’étudier si l’intuition du banquier central conservateur de Rogoff (1985b)
+s’étend dans le contexte d’un modèle avec plusieurs instruments. Nous montrons ainsi que si
+l’utilisation future de l’instrument non conventionnel a un impact substantiel sur le niveau d’inflation
+présent, alors le banquier central optimal est plus interventionniste avec l’instrument non conven-
+tionnel que ce que les préférences sociales impliqueraient. Enfin, nous analysons comment un
+banquier central pourrait réduire le risque d’indétermination de l’équilibre de l’allocation.
+
+Puisque les implications concrètes de ces résultats théoriques dépendent des coefficients qui paramètrent
+les effets des instruments actuels et futurs, nous pensons qu’il sera intéressant pour la littérature
+empirique d’approfondir la forme de la courbe de Phillips et l’incidence des instruments non con-
+ventionnels dans l’activité économique.
+
+
+                                                     11
+
+
+Chapitre 2
+
+Interventions de change dans un
+modèle néokeynésien
+
+2.1     Résumé
+Nous développons un modèle néokeynésien en économie ouverte pour étudier le rôle des interven-
+tions de change en présence d’un mécanisme d’accélérateur financier. Nous décrivons d’abord la
+politique discrétionnaire optimale suite à des chocs sur les primes de risque souverain sur les marchés
+financiers internationaux, et expliquons comment les interventions de change peuvent contribuer à
+réduire la volatilité de l’économie et les pertes de bien-être suite à de tels chocs. Nous montrons
+ensuite comment les interventions de change peuvent aider à réduire la zone d’indétermination de
+l’équilibre, que nous interprétons comme la zone où les attaques spéculatives sont possibles. En ef-
+fet, bien que l’équilibre soit unique dans le cadre du modèle néokeynésien canonique, des équilibres
+multiples peuvent apparaı̂tre en présence d’un accélérateur financier suffisamment fort (ce résultat
+est semblable à celui des modèles de crise de la troisième génération, voir par exemple Aghion
+et al. (2000)). Nous décrivons enfin les conditions dans lesquelles l’indétermination se produit,
+et soulignons comment l’utilisation des interventions de change peut renforcer la crédibilité de la
+banque centrale et limiter ce risque d’indétermination.
+
+
+2.2     Introduction
+La libéralisation des comptes de capital et la mobilité croissante des capitaux au cours des trente
+dernières années ont rendu la gestion des taux de change de plus en plus difficile. Le trilemme
+mundellien - l’impossibilité théorique de fixer le taux de change et de maintenir l’autonomie
+monétaire lorsque le compte de capital est ouvert - est de fait devenu plus aigu au fil de la sup-
+pression des restrictions à la mobilité des capitaux, alors même qu’un grand nombre de banques
+centrales ont maintenu en parallèle un objectif de stabilité des taux de change. Ainsi, même les
+pays qui ont adopté un taux de change flexible ont constaté que les conditions de financement ont
+tendance à être dictées par les conditions globales (en particulier la politique monétaire américaine
+et l’aversion pour le risque), conduisant Rey (2015) à se référer au dilemme de l’économie ouverte
+(ouverture du compte de capital vs. politique monétaire indépendante), par opposition au trilemme
+mundellien.
+
+Les contrôles de capitaux ont ainsi été envisagés comme une réponse possible à ce dilemme, et ont
+notamment attiré l’intérêt des chercheurs et des institutions internationales (par exemple Korinek
+
+
+                                                   12
+
+
+(2011), Ostry et al. (2011), IMF (2012)). En pratique, les deux principaux instruments couramment
+utilisés par les banques centrales des petites économies ouvertes pour influencer les conditions de
+crédit demeurent cependant les opérations monétaires conventionnelles1 et les opérations de bilan2 .
+
+Bien que la réticence à laisser librement fluctuer les taux de change soit plus facilement attribuée
+aux banques centrales des économies émergentes, qui manquent de crédibilité ou s’inquiètent de
+possibles dépréciation ou appréciation excessives, elle peut également exister au sein des économies
+avancées. En particulier, après la crise financière mondiale, plusieurs banques centrales d’économies
+avancées ont, au moins à l’occasion, considéré que le taux de change pouvait être utilisé comme un
+instrument de politique monétaire, ou que les mouvements de la valeur de leur monnaie n’étaient
+pas liés aux fondamentaux et avaient besoin d’être stabilisés. Les cas récents de la République
+Tchèque et de la Suisse sont ainsi instructifs, puisqu’ils fournissent des exemples d’intervention de
+change afin de stabiliser l’inflation en présence de chocs réels (en République tchèque), ou pour
+limiter le risque d’anticipations de mouvements autoréalisatrices (en Suisse).
+
+
+2.3      Principaux résultats
+L’objectif de ce chapitre est d’étudier le rôle des interventions de change en tant qu’outil visant à
+favoriser la stabilité des taux de change, la stabilité de l’inflation et plus généralement la stabilité
+macroéconomique lorsque la politique monétaire conventionnelle est insuffisante. Dans les modèles
+néokeynésiens standards (par exemple, Gali and Monacelli (2005)), le taux d’intérêt de politique
+monétaire conventionnel est suffisant pour stabiliser parfaitement l’économie, puisque les deux
+objectifs d’inflation stable et d’écart de production nul coı̈ncident (la ’divine coı̈ncidence’). Cepen-
+dant, en présence de frictions supplémentaires, la divine coı̈ncidence n’est plus valable, fournissant
+ainsi une justification en faveur de l’utilisation d’outils supplémentaires tels que les interventions
+de change.
+
+Nous développons un modèle néokeynésien en économie ouverte pour étudier le rôle des inter-
+ventions de change en présence d’un mécanisme d’accélérateur financier. Nous décrivons d’abord la
+politique discrétionnaire optimale suite à des chocs sur les primes de risque souverain sur les marchés
+financiers internationaux, et expliquons comment les interventions de change peuvent contribuer à
+réduire la volatilité de l’économie et les pertes de bien-être suite à de tels chocs. Nous montrons
+ensuite comment les interventions de change peuvent aider à réduire la zone d’indétermination de
+l’équilibre, que nous interprétons comme la zone où les attaques spéculatives sont possibles. Nous
+décrivons enfin les conditions dans lesquelles l’indétermination se produit, et soulignons comment
+l’utilisation des interventions de change peut renforcer la crédibilité de la banque centrale et limiter
+ce risque d’indétermination.
+
+
+2.4      Conclusion
+Bien que les travaux empiriques aient parfois été sceptiques quant à la capacité des banques cen-
+trales à influencer les taux de change, ces mêmes banques centrales utilisent souvent leurs réserves
+   1
+      Le taux directeur, ou pour les banques centrales qui ne sont pas encore orientées vers le ciblage des taux d’intérêt,
+les opérations de crédit intérieures.
+    2
+      Principalement sous la forme d’interventions de change stérilisées, qui consistent à acheter ou à vendre des
+devises, mais à compenser tout effet qui en résulte sur la masse monétaire et le taux d’intérêt par le biais des
+opérations effectuées aux conditions de marché.
+
+
+
+                                                             13
+
+
+dans l’espoir que les interventions de change peuvent être utilisées comme un deuxième instrument
+de politique monétaire. En particulier, il est probable que les interventions de change aient un
+effet dans les économies ouvertes avec des marchés de dette ou des marchés de change de taille
+réduite. Nonobstant les limitations susmentionnées des interventions de change, il est ainsi naturel
+d’étudier comment ces interventions peuvent interagir avec la politique conventionnelle de taux
+d’intérêt, et en particulier (i) si elles aident à stabiliser l’économie suite aux chocs exogènes liés aux
+flux de capitaux internationaux et (ii) si elles permettent de limiter les mouvements de changes
+auto-réalisateurs.
+
+Pour justifier l’utilisation d’un second instrument de politique monétaire, nous étendons le modèle
+néokeynésien en ajoutant des ’frictions’ au modèle canonique, puisque, selon le principe de Tin-
+bergen, deux instruments ne sont nécessaires que s’il y a au moins deux frictions. Aux rigidités
+nominales qui justifient le rôle de la politique monétaire dans le modèle néokeynésien, nous ajoutons
+ainsi une friction financière et des chocs sur la parité des taux d’intérêt non couverte.
+
+Un tel choc de prime de risque souverain affecte la consommation intérieure et annule la divine
+coı̈ncidence. Nous montrons ainsi que les interventions de change des banques centrales aident à
+stabiliser l’allocation domestique suite à un tel choc, et que ces interventions sont particulièrement
+efficaces pour stabiliser la consommation intérieure, le taux de change et la balance commerciale.
+Nous montrons également que les interventions de change sont efficaces du point de vue du bien-
+être collectif, et peuvent atténuer les pertes de bien-être suite à un choc de prime de risque souverain.
+
+Nous constatons enfin que les mouvements de change auto-réalisateurs sont possibles dans un
+modèle néokeynésien avec des frictions financières, à l’instar des modèles d’attaque spéculatives à
+la Aghion et al. (2000). Nous montrons que dans cette situation, la capacité de la banque centrale à
+utiliser les interventions de change réduit la zone au sein de laquelle peuvent coexister des équilibres
+multiples. Si les interventions de change sont très efficaces, ou si une banque centrale est désireuse
+d’intervenir de manière volontariste sur le marché des changes, cette banque centrale peut exclure
+l’existence d’équilibres multiples, même si elle n’est pas perçue comme suffisamment active avec la
+politique monétaire conventionnelle.
+
+
+
+
+                                                      14
+
+
+
+
+            Partie II
+
+Politique budgétaire optimale en
+        union monétaire
+
+
+
+
+                16
+
+
+Chapitre 3
+
+Politique budgétaire optimale en
+union monétaire : dévaluation fiscale
+ou réévaluation fiscale ?
+
+3.1     Résumé
+Nous considérons un modèle standard de petite économie ouverte avec un taux de change fixe
+pour étudier la politique fiscale optimale au sein d’une union monétaire. Les seuls outils fiscaux
+disponibles pour le gouvernement sont la taxe sur la valeur ajoutée (TVA) et les cotisations pa-
+tronales sur les salaires, sous réserve d’une contrainte de neutralité budgétaire. Nous étudions à la
+fois la politique fiscale optimale en temps continu et la politique fiscale optimale permanente, en
+réponse à divers chocs macroéconomiques.
+En premier lieu, nous montrons que la politique fiscale optimale est déterminée par un arbitrage en-
+tre deux canaux, respectivement basé sur une stimulation de la consommation/de la compétitivité,
+dont l’importance respective dépend du niveau de transmission des changements de fiscalité vers
+les prix de production. Ces deux canaux appellent respectivement une réduction de la TVA/des
+cotisation patronales au sein de la réponse optimale en temps continu. Cependant, seul le canal
+de compétitivité importe pour les dévaluations fiscales permanentes : un choc négatif de demande
+devrait être suivi d’une baisse permanente des cotisations patronales. Ensuite, nous montrons que
+le signe de la politique fiscale optimale en temps continu (et donc le canal dominant) dépend de la
+nature du choc macroéconomique (demande/offre). Suite à un choc de demande négatif et sous des
+hypothèses plausibles de transmission des changements de fiscalité, il est optimal de réduire la TVA
+à court terme pour soutenir la consommation intérieure, reproduisant ainsi une réévaluation fiscale.
+Enfin, et contrairement aux principales critiques à l’encontre des dévaluations fiscales, nous consta-
+tons que les dévaluations fiscales optimales (en temps continu ou permanentes) sont du même ordre
+de grandeur que les chocs macroéconomiques auxquelles elles répondent, et sont substantiellement
+efficaces du point de vue du bien-être collectif pour absorber l’impact du choc macroéconomique.
+
+
+3.2     Introduction
+La politique monétaire est généralement considérée comme l’outil de stabilisation le plus appro-
+prié pour répondre aux chocs macroéconomiques en présence de rigidités nominales. Cependant,
+les pays qui appartiennent à une union monétaire, et qui décident de ce fait de fixer leurs taux
+de change bilatéraux, sont privés de la possibilité de mettre en oeuvre un tel ajustement suite à
+
+                                                   17
+
+
+des chocs asymétriques. En effet, le trilemme bien connu de Mundell énonce qu’un pays ne peut
+pas simultanément avoir une libre circulation des capitaux, un taux de change fixe et une poli-
+tique monétaire indépendante. Les économies avancées, notamment au sein de la zone euro, ont
+favorisé les deux premiers degrés de liberté, se privant ainsi d’une politique monétaire/de change
+indépendante. Une telle marge de manoeuvre peut cependant être utile. Les membres d’une union
+monétaire sont en effet confrontés à l’impossibilité de mettre en oeuvre des politiques monétaires
+et de change contracycliques afin de promouvoir la stabilité macroéconomique. La crise actuelle
+au sein de la zone euro a ainsi fortement mis en lumière la nécessité pour les Etats membres de
+procéder à des ajustements internes/externes, afin de rétablir leur compétitivité en réponse à des
+chocs idiosyncratiques.
+
+L’utilisation d’outils fiscaux pour reproduire les effets d’un taux de change flexible ou d’une poli-
+tique monétaire indépendante est ainsi devenue une question de politique économique cruciale,
+notamment en zone euro ces dernières années. L’Allemagne a, par exemple, mis en oeuvre une
+’dévaluation fiscale’ en 20071 , avant le début de la crise financière internationale. Quelques années
+plus tard et au beau milieu de la crise des dettes souveraines en zone euro, la France a procédé
+à des réductions successives des cotisations patronales sur le travail, notamment le Crédit Impôt
+Compétitivité Emploi depuis 2013, afin de stimuler son économie domestique. Les gouvernements
+de la zone euro ont ainsi eu généralement tendance à diminuer les cotisation patronales sur les
+salaires ces dernières années, compensant parfois la perte fiscale engendrée par une augmentation
+de la TVA. Toutefois, cette politique a été fortement contestée, notamment par les ’opposants à
+l’austérité’, en soutenant qu’une telle réforme fiscale réduirait la consommation et aurait un impact
+récessif. L’utilisation appropriée de la politique fiscale en fonction de la conjoncture économique
+est ainsi devenue l’une des questions de politique économique les plus controversées de ces dernières
+années en zone euro, ce qui appelle une réévaluation du rôle de la politique budgétaire à la lumière
+des récentes crises économiques et financières.
+
+La possibilité d’utiliser la politique fiscale pour reproduire les mouvements du taux de change a
+cependant été largement discutée au sein de la littérature économique2 . L’approche traditionnelle
+consiste ainsi à analyser comment les dévaluations du taux de change peuvent être reproduites avec
+des instruments fiscaux : la politique fiscale optimale peut ensuite être explicitement déduite à l’aide
+des résultats canoniques de politique monétaire. Cependant, moins d’efforts ont été consacrés à
+évaluer directement les caractéristiques de la politique fiscale optimale, dans le cadre de schémas
+fiscaux réalistes et en fonction des circonstances macroéconomiques. La politique fiscale optimale à
+mettre en œuvre en réponse à un choc macroéconomique donné demeure ainsi encore une question
+ouverte.
+
+
+3.3      Principaux résultats
+Notre contribution vise à revisiter la littérature existante au sujet des dévaluations fiscales à la
+lumière des expériences récentes en zone euro. Nous souhaitons apprécier comment les dévaluations
+fiscales peuvent aider un pays membre d’une union monétaire à retrouver une marge de stabilisation
+et à faciliter sa trajectoire d’ajustement suite à des chocs exogènes. Nous décrivons ainsi les
+   1
+     Le taux de la TVA a été relevé de 3 points, tandis que les cotisations patronales ont diminué de 1,3 point, cf.
+Bernoth and al. (2014)
+   2
+     Keynes a initié cette tradition, en arguant en 1931 qu’une taxe uniforme ad valorem sur toutes les importations,
+couplé à une subvention uniforme pour tous les exportations, aurait un effet semblable à celui d’une dévaluation
+monétaire (cf. Farhi et al. (2013))
+
+
+                                                          18
+
+
+dévaluations fiscales optimales à la suite de chocs exogènes, dans un modèle d’économie ouverte
+néokeynésien usuel à taux de change fixe. Les seuls outils fiscaux que nous utilisons sont la TVA
+et les cotisations patronales, sous réserve d’une contrainte de neutralité budgétaire.
+Nous caractérisons le signe, la taille et l’efficacité des dévaluations fiscales optimales dans un cadre
+de politique économique optimale linéarisé. Cette configuration est proche de celle introduite
+par Gali and Monacelli (2005) et étendue dans Farhi and Werning (2012). En microfondant les
+effets de la politique fiscale, nous mettons en évidence des coûts en termes de bien-être et des
+dynamiques endogènes, qui nous permettent de définir la réponse fiscale optimale en fonction du
+choc macroéconomique exogène.
+
+En premier lieu, nous montrons que la politique fiscale optimale est déterminée par un arbitrage en-
+tre deux canaux, respectivement basé sur une stimulation de la consommation et de la compétitivité,
+dont la force respective dépend de la transmission des changements de fiscalité sur les prix de pro-
+duction. Ces deux canaux appellent respectivement une réduction de la TVA/des charges patronales
+au sein de la réponse fiscale optimale. Cependant, seul le canal de compétitivité importe dans le
+cadre des dévaluations fiscales permanentes (changement de fiscalité une fois pour toutes à t = 0)
+: un choc négatif de demande devrait ainsi être suivi d’une baisse permanente des cotisations
+patronales.
+Ensuite, nous montrons que le signe de la politique fiscale optimale (et donc le canal dominant)
+dépend de la nature du choc macroéconomique considéré (demande/offre). Après un choc de
+demande négatif et sous des hypothèses plausibles de répercussions fiscales, il est optimal de réduire
+la TVA à court terme pour soutenir la consommation intérieure, reproduisant ainsi les effets d’une
+réévaluation fiscale.
+Enfin, contrairement aux principales critiques à l’encontre des dévaluations fiscales et aux vues
+traditionnelles alimentées par plusieurs travaux numériques antérieurs, nous constatons que les
+dévaluations fiscales optimales (à la fois variables et permanentes) sont du même ordre de grandeur
+que le choc macroéconomique considéré, et substantiellement efficaces du point de vue du bien-être
+collectif pour compenser l’impact du choc macroéconomique.
+
+
+3.4     Conclusion
+Ce chapitre décrit les dévaluations fiscales optimales basées sur la TVA et les cotisations patronales
+pour les pays situés dans une union monétaire. Notre approche microfondée et normative nous
+permet d’obtenir trois principaux résultats.
+
+Tout d’abord, le signe de la dévaluation fiscale optimale est déterminé par la nature du choc
+macroéconomique (demande/offre). A la suite d’un choc de demande négatif, il est optimal de
+réduire la TVA à court terme, ce qui entraı̂ne une réévaluation fiscale visant à soutenir la consom-
+mation intérieure : un déficit commercial et un écart dse production négatif n’appellent pas une
+augmentation de la TVA de manière générale.
+Ensuite, la transmission de la fiscalité vers les prix de production est déterminante en matière
+de dévaluations fiscales optimales. Deux canaux sont mis en évidence, reposant respectivement
+sur une stimulation de la consommation/compétitivité. Nous proposons une formule intuitive et
+transparente pour définir ces canaux, et montrons que le canal de la consommation prévaut en
+matière de politique optimale jusqu’à ce que les prix soient suffisamment ajustés. Nous montrons
+également que seul le canal de la compétitivité importe pour les dévaluations fiscales permantenes.
+Cependant, ce dernier résultat repose fortement sur la crédibilité des autorités fiscales, qui doivent
+s’engager à changer le taux de TVA une fois pour toutes en réponse à un choc donné.
+
+                                                    19
+
+
+Troisièmement, et contrairement à une vision relativement partagée et alimentée par des travaux
+quantitatifs antérieurs, notre approche de politique optimale souligne que les dévaluations fiscales
+optimales (à la fois variables et permanentes) sont du même ordre de grandeur que les chocs
+macroéconomiques, et efficaces pour retrouver des marges de stabilisation.
+
+Une limite de notre analyse est sa calibration, qui limite notamment la valeur de l’aversion au risque.
+Cependant, nous avons montré comment les paramètres contraints affectent l’arbitrage entre la
+stabilisation de la production et les effets distorsifs de la politique budgétaire. Un article ultérieur
+décrira de manière quantitative les dévaluations fiscales optimales sans contrainte de calibration,
+et montrera que les résultats obtenus ici sur le signe, la taille et l’efficacité des dévaluations fiscales
+sont valables pour une calibration plus générale. Enfin, notre analyse ne tient pas compte des
+enjeux de coordination des dévaluations fiscales, si plusieurs pays les mettent simultanément en
+oeuvre au sein d’une union monétaire. Nous examinerons également ces enjeux de coordination
+dans l’article à venir.
+
+
+
+
+                                                     20
+
+
+Bibliography
+
+Aghion, P., Bacchetta, P., and Banerjee, A. (2000). A simple model of monetary policy and currency
+ crises. European Economic Review, 44.
+
+Bernanke, B. S. (2004). The great moderation.
+
+Bernoth, K. and al. (2014). Fiscal devaluation: Economic stimulus for crisis countries in the euro
+  area. DIW Economic Bulletin, 4(10).
+
+Blanchard, Olivier, D. G. and Paolo, M. (2010). Rethinking macroeconomic policy. IMF Staff
+  Position Note, page SPN/10/03.
+
+Blanchard, O. and Gali, J. (2007). Real Wage Rigidities and the New Keynesian Model. Journal
+  of Money, Credit and Banking, 39:35–65.
+
+Clarida, R., Gali, J., and Gertler, M. (1999). The Science of Monetary Policy: A New Keynesian
+  Perspective. Journal of Economic Literature, 37(4):1661–1707.
+
+Correia, I., Farhi, E., Nicolini, J. P., and Teles, P. (2013). Unconventional Fiscal Policy at the Zero
+  Bound. American Economic Review, 103(4):1172–1211.
+
+Curdia, V. and Woodford, M. (2010). Credit Spreads and Monetary Policy. Journal of Money,
+ Credit and Banking, 42:3–35.
+
+Curdia, V. and Woodford, M. (2011). The central-bank balance sheet as an instrument of mone-
+ tarypolicy. Journal of Monetary Economics, 58(1):54–79.
+
+De Paoli, B. and Paustian, M. (2013). Coordinating monetary and macroprudential policies. Federal
+  Reserve Bank of New York, Staff Reports, pages 11–22.
+
+Eggertsson, G. B. and Woodford, M. (2003). Zero Bound on Interest Rates and Optimal Monetary
+  Policy. Brookings Papers on Economic Activity, 2003(1):139–233.
+
+Farhi, E., Gopinath, G., and Itskhoki, O. (2013). Fiscal devaluations. Review of Economic Studies.
+
+Farhi, E. and Werning, I. (2012). Dealing with the Trilemma: Optimal Capital Controls with Fixed
+  Exchange Rates.
+
+Farhi, E. and Werning, I. (2013). A Theory of Macroprudential Policies in the Presence of Nominal
+  Rigidities. Working Paper 19313, National Bureau of Economic Research.
+
+Farhi, E. and Werning, I. (2013). Dilemma not Trilemma? Capital Controls and Exchange Rates
+  with Volatile Capital Flows.
+
+
+                                                  21
+
+
+Gali, J. and Monacelli, T. (2005). Monetary Policy and Exchange Rate Volatility in a Small Open
+ Economy. Review of Economic Studies, 72(3):707–734.
+
+Giavazzi, F. and Giovannini, A. (2010). The low-interest-rate trap.
+
+IMF (2012). The liberalization and management of capital flows: An institutional view. Technical
+  report, International Monetary Fund.
+
+Korinek, A. (2011). The new economics of prudential capital controls: A research agenda. IMF
+ Economic Review, 59(3):523–561.
+
+Ostry, J. D., Ghosh, A. R., Chamon, M., and Qureshi, M. S. (2011). Capital controls: When and
+  why? IMF Economic Review, 59(3):562–580.
+
+Reinhart, C. and Calvo, G. (2002).     Fear of floating.   The Quarterly Journal of Economics,
+  117(2):379–408.
+
+Rey, H. (2015). Dilemma not trilemma: the global financial cycle and monetary policy indepen-
+  dence. NBER Working Paper.
+
+Rogoff, K. (1985a). Can international monetary policy cooperation be counterproductive? Journal
+  of International Economics, 18(3-4):199–217.
+
+Rogoff, K. (1985b). The Optimal Degree of Commitment to an Intermediate Monetary Target. The
+  Quarterly Journal of Economics, 100(4):1169–1189.
+
+Surico, P. (2008). The Cost Channel of Monetary Policy and Indeterminacy. Macroeconomic
+  Dynamics, 12(5):724–735.
+
+Svensson, L. E. (2014). Inflation targeting and leaning against the wind. International Journal of
+  Central Banking, 10(2):103–114.
+
+Taylor, J. B. (1979). Estimation and Control of a Macroeconomic Model with Rational Expecta-
+  tions. Econometrica, 47(5):1267–1286.
+
+Woodford, M. (2003). Interest and Prices: Foundations of a Theory of Monetary Policy. Princeton
+ University Press.
+
+Woodford, M. (2012). Inflation Targeting and Financial Stability. NBER Working Paper, (17967).
+
+
+
+
+                                               22
+
